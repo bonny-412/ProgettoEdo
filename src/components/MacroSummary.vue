@@ -1,15 +1,7 @@
 <script setup lang="ts">
-/**
- * MacroSummary — 4 card con kcal/proteine/carboidrati/grassi del giorno.
- * Le barre di progresso usano obiettivi proporzionali al target kcal:
- *   - proteine: 1.2 g/kcal × peso target (qui semplificato con obiettivo 25% kcal/4)
- *   - carbo:    50% kcal / 4
- *   - grassi:   30% kcal / 9
- * Sono indicatori visivi, non valori clinici prescrittivi.
- */
 import { computed } from 'vue'
 import { useWeekPlan } from '@/composables/useWeekPlan'
-import { formatKcal, percentOf, round0 } from '@/utils/nutrition'
+import { formatKcal, percentOf, round0, round1, extendedForFood } from '@/utils/nutrition'
 
 const plan = useWeekPlan()
 
@@ -17,32 +9,38 @@ const macros = computed(() => {
   const t = plan.dailyTotals.value
   const obiettivo = plan.patient.value.obiettivoKcal || 0
 
-  // Target macro (semplificati): 25% proteine, 50% carbo, 25% grassi
-  const targetProt = (obiettivo * 0.25) / 4
-  const targetCarbs = (obiettivo * 0.5) / 4
-  const targetFats = (obiettivo * 0.25) / 9
+  const targetProt  = (obiettivo * 0.25) / 4
+  const targetCarbs = (obiettivo * 0.5)  / 4
+  const targetFats  = (obiettivo * 0.25) / 9
 
   return {
-    kcal: {
-      value: t.kcal,
-      target: obiettivo,
-      percent: percentOf(t.kcal, obiettivo)
-    },
-    proteine: {
-      value: t.proteine,
-      target: targetProt,
-      percent: percentOf(t.proteine, targetProt)
-    },
-    carboidrati: {
-      value: t.carboidrati,
-      target: targetCarbs,
-      percent: percentOf(t.carboidrati, targetCarbs)
-    },
-    grassi: {
-      value: t.grassi,
-      target: targetFats,
-      percent: percentOf(t.grassi, targetFats)
+    kcal:        { value: t.kcal,        target: obiettivo,    percent: percentOf(t.kcal,        obiettivo)    },
+    proteine:    { value: t.proteine,    target: targetProt,   percent: percentOf(t.proteine,    targetProt)   },
+    carboidrati: { value: t.carboidrati, target: targetCarbs,  percent: percentOf(t.carboidrati, targetCarbs)  },
+    grassi:      { value: t.grassi,      target: targetFats,   percent: percentOf(t.grassi,      targetFats)   }
+  }
+})
+
+const extra = computed(() => {
+  let zuccheri = 0, fibra = 0, ferro = 0, calcio = 0
+  let hasZuccheri = false, hasFibra = false, hasFerro = false, hasCalcio = false
+
+  for (const meal of plan.currentDay.value.meals) {
+    for (const food of meal.alimenti) {
+      const e = extendedForFood(food)
+      if (e.zuccheri != null) { zuccheri += e.zuccheri; hasZuccheri = true }
+      if (e.fibra    != null) { fibra    += e.fibra;    hasFibra    = true }
+      if (e.ferro    != null) { ferro    += e.ferro;    hasFerro    = true }
+      if (e.calcio   != null) { calcio   += e.calcio;   hasCalcio   = true }
     }
+  }
+
+  const targetFibra = 25
+  return {
+    zuccheri: { value: hasZuccheri ? zuccheri : null },
+    fibra:    { value: hasFibra    ? fibra    : null, percent: hasFibra ? percentOf(fibra, targetFibra) : 0 },
+    ferro:    { value: hasFerro    ? ferro    : null },
+    calcio:   { value: hasCalcio   ? calcio   : null }
   }
 })
 </script>
@@ -52,14 +50,10 @@ const macros = computed(() => {
     <div class="macro-card kcal">
       <div class="macro-card-label">ENERGIA</div>
       <div class="macro-card-value tabular">
-        {{ formatKcal(macros.kcal.value)
-        }}<span class="macro-card-unit">kcal</span>
+        {{ formatKcal(macros.kcal.value) }}<span class="macro-card-unit">kcal</span>
       </div>
       <div class="macro-progress">
-        <div
-          class="macro-progress-fill fill-green"
-          :style="{ width: macros.kcal.percent + '%' }"
-        />
+        <div class="macro-progress-fill fill-green" :style="{ width: macros.kcal.percent + '%' }" />
       </div>
     </div>
 
@@ -69,10 +63,7 @@ const macros = computed(() => {
         {{ round0(macros.proteine.value) }}<span class="macro-card-unit">g</span>
       </div>
       <div class="macro-progress">
-        <div
-          class="macro-progress-fill fill-red"
-          :style="{ width: macros.proteine.percent + '%' }"
-        />
+        <div class="macro-progress-fill fill-red" :style="{ width: macros.proteine.percent + '%' }" />
       </div>
     </div>
 
@@ -82,10 +73,7 @@ const macros = computed(() => {
         {{ round0(macros.carboidrati.value) }}<span class="macro-card-unit">g</span>
       </div>
       <div class="macro-progress">
-        <div
-          class="macro-progress-fill fill-amber"
-          :style="{ width: macros.carboidrati.percent + '%' }"
-        />
+        <div class="macro-progress-fill fill-amber" :style="{ width: macros.carboidrati.percent + '%' }" />
       </div>
     </div>
 
@@ -95,10 +83,50 @@ const macros = computed(() => {
         {{ round0(macros.grassi.value) }}<span class="macro-card-unit">g</span>
       </div>
       <div class="macro-progress">
-        <div
-          class="macro-progress-fill fill-blue"
-          :style="{ width: macros.grassi.percent + '%' }"
-        />
+        <div class="macro-progress-fill fill-blue" :style="{ width: macros.grassi.percent + '%' }" />
+      </div>
+    </div>
+
+    <div class="macro-card macro-card--sm">
+      <div class="macro-card-label">ZUCCHERI</div>
+      <div class="macro-card-value macro-card-value--sm tabular">
+        <template v-if="extra.zuccheri.value != null">
+          {{ round1(extra.zuccheri.value) }}<span class="macro-card-unit">g</span>
+        </template>
+        <span v-else class="macro-card-na">—</span>
+      </div>
+    </div>
+
+    <div class="macro-card macro-card--sm">
+      <div class="macro-card-label">FIBRA</div>
+      <div class="macro-card-value macro-card-value--sm tabular">
+        <template v-if="extra.fibra.value != null">
+          {{ round1(extra.fibra.value) }}<span class="macro-card-unit">g</span>
+        </template>
+        <span v-else class="macro-card-na">—</span>
+      </div>
+      <div v-if="extra.fibra.value != null" class="macro-progress">
+        <div class="macro-progress-fill fill-teal" :style="{ width: extra.fibra.percent + '%' }" />
+      </div>
+    </div>
+
+    <div class="macro-card macro-card--sm">
+      <div class="macro-card-label">FERRO</div>
+      <div class="macro-card-value macro-card-value--sm tabular">
+        <template v-if="extra.ferro.value != null">
+          {{ round1(extra.ferro.value) }}<span class="macro-card-unit">mg</span>
+        </template>
+        <span v-else class="macro-card-na">—</span>
+      </div>
+    </div>
+
+    <div class="macro-card macro-card--sm">
+      <div class="macro-card-label">CALCIO</div>
+      <div class="macro-card-value macro-card-value--sm tabular">
+        <template v-if="extra.calcio.value != null">
+          {{ round0(extra.calcio.value) }}<span class="macro-card-unit">mg</span>
+        </template>
+        <span v-else class="macro-card-na">—</span>
       </div>
     </div>
   </section>
@@ -108,7 +136,7 @@ const macros = computed(() => {
 .macro-summary {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
+  gap: 10px;
 }
 
 .macro-card {
@@ -116,6 +144,10 @@ const macros = computed(() => {
   border: 1px solid #ebebeb;
   border-radius: var(--radius-md);
   padding: 12px 14px;
+}
+
+.macro-card--sm {
+  padding: 9px 12px;
 }
 
 .macro-card-label {
@@ -132,10 +164,19 @@ const macros = computed(() => {
   line-height: 1;
 }
 
+.macro-card-value--sm {
+  font-size: 16px;
+}
+
 .macro-card-unit {
   font-size: 11px;
   color: var(--gray-500);
   margin-left: 2px;
+}
+
+.macro-card-na {
+  font-size: 14px;
+  color: var(--gray-300);
 }
 
 .macro-card.kcal .macro-card-value {
@@ -160,17 +201,16 @@ const macros = computed(() => {
 .fill-amber { background: var(--amber); }
 .fill-blue  { background: var(--blue); }
 .fill-red   { background: var(--red); }
+.fill-teal  { background: #0d9488; }
 
 @media (max-width: 720px) {
   .macro-summary {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 8px;
   }
-  .macro-card {
-    padding: 10px 12px;
-  }
-  .macro-card-value {
-    font-size: 18px;
-  }
+  .macro-card { padding: 10px 12px; }
+  .macro-card--sm { padding: 8px 10px; }
+  .macro-card-value { font-size: 18px; }
+  .macro-card-value--sm { font-size: 15px; }
 }
 </style>

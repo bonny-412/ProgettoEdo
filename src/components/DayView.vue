@@ -49,7 +49,7 @@ function onAddMeal(): void {
 }
 
 .content-inner {
-  max-width: 1100px;
+  max-width: 95%;
   margin: 0 auto;
   padding: 22px 28px calc(32px + env(safe-area-inset-bottom, 0px));
   display: flex;

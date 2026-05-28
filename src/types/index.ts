@@ -21,6 +21,10 @@ export interface NutritionPer100g {
   proteine: number
   carboidrati: number
   grassi: number
+  zuccheri?: number
+  fibra?: number
+  ferro?: number    // mg
+  calcio?: number   // mg
 }
 
 /** Alimento contenuto in un pasto (con quantità in grammi). */
@@ -93,7 +97,15 @@ export interface FoodDetail {
     alcol?: number
     colesterolo_mg?: number
   }
-  // Campi opzionali ulteriori (minerali, zuccheri, ecc.) sono ignorati
+  minerali?: {
+    ferro_mg?: number
+    calcio_mg?: number
+  }
+  zuccheri?: {
+    glucosio_g?: number
+    fruttosio_g?: number
+    galattosio_g?: number
+  }
   [extra: string]: unknown
 }
 

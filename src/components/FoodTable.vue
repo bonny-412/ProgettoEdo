@@ -1,12 +1,12 @@
 <script setup lang="ts">
 /**
  * FoodTable — tabella alimenti di un pasto.
- * Layout 7 colonne identico al mockup (alimento, qtà, kcal, prot,
- * carb, gras, azione elimina). Sotto i 720 px diventa una griglia
- * a 4 colonne con righe sovrapposte; sotto i 380 px font ridotto.
+ * Colonne: alimento, grammi, kcal, proteine, grassi, carbo,
+ *          zuccheri, fibra, ferro, calcio, elimina.
+ * Su mobile la tabella scorre orizzontalmente mantenendo l'header visibile.
  */
 import type { Food } from '@/types'
-import { macrosForFood, round0, round1 } from '@/utils/nutrition'
+import { extendedForFood, round0, round1 } from '@/utils/nutrition'
 
 defineProps<{
   foods: Food[]
@@ -17,9 +17,13 @@ const emit = defineEmits<{
   (e: 'update-grams', foodUid: string, grams: number): void
 }>()
 
+function fmt(v: number | undefined, decimals = 1): string {
+  if (v == null) return '—'
+  return decimals === 0 ? String(round0(v)) : String(round1(v))
+}
+
 function onGramsInput(uid: string, ev: Event): void {
   const target = ev.target as HTMLInputElement
-  // Sanitizza: solo cifre, un punto, max 2 decimali (es. incolla)
   const cleaned = target.value.replace(/[^\d.]/g, '').replace(/^(\d*\.?\d{0,2}).*$/, '$1')
   if (target.value !== cleaned) target.value = cleaned
   const value = Math.max(0, parseFloat(cleaned) || 0)
@@ -35,10 +39,7 @@ function onGramsKeydown(ev: KeyboardEvent): void {
   if (ev.key === '.' && !val.includes('.')) return
   if (/^\d$/.test(ev.key)) {
     const dotIndex = val.indexOf('.')
-    if (dotIndex !== -1 && val.length - dotIndex > 2) {
-      ev.preventDefault()
-      return
-    }
+    if (dotIndex !== -1 && val.length - dotIndex > 2) { ev.preventDefault(); return }
     return
   }
   ev.preventDefault()
@@ -46,84 +47,124 @@ function onGramsKeydown(ev: KeyboardEvent): void {
 </script>
 
 <template>
-  <div class="food-table">
-    <div class="food-row food-row-header">
-      <span>Alimento</span>
-      <span class="ta-right">Qtà</span>
-      <span class="ta-right">Kcal</span>
-      <span class="ta-right">Prot.</span>
-      <span class="ta-right">Carb.</span>
-      <span class="ta-right">Gras.</span>
-      <span />
-    </div>
+  <div class="food-table-wrap">
+    <table class="food-table">
+      <thead>
+        <tr class="food-row-header">
+          <th class="col-name">Alimento</th>
+          <th class="ta-right">Qtà</th>
+          <th class="ta-right">Kcal</th>
+          <th class="ta-right">Prot.</th>
+          <th class="ta-right">Gras.</th>
+          <th class="ta-right">Carb.</th>
+          <th class="ta-right">Zucc.</th>
+          <th class="ta-right">Fibra</th>
+          <th class="ta-right">Ferro</th>
+          <th class="ta-right">Calcio</th>
+          <th />
+        </tr>
+      </thead>
 
-    <template v-if="foods.length === 0">
-      <div class="food-empty">Nessun alimento — aggiungine uno qui sotto.</div>
-    </template>
+      <tbody>
+        <tr v-if="foods.length === 0">
+          <td colspan="11" class="food-empty">Nessun alimento — aggiungine uno qui sotto.</td>
+        </tr>
 
-    <div
-      v-for="food in foods"
-      :key="food.uid"
-      class="food-row"
-    >
-      <span class="food-name" :title="food.nome">{{ food.nome }}</span>
+        <tr v-for="food in foods" :key="food.uid" class="food-row">
+          <td class="food-name" :title="food.nome">{{ food.nome }}</td>
 
-      <span class="food-qty tabular">
-        <span class="qty-wrap">
-          <input
-            class="qty-edit"
-            type="text"
-            inputmode="decimal"
-            :value="food.grammi"
-            @input="(ev) => onGramsInput(food.uid, ev)"
-            @keydown="onGramsKeydown"
-          />
-          <span class="qty-unit">g</span>
-        </span>
-      </span>
+          <td class="food-qty tabular">
+            <span class="qty-wrap">
+              <input
+                class="qty-edit"
+                type="text"
+                inputmode="decimal"
+                :value="food.grammi"
+                @input="(ev) => onGramsInput(food.uid, ev)"
+                @keydown="onGramsKeydown"
+              />
+              <span class="qty-unit">g</span>
+            </span>
+          </td>
 
-      <span class="food-num tabular">{{ round0(macrosForFood(food).kcal) }}</span>
-      <span class="food-num tabular">{{ round1(macrosForFood(food).proteine) }}</span>
-      <span class="food-num tabular">{{ round1(macrosForFood(food).carboidrati) }}</span>
-      <span class="food-num tabular">{{ round1(macrosForFood(food).grassi) }}</span>
+          <td class="food-num tabular">{{ fmt(extendedForFood(food).kcal, 0) }}</td>
+          <td class="food-num tabular">{{ fmt(extendedForFood(food).proteine) }}</td>
+          <td class="food-num tabular">{{ fmt(extendedForFood(food).grassi) }}</td>
+          <td class="food-num tabular">{{ fmt(extendedForFood(food).carboidrati) }}</td>
+          <td class="food-num tabular">{{ fmt(extendedForFood(food).zuccheri) }}</td>
+          <td class="food-num tabular">{{ fmt(extendedForFood(food).fibra) }}</td>
+          <td class="food-num tabular food-num--mg">{{ fmt(extendedForFood(food).ferro) }}<span v-if="extendedForFood(food).ferro != null" class="unit-mg">mg</span></td>
+          <td class="food-num tabular food-num--mg">{{ fmt(extendedForFood(food).calcio) }}<span v-if="extendedForFood(food).calcio != null" class="unit-mg">mg</span></td>
 
-      <v-btn
-        class="app-btn app-btn--icon-xs"
-        icon="mdi-close"
-        size="x-small"
-        variant="flat"
-        title="Rimuovi alimento"
-        @click="emit('remove', food.uid)"
-      />
-    </div>
+          <td class="col-del">
+            <v-btn
+              class="app-btn app-btn--icon-xs"
+              icon="mdi-close"
+              size="x-small"
+              variant="flat"
+              title="Rimuovi alimento"
+              @click="emit('remove', food.uid)"
+            />
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </template>
 
 <style scoped>
-.food-table {
+.food-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   background: white;
 }
 
-.food-row {
-  display: grid;
-  grid-template-columns: 1fr 92px 56px 56px 56px 56px 32px;
-  align-items: center;
-  gap: 8px;
-  padding: 8px 14px;
-  border-bottom: 1px solid #f2f2f0;
+.food-table {
+  width: 100%;
+  min-width: 680px;
+  border-collapse: collapse;
   font-size: 12px;
+  table-layout: fixed;
 }
 
-.food-row:last-child { border-bottom: none; }
+/* Larghezze colonne */
+.col-name    { width: 180px; }
+.food-table th:nth-child(2)  { width: 92px; }  /* Qtà */
+.food-table th:nth-child(3)  { width: 48px; }  /* Kcal */
+.food-table th:nth-child(4)  { width: 46px; }  /* Prot */
+.food-table th:nth-child(5)  { width: 46px; }  /* Gras */
+.food-table th:nth-child(6)  { width: 46px; }  /* Carb */
+.food-table th:nth-child(7)  { width: 46px; }  /* Zucc */
+.food-table th:nth-child(8)  { width: 46px; }  /* Fibra */
+.food-table th:nth-child(9)  { width: 54px; }  /* Ferro */
+.food-table th:nth-child(10) { width: 58px; }  /* Calcio */
+.food-table th:nth-child(11) { width: 40px; }  /* del */
 
-.food-row-header {
-  background: transparent;
+.food-row-header th {
   font-size: 10px;
   letter-spacing: 0.06em;
   color: var(--gray-500);
   font-weight: 400;
   padding: 6px 14px 4px;
+  text-align: right;
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
 }
+
+.food-row-header th.col-name { text-align: left; }
+
+.food-row td {
+  padding: 8px 6px;
+  border-bottom: 1px solid #f2f2f0;
+  vertical-align: middle;
+}
+
+.food-row td:first-child { padding-left: 14px; }
+.food-row td:last-child  { padding-right: 14px; }
+.food-row:last-child td  { border-bottom: none; }
 
 .ta-right { text-align: right; }
 
@@ -133,11 +174,11 @@ function onGramsKeydown(ev: KeyboardEvent): void {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  max-width: 0;
 }
 
 .food-qty {
-  display: inline-flex;
-  justify-content: flex-end;
+  text-align: right;
 }
 
 .qty-wrap {
@@ -147,7 +188,7 @@ function onGramsKeydown(ev: KeyboardEvent): void {
 }
 
 .qty-edit {
-  width: 72px;
+  width: 64px;
   border: 1px solid var(--gray-300);
   background: var(--gray-50);
   text-align: right;
@@ -155,7 +196,7 @@ function onGramsKeydown(ev: KeyboardEvent): void {
   font-size: 12px;
   font-weight: 500;
   color: var(--gray-900);
-  padding: 3px 22px 3px 6px;
+  padding: 3px 18px 3px 4px;
   border-radius: 4px;
   outline: none;
   -moz-appearance: textfield;
@@ -181,7 +222,7 @@ function onGramsKeydown(ev: KeyboardEvent): void {
 
 .qty-unit {
   position: absolute;
-  right: 7px;
+  right: 5px;
   font-size: 11px;
   color: var(--gray-500);
   pointer-events: none;
@@ -191,6 +232,17 @@ function onGramsKeydown(ev: KeyboardEvent): void {
 .food-num {
   color: var(--gray-700);
   text-align: right;
+  white-space: nowrap;
+}
+
+.unit-mg {
+  font-size: 9px;
+  color: var(--gray-400);
+  margin-left: 1px;
+}
+
+.col-del {
+  text-align: center;
 }
 
 .food-empty {
@@ -199,35 +251,5 @@ function onGramsKeydown(ev: KeyboardEvent): void {
   font-size: 12px;
   color: var(--gray-500);
   font-style: italic;
-}
-
-@media (max-width: 720px) {
-  .food-row {
-    grid-template-columns: 1fr 70px 48px 32px;
-    grid-template-areas:
-      'name name name del'
-      'qty kcal prot del'
-      'qty carb gras del';
-    gap: 4px 6px;
-    padding: 8px 10px;
-  }
-
-  .food-row :nth-child(1) { grid-area: name; }
-  .food-row :nth-child(2) { grid-area: qty; }
-  .food-row :nth-child(3) { grid-area: kcal; }
-  .food-row :nth-child(4) { grid-area: prot; }
-  .food-row :nth-child(5) { grid-area: carb; }
-  .food-row :nth-child(6) { grid-area: gras; }
-  .food-row :nth-child(7) { grid-area: del; }
-
-  .food-row-header { display: none; }
-}
-
-@media (max-width: 380px) {
-  .food-row {
-    font-size: 11px;
-    grid-template-columns: 1fr 60px 42px 28px;
-  }
-  .qty-edit { width: 44px; font-size: 11px; }
 }
 </style>
