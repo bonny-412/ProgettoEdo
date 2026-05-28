@@ -1,0 +1,36 @@
+{
+  "id" : 8762,
+  "nome" : "MIGLIO, INTERO, crudo 4",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 343,
+      "kj" : 1451
+    },
+    "proteine_g" : 11.8,
+    "lipidi_g" : 3.9,
+    "carboidrati_g" : 64.9,
+    "fibra_g" : 8.5,
+    "acqua_g" : 10.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.6,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (59).pdf"
+  }
+}

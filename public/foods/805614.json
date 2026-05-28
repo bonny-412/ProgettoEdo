@@ -1,0 +1,36 @@
+{
+  "id" : 805614,
+  "nome" : "SUCCO DI BARBABIETOLA, fresco",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2006,
+    "nome" : "succhi di verdura"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 18,
+      "kj" : 75
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 2.9,
+    "fibra_g" : 1.9,
+    "acqua_g" : 93.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (92).pdf"
+  }
+}

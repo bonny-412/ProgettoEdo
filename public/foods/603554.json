@@ -1,0 +1,36 @@
+{
+  "id" : 603554,
+  "nome" : "FUNGHI, GALLINACCI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2007,
+    "nome" : "funghi, tartufi"
+  },
+  "parte_edibile_percentuale" : 61,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 21,
+      "kj" : 86
+    },
+    "proteine_g" : 1.6,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 0.2,
+    "fibra_g" : 4.7,
+    "acqua_g" : 91.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 6.5,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (88).pdf"
+  }
+}

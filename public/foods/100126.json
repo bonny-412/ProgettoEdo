@@ -1,0 +1,36 @@
+{
+  "id" : 100126,
+  "nome" : "SEPPIA, SURGELATA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11002,
+    "nome" : "molluschi (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 98,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 63,
+      "kj" : 266
+    },
+    "proteine_g" : 14.1,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 82.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 64
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 27
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (48).pdf"
+  }
+}

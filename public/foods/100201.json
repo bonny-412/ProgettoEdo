@@ -1,0 +1,36 @@
+{
+  "id" : 100201,
+  "nome" : "SUCCO DI ALBICOCCA",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4010,
+    "nome" : "succhi e spremute di frutta"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 48,
+      "kj" : 202
+    },
+    "proteine_g" : 0.3,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 12.0,
+    "fibra_g" : 0.2,
+    "acqua_g" : 86.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.7,
+    "fruttosio_g" : 1.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (87).pdf"
+  }
+}

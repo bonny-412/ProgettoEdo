@@ -1,0 +1,36 @@
+{
+  "id" : 1004,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, CARNE SEMIGRASSA, con grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 160,
+      "kj" : 669
+    },
+    "proteine_g" : 19.1,
+    "lipidi_g" : 9.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 70
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 10
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (65).pdf"
+  }
+}

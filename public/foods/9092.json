@@ -1,0 +1,36 @@
+{
+  "id" : 9092,
+  "nome" : "PANE CARASAU",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9001,
+    "nome" : "grissini, crackers, salatini, crostini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 339,
+      "kj" : 1440
+    },
+    "proteine_g" : 11.8,
+    "lipidi_g" : 1.9,
+    "carboidrati_g" : 71.6,
+    "fibra_g" : 2.9,
+    "acqua_g" : 6.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2,
+    "calcio_mg" : 116
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (16).pdf"
+  }
+}

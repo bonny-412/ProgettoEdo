@@ -1,0 +1,6656 @@
+[
+  {
+    "id": 1300,
+    "nome": "ACCIUGHE o ALICI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1300.json"
+  },
+  {
+    "id": 1501,
+    "nome": "ACCIUGHE o ALICI SOTT'OLIO",
+    "categoria": "pesci vertebrati (conservati sott'olio)",
+    "file": "1501.json"
+  },
+  {
+    "id": 1502,
+    "nome": "ACCIUGHE o ALICI SOTT'OLIO",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1502.json"
+  },
+  {
+    "id": 100205,
+    "nome": "ACETO",
+    "categoria": "aceto di vino, di mele",
+    "file": "100205.json"
+  },
+  {
+    "id": 999999,
+    "nome": "ACQUA",
+    "categoria": "acqua",
+    "file": "999999.json"
+  },
+  {
+    "id": 777021,
+    "nome": "ACQUA TONICA",
+    "categoria": "bevande analcoliche",
+    "file": "777021.json"
+  },
+  {
+    "id": 8031,
+    "nome": "AGAR AGAR, secco",
+    "categoria": "alghe",
+    "file": "8031.json"
+  },
+  {
+    "id": 301,
+    "nome": "AGLIO, fresco",
+    "categoria": "agliacee",
+    "file": "301.json"
+  },
+  {
+    "id": 603501,
+    "nome": "AGLIO, in polvere",
+    "categoria": "agliacee",
+    "file": "603501.json"
+  },
+  {
+    "id": 100035,
+    "nome": "AGNELLO, CARNE GRASSA",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100035.json"
+  },
+  {
+    "id": 700499,
+    "nome": "AGNELLO, CARNE GRASSA, COSTOLETTA, con grasso visibile",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "700499.json"
+  },
+  {
+    "id": 100033,
+    "nome": "AGNELLO, CARNE MAGRA",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100033.json"
+  },
+  {
+    "id": 100034,
+    "nome": "AGNELLO, CARNE SEMIGRASSA",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100034.json"
+  },
+  {
+    "id": 1262,
+    "nome": "AGNELLO, CORATELLA",
+    "categoria": "frattaglie di ovino",
+    "file": "1262.json"
+  },
+  {
+    "id": 8797,
+    "nome": "AGNELLO, COSCIO, senza grasso visibile",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "8797.json"
+  },
+  {
+    "id": 8786,
+    "nome": "AGNELLO, COSCIO, senza grasso visibile, cotto al forno",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "8786.json"
+  },
+  {
+    "id": 8787,
+    "nome": "AGNELLO, COSTOLETTA, senza grasso visibile",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "8787.json"
+  },
+  {
+    "id": 8788,
+    "nome": "AGNELLO, COSTOLETTA, senza grasso visibile, cotto al forno",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "8788.json"
+  },
+  {
+    "id": 1060,
+    "nome": "AGNELLO, senza grasso visibile",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "1060.json"
+  },
+  {
+    "id": 8754,
+    "nome": "AGNELLO, senza grasso visibile, cotto al forno",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "8754.json"
+  },
+  {
+    "id": 302,
+    "nome": "AGRETTI",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "302.json"
+  },
+  {
+    "id": 401,
+    "nome": "ALBICOCCHE",
+    "categoria": "frutta fresca e bacche",
+    "file": "401.json"
+  },
+  {
+    "id": 500038,
+    "nome": "ALBICOCCHE, polpa secca",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "500038.json"
+  },
+  {
+    "id": 8633,
+    "nome": "ALBICOСCHE, disidratate",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8633.json"
+  },
+  {
+    "id": 8043,
+    "nome": "ALBIСОССНЕ, sciroppate",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "8043.json"
+  },
+  {
+    "id": 19002,
+    "nome": "ALCOL PURO (95% vol)",
+    "categoria": "alcool",
+    "file": "19002.json"
+  },
+  {
+    "id": 8004,
+    "nome": "ALLORO, secсо",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8004.json"
+  },
+  {
+    "id": 889002,
+    "nome": "AMARANTO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "889002.json"
+  },
+  {
+    "id": 402,
+    "nome": "AMARENE",
+    "categoria": "frutta fresca e bacche",
+    "file": "402.json"
+  },
+  {
+    "id": 9098,
+    "nome": "AMARETTO",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "9098.json"
+  },
+  {
+    "id": 9099,
+    "nome": "AMARETTO MORBIDO",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "9099.json"
+  },
+  {
+    "id": 100231,
+    "nome": "AMARI A BASSA GRADAZIONE (tra 23 e 30 %vol)",
+    "categoria": "liquori dolci e amari",
+    "file": "100231.json"
+  },
+  {
+    "id": 100232,
+    "nome": "AMARI AD ALTA GRADAZIONE (superiori a 35%vol)",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "100232.json"
+  },
+  {
+    "id": 100143,
+    "nome": "AMIDO, NS",
+    "categoria": "farine e amidi di cereali",
+    "file": "100143.json"
+  },
+  {
+    "id": 8802,
+    "nome": "ANACARDI",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8802.json"
+  },
+  {
+    "id": 403,
+    "nome": "ANANAS",
+    "categoria": "frutta fresca e bacche",
+    "file": "403.json"
+  },
+  {
+    "id": 100196,
+    "nome": "ANANAS, sciroppata",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "100196.json"
+  },
+  {
+    "id": 1080,
+    "nome": "ANATRA DOMESTICA, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1080.json"
+  },
+  {
+    "id": 8722,
+    "nome": "ANGUILLA D'ALLEVAMENTO, FILETTI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8722.json"
+  },
+  {
+    "id": 1301,
+    "nome": "ANGUILLA DI FIUME",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1301.json"
+  },
+  {
+    "id": 1302,
+    "nome": "ANGUILLA DI MARE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1302.json"
+  },
+  {
+    "id": 1503,
+    "nome": "ANGUILLA, marinata",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1503.json"
+  },
+  {
+    "id": 8634,
+    "nome": "ANONA O CHERIMOLIA",
+    "categoria": "frutta fresca e bacche",
+    "file": "8634.json"
+  },
+  {
+    "id": 4000,
+    "nome": "APERITIVI (fino a 22 %vol)",
+    "categoria": "liquori dolci e amari",
+    "file": "4000.json"
+  },
+  {
+    "id": 9119,
+    "nome": "ARACHIDI RICOPERTE DI CIOCCOLATО",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "9119.json"
+  },
+  {
+    "id": 501,
+    "nome": "ARACHIDI, fresche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "501.json"
+  },
+  {
+    "id": 701384,
+    "nome": "ARACHIDI, tostate e salate",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "701384.json"
+  },
+  {
+    "id": 1303,
+    "nome": "ARAGOSTА",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "1303.json"
+  },
+  {
+    "id": 8626,
+    "nome": "ARAGOSTА, bollita",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "8626.json"
+  },
+  {
+    "id": 404,
+    "nome": "ARANCE",
+    "categoria": "frutta fresca e bacche",
+    "file": "404.json"
+  },
+  {
+    "id": 702404,
+    "nome": "ARANCE, SCORZA",
+    "categoria": "frutta fresca e bacche",
+    "file": "702404.json"
+  },
+  {
+    "id": 3007,
+    "nome": "ARANCIATA IN LATTINA",
+    "categoria": "bevande analcoliche",
+    "file": "3007.json"
+  },
+  {
+    "id": 8029,
+    "nome": "ARINGA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8029.json"
+  },
+  {
+    "id": 1504,
+    "nome": "ARINGA, affumicata",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1504.json"
+  },
+  {
+    "id": 1505,
+    "nome": "ARINGA, marinata",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1505.json"
+  },
+  {
+    "id": 1506,
+    "nome": "ARINGA, salata",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1506.json"
+  },
+  {
+    "id": 100009,
+    "nome": "ASIAGO",
+    "categoria": "formaggi e latticini",
+    "file": "100009.json"
+  },
+  {
+    "id": 303,
+    "nome": "ASPARAGI, di bosco",
+    "categoria": "germogli (soia, bambù), asparagi",
+    "file": "303.json"
+  },
+  {
+    "id": 304,
+    "nome": "ASPARAGI, di campo",
+    "categoria": "germogli (soia, bambù), asparagi",
+    "file": "304.json"
+  },
+  {
+    "id": 305,
+    "nome": "ASPARAGI, di serra",
+    "categoria": "germogli (soia, bambù), asparagi",
+    "file": "305.json"
+  },
+  {
+    "id": 700484,
+    "nome": "ASPARAGI, in scatola",
+    "categoria": "germogli (soia, bambù), asparagi",
+    "file": "700484.json"
+  },
+  {
+    "id": 602004,
+    "nome": "ASTICE",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "602004.json"
+  },
+  {
+    "id": 600009,
+    "nome": "AVENA, cruda",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "600009.json"
+  },
+  {
+    "id": 999692,
+    "nome": "AVOCADO",
+    "categoria": "frutta fresca e bacche",
+    "file": "999692.json"
+  },
+  {
+    "id": 2000,
+    "nome": "BABA'AL RHUM",
+    "categoria": "pasticcini (esclusa pasticceria da tè)",
+    "file": "2000.json"
+  },
+  {
+    "id": 430,
+    "nome": "BABACO",
+    "file": "430.json",
+    "categoria": "frutta fresca e bacche"
+  },
+  {
+    "id": 1507,
+    "nome": "BACCALA', ammollato",
+    "file": "1507.json",
+    "categoria": "pesci vertebrati (conservati) e uova di pesc"
+  },
+  {
+    "id": 1508,
+    "nome": "BACCALA', secco",
+    "file": "1508.json",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce"
+  },
+  {
+    "id": 406,
+    "nome": "BANANA",
+    "file": "406.json",
+    "categoria": "frutta fresca e bacche"
+  },
+  {
+    "id": 306,
+    "nome": "BARBABIETOLE ROSSE",
+    "file": "306.json",
+    "categoria": "verdura a radice"
+  },
+  {
+    "id": 8047,
+    "nome": "BARRETTA AL COCCO, RICOPERTA DI CIOCCOLATO",
+    "file": "8047.json",
+    "categoria": "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  {
+    "id": 8079,
+    "nome": "BARRETTA DI CIOCCOLATO, CON RIPIENO E CARAMELLO",
+    "file": "8079.json",
+    "categoria": "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  {
+    "id": 8080,
+    "nome": "BARRETTA DI CIOCCOLATO, CON RIPIENO, CARAMELLO E ARACHIDI",
+    "file": "8080.json",
+    "categoria": "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  {
+    "id": 8001,
+    "nome": "BASILICO, fresco",
+    "file": "8001.json",
+    "categoria": "erbe aromatiche e altri spezie"
+  },
+  {
+    "id": 8002,
+    "nome": "BASILICO, secco macinato",
+    "file": "8002.json",
+    "categoria": "erbe aromatiche e altri spezie"
+  },
+  {
+    "id": 5001,
+    "nome": "BASTONCINI DI PESCE, SURGELATI, MERLUZZO",
+    "file": "5001.json",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  {
+    "id": 3008,
+    "nome": "BEVANDA A BASE DI COLA",
+    "file": "3008.json",
+    "categoria": "bevande analcoliche"
+  },
+  {
+    "id": 888028,
+    "nome": "BEVANDA DI COCCO",
+    "file": "888028.json",
+    "categoria": "succhi e spremute di frutta"
+  },
+  {
+    "id": 3016,
+    "nome": "BEVANDA DI MANDORLE, preparata da ricetta",
+    "file": "3016.json",
+    "categoria": "succhi e spremute di frutta"
+  },
+  {
+    "id": 700637,
+    "nome": "BEVANDA DI SOIA",
+    "file": "700637.json",
+    "categoria": "prodotti della soia"
+  },
+  {
+    "id": 666009,
+    "nome": "BEVANDE GASSATE DIETETICHE",
+    "file": "666009.json",
+    "categoria": "bevande analcoliche"
+  },
+  {
+    "id": 307,
+    "nome": "BIETA",
+    "file": "307.json",
+    "categoria": "verdure a foglia (insalata)"
+  },
+  {
+    "id": 700485,
+    "nome": "BIETA, in scatola",
+    "file": "700485.json",
+    "categoria": "verdure a foglia (insalata)"
+  },
+  {
+    "id": 2027,
+    "nome": "BIGNE' ALLA CREMA",
+    "file": "2027.json",
+    "categoria": "pasticcini (esclusa pasticceria da tè)"
+  },
+  {
+    "id": 8062,
+    "nome": "BIRRA ANALCOLICA (0.3 - 0.5 %vol)",
+    "categoria": "birra",
+    "file": "8062.json"
+  },
+  {
+    "id": 8056,
+    "nome": "BIRRA CHIARA DOPPIO MALTO (6.2 - 12.0 %vol)",
+    "categoria": "birra",
+    "file": "8056.json"
+  },
+  {
+    "id": 4001,
+    "nome": "BIRRA CHIARA SPECIALE (5.3 - 6.0 %vol)",
+    "categoria": "birra",
+    "file": "4001.json"
+  },
+  {
+    "id": 8063,
+    "nome": "BIRRA LEGGERA o LIGHT (2.5 - 3.4 %vol)",
+    "categoria": "birra",
+    "file": "8063.json"
+  },
+  {
+    "id": 8060,
+    "nome": "BIRRA SCURA DOPPIO MALTO (6.4 - 15.0 %vol)",
+    "categoria": "birra",
+    "file": "8060.json"
+  },
+  {
+    "id": 609024,
+    "nome": "BIRRA SCURA SPECIALE (5.3 - 6.0 %vol)",
+    "file": "609024.json",
+    "categoria": "birra"
+  },
+  {
+    "id": 9053,
+    "nome": "BIRRA, NS",
+    "file": "9053.json",
+    "categoria": "birra"
+  },
+  {
+    "id": 8082,
+    "nome": "BISCOTTAIL CIOCCOLATO, tipo cookies",
+    "file": "8082.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 100144,
+    "nome": "BISCOTTI AL BURRO",
+    "file": "100144.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 100221,
+    "nome": "BISCOTTI AL LATTE 4",
+    "file": "100221.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 8085,
+    "nome": "BISCOTTI ALL'AVENA",
+    "file": "8085.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 9095,
+    "nome": "BISCOTTI CON GOCCE DI CIOCCOLATO",
+    "file": "9095.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 8084,
+    "nome": "BISCOTTI CON TAVOLETTA DI CIOCCOLATO",
+    "file": "8084.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 8083,
+    "nome": "BISCOTTI FARCITI CON CREMA 4",
+    "file": "8083.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 450085,
+    "nome": "BISCOTTI FROLLINI 4",
+    "file": "450085.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 701307,
+    "nome": "BISCOTTI INTEGRALI",
+    "file": "701307.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 71,
+    "nome": "BISCOTTI PER L'INFANZIA 4",
+    "file": "71.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 10098,
+    "nome": "BISCOTTI RICOPERTI DI CIOCCOLATO",
+    "file": "10098.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 81,
+    "nome": "BISCOTTI SAVOIARDI 4",
+    "file": "81.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 8081,
+    "nome": "BISCOTTI TIPO DIGESTIVE",
+    "file": "8081.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 9094,
+    "nome": "BISCOTTI WAFER, RICOPERTI DI CIOCCOLATO CON RIPIENO E NOCCIOLE",
+    "file": "9094.json",
+    "categoria": "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  {
+    "id": 8771,
+    "nome": "BISCOTTI WAFER, RICOPERTO DI CIOCCOLATO",
+    "file": "8771.json",
+    "categoria": "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  {
+    "id": 80,
+    "nome": "BISCOTTI WAFERS",
+    "file": "80.json",
+    "categoria": "biscotti, pasticcini da tè"
+  },
+  {
+    "id": 70,
+    "nome": "BISCOTTO PER LA PRIMA COLAZIONE O BISCOTTI SECCHI",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "70.json"
+  },
+  {
+    "id": 8078,
+    "nome": "BISCOTTO RICOPERTO DI CIOCCOLATO, CON CARAMELLO",
+    "file": "8078.json",
+    "categoria": "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  {
+    "id": 8061,
+    "nome": "BITTER",
+    "file": "8061.json",
+    "categoria": "bevande analcoliche"
+  },
+  {
+    "id": 8723,
+    "nome": "BOGA",
+    "file": "8723.json",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  {
+    "id": 888039,
+    "nome": "BOMBOLONE o KRAPFEN, CON CREMA (RICETTA)",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "888039.json"
+  },
+  {
+    "id": 8725,
+    "nome": "BOTTARGA, UOVA DI CEFALO MUGGINE",
+    "file": "8725.json",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce"
+  },
+  {
+    "id": 1201,
+    "nome": "BOVINO, CERVELLO",
+    "file": "1201.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1203,
+    "nome": "BOVINO, CUORE",
+    "file": "1203.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1204,
+    "nome": "BOVINO, FEGATO",
+    "file": "1204.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1100,
+    "nome": "BOVINO, LESSATO IN GELATINA, IN SCATOLA",
+    "file": "1100.json",
+    "categoria": "carne in scatola"
+  },
+  {
+    "id": 1205,
+    "nome": "BOVINO, LINGUA",
+    "file": "1205.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 700342,
+    "nome": "BOVINO, LINGUA SALMISTRATA",
+    "file": "700342.json",
+    "categoria": "carne in scatola"
+  },
+  {
+    "id": 1299,
+    "nome": "BOVINO, MIDOLLO OSSEO",
+    "file": "1299.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1206,
+    "nome": "BOVINO, MILZA",
+    "file": "1206.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1207,
+    "nome": "BOVINO, POLMONE",
+    "file": "1207.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1208,
+    "nome": "BOVINO, RENE",
+    "file": "1208.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 805249,
+    "nome": "BOVINO, SANGUE",
+    "file": "805249.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1209,
+    "nome": "BOVINO, TRIPPA",
+    "file": "1209.json",
+    "categoria": "frattaglie di bovino"
+  },
+  {
+    "id": 1006,
+    "nome": "BOVINO, VITELLO, 4 MESI, CARNE MAGRA, senza grasso visibile",
+    "file": "1006.json",
+    "categoria": "carne di vitello"
+  },
+  {
+    "id": 8020,
+    "nome": "BOVINO, VITELLO, 4 MESI, CARNE SEMIGRASSA, senza grasso visibile",
+    "file": "8020.json",
+    "categoria": "carne di vitello"
+  },
+  {
+    "id": 1005,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, CARNE GRASSA, con grasso visibile",
+    "file": "1005.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 1003,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, CARNE MAGRA, con grasso visibile",
+    "file": "1003.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 1004,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, CARNE SEMIGRASSA, con grasso visibile",
+    "categoria": "carne di bovino adulto/manzo/vitellone",
+    "file": "1004.json"
+  },
+  {
+    "id": 8799,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, TAGLI ANTERIORI, senza grasso visibile",
+    "file": "8799.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8521,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, TAGLI DI CARNE GRASSA, senza grasso visibile",
+    "file": "8521.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8520,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, TAGLI DI CARNE MAGRA, senza grasso visibile",
+    "file": "8520.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8522,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, TAGLI DI CARNE SEMIGRASSA, senza grasso visibile",
+    "file": "8522.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8800,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, TAGLI POSTERIORI, senza grasso visibile",
+    "file": "8800.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8661,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, copertina di sotto, copertina di spalla, sottospalla, collo",
+    "file": "8661.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8653,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, costata, senza grasso visibile",
+    "file": "8653.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8654,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, fesa, senza grasso visibile",
+    "file": "8654.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8655,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, filetto, senza grasso visibile",
+    "file": "8655.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8662,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, geretto anteriore e posteriore, senza grasso visibile",
+    "file": "8662.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8656,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, girello, senza grasso visibile",
+    "file": "8656.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8657,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, lombata, senza grasso visibile",
+    "file": "8657.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8658,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, noce, senza grasso visibile",
+    "file": "8658.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8663,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, pancia, biancostato, punta di petto, senza grasso visibile",
+    "file": "8663.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8659,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, scamone, senza grasso visibile",
+    "file": "8659.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8660,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, sottofesa, senza grasso visibile",
+    "file": "8660.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 8664,
+    "nome": "BOVINO, VITELLONE, 15-18 MESI, spalla, muscolo, girello, fesone, senza grasso visibile",
+    "file": "8664.json",
+    "categoria": "carne di bovino adulto/manzo/vitellone"
+  },
+  {
+    "id": 100010,
+    "nome": "BRA",
+    "file": "100010.json",
+    "categoria": "formaggi e latticini"
+  },
+  {
+    "id": 4002,
+    "nome": "BRANDY",
+    "file": "4002.json",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione"
+  },
+  {
+    "id": 100061,
+    "nome": "BRESAOLA",
+    "file": "100061.json",
+    "categoria": "insaccati e salumi"
+  },
+  {
+    "id": 71787,
+    "nome": "BRIE",
+    "file": "71787.json",
+    "categoria": "formaggi e latticini"
+  },
+  {
+    "id": 308,
+    "nome": "BROCCOLETTI DI RAPE",
+    "file": "308.json",
+    "categoria": "crucifere"
+  },
+  {
+    "id": 309,
+    "nome": "BROCCOLOA TESTA",
+    "file": "309.json",
+    "categoria": "crucifere"
+  },
+  {
+    "id": 9040,
+    "nome": "BRODO DI CARNE E VERDURA",
+    "file": "9040.json",
+    "categoria": "brodi di carne e vegetali"
+  },
+  {
+    "id": 900545,
+    "nome": "BRODO DI CARNE VARIA",
+    "file": "900545.json",
+    "categoria": "brodi di carne e vegetali"
+  },
+  {
+    "id": 9043,
+    "nome": "BRODO DI DADO",
+    "file": "9043.json",
+    "categoria": "brodi di carne e vegetali"
+  },
+  {
+    "id": 900546,
+    "nome": "BRODO DI GALLINA",
+    "file": "900546.json",
+    "categoria": "brodi di carne e vegetali"
+  },
+  {
+    "id": 701358,
+    "nome": "BRODO VEGETALE",
+    "file": "701358.json",
+    "categoria": "brodi di carne e vegetali"
+  },
+  {
+    "id": 100187,
+    "nome": "BUCCIA D'ARANCIA, CANDITA 4",
+    "file": "100187.json",
+    "categoria": "frutta candita"
+  },
+  {
+    "id": 800188,
+    "nome": "BUDINO AL CIOCCOLATO",
+    "file": "800188.json",
+    "categoria": "creme e desserts al cucchiaio"
+  },
+  {
+    "id": 19007,
+    "nome": "BUDINO ALLA VANIGLIA",
+    "file": "19007.json",
+    "categoria": "creme e desserts al cucchiaio"
+  },
+  {
+    "id": 888032,
+    "nome": "BULGUR, cotto",
+    "file": "888032.json",
+    "categoria": "farine e amidi di cereali"
+  },
+  {
+    "id": 888031,
+    "nome": "BULGUR, crudo",
+    "file": "888031.json",
+    "categoria": "farine e amidi di cereali"
+  },
+  {
+    "id": 900688,
+    "nome": "BURRATA",
+    "file": "900688.json",
+    "categoria": "formaggi e latticini"
+  },
+  {
+    "id": 1701,
+    "nome": "BURRINI",
+    "file": "1701.json",
+    "categoria": "formaggi e latticini"
+  },
+  {
+    "id": 1900,
+    "nome": "BURRO",
+    "file": "1900.json",
+    "categoria": "burro e grassi animali (esclusa panna)"
+  },
+  {
+    "id": 606010,
+    "nome": "BURRO DI ARACHIDI",
+    "file": "606010.json",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)"
+  },
+  {
+    "id": 888025,
+    "nome": "BURRO DI CACAO",
+    "file": "888025.json",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)"
+  },
+  {
+    "id": 8745,
+    "nome": "BUTIRRO CALABRO",
+    "file": "8745.json",
+    "categoria": "formaggi e latticini"
+  },
+  {
+    "id": 3000,
+    "nome": "CACAO AMARO, in polvere",
+    "categoria": "cacao e altri preparati in polvere",
+    "file": "3000.json"
+  },
+  {
+    "id": 3012,
+    "nome": "CACAO DOLCE, in polvere, solubile",
+    "categoria": "cacao e altri preparati in polvere",
+    "file": "3012.json"
+  },
+  {
+    "id": 1702,
+    "nome": "CACIOCAVALLO",
+    "categoria": "formaggi e latticini",
+    "file": "1702.json"
+  },
+  {
+    "id": 700430,
+    "nome": "CACIOCAVALLO AFFUMICATO",
+    "categoria": "formaggi e latticini",
+    "file": "700430.json"
+  },
+  {
+    "id": 8746,
+    "nome": "CACIORICOTTA DI CAPRA",
+    "categoria": "formaggi e latticini",
+    "file": "8746.json"
+  },
+  {
+    "id": 700432,
+    "nome": "CACIOTTA AFFUMICATA",
+    "categoria": "formaggi e latticini",
+    "file": "700432.json"
+  },
+  {
+    "id": 8795,
+    "nome": "CACIOTTA MISTA, latte ovino e vaccino",
+    "categoria": "formaggi e latticini",
+    "file": "8795.json"
+  },
+  {
+    "id": 1703,
+    "nome": "CACIOTTA ROMANA DI PECORA",
+    "categoria": "formaggi e latticini",
+    "file": "1703.json"
+  },
+  {
+    "id": 1704,
+    "nome": "CACIOTTA TOSCANA",
+    "categoria": "formaggi e latticini",
+    "file": "1704.json"
+  },
+  {
+    "id": 1705,
+    "nome": "CACIOTTINA FRESCA",
+    "categoria": "formaggi e latticini",
+    "file": "1705.json"
+  },
+  {
+    "id": 8747,
+    "nome": "CACIOTTINA MISTA, latte ovino e vaccino",
+    "categoria": "formaggi e latticini",
+    "file": "8747.json"
+  },
+  {
+    "id": 8796,
+    "nome": "CACIOTTINA VACCINA",
+    "categoria": "formaggi e latticini",
+    "file": "8796.json"
+  },
+  {
+    "id": 9030,
+    "nome": "CAFFE' ALL'AMERICANA, in tazza",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "9030.json"
+  },
+  {
+    "id": 9031,
+    "nome": "CAFFE' BAR, in tazza",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "9031.json"
+  },
+  {
+    "id": 700795,
+    "nome": "CAFFE' CRUDO, in grani",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "700795.json"
+  },
+  {
+    "id": 700797,
+    "nome": "CAFFE' DECAFFEINATO, TOSTATO, macinato",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "700797.json"
+  },
+  {
+    "id": 700798,
+    "nome": "CAFFE' DECAFFEINATO, in tazza",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "700798.json"
+  },
+  {
+    "id": 700796,
+    "nome": "CAFFE' MOKA, in tazza",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "700796.json"
+  },
+  {
+    "id": 888001,
+    "nome": "CAFFE' SOLUBILE, DECAFFEINATO, in polvere",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "888001.json"
+  },
+  {
+    "id": 9032,
+    "nome": "CAFFE' SOLUBILE, DECAFFEINATO, in tazza",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "9032.json"
+  },
+  {
+    "id": 705153,
+    "nome": "CAFFE' SOLUBILE, in polvere",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "705153.json"
+  },
+  {
+    "id": 9033,
+    "nome": "CAFFE' SOLUBILE, in tazza",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "9033.json"
+  },
+  {
+    "id": 3153,
+    "nome": "CAFFE' TOSTATO, macinato",
+    "categoria": "caffè (anche decaffeinato e solubile)",
+    "file": "3153.json"
+  },
+  {
+    "id": 1304,
+    "nome": "CALAMARO",
+    "categoria": "molluschi",
+    "file": "1304.json"
+  },
+  {
+    "id": 100121,
+    "nome": "CALAMARO, SURGELATO",
+    "categoria": "molluschi",
+    "file": "100121.json"
+  },
+  {
+    "id": 71786,
+    "nome": "CAMEMBERT",
+    "categoria": "formaggi e latticini",
+    "file": "71786.json"
+  },
+  {
+    "id": 2001,
+    "nome": "CANDITI",
+    "categoria": "frutta candita",
+    "file": "2001.json"
+  },
+  {
+    "id": 100207,
+    "nome": "CANNELLA",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "100207.json"
+  },
+  {
+    "id": 2002,
+    "nome": "CANNOLI ALLA CREMA",
+    "categoria": "pasticcini (esclusa pasticceria da tè)",
+    "file": "2002.json"
+  },
+  {
+    "id": 8758,
+    "nome": "CANNOLI SICILIANI",
+    "categoria": "pasticcini (esclusa pasticceria da tè)",
+    "file": "8758.json"
+  },
+  {
+    "id": 9097,
+    "nome": "CANTUCCI",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "9097.json"
+  },
+  {
+    "id": 8724,
+    "nome": "CAPITONE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8724.json"
+  },
+  {
+    "id": 777010,
+    "nome": "CAPPERI SOTT'ACETO",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "777010.json"
+  },
+  {
+    "id": 1061,
+    "nome": "CAPRETTO",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "1061.json"
+  },
+  {
+    "id": 600554,
+    "nome": "CAPRIOLO, COSCIA",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "600554.json"
+  },
+  {
+    "id": 600555,
+    "nome": "CAPRIOLO, SCHIENA",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "600555.json"
+  },
+  {
+    "id": 19010,
+    "nome": "CARAMELLE ALLA FRUTTA",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "19010.json"
+  },
+  {
+    "id": 19012,
+    "nome": "CARAMELLE ALLA MENTA",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "19012.json"
+  },
+  {
+    "id": 2003,
+    "nome": "CARAMELLE DURE",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "2003.json"
+  },
+  {
+    "id": 9122,
+    "nome": "CARAMELLE MORBIDE, MARSHMALLOW",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "9122.json"
+  },
+  {
+    "id": 2004,
+    "nome": "CARAMELLE MORBIDE, MOU",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "2004.json"
+  },
+  {
+    "id": 8068,
+    "nome": "CARAMELLE, TIPO GELEE'",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "8068.json"
+  },
+  {
+    "id": 310,
+    "nome": "CARCIOFI NY",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "310.json"
+  },
+  {
+    "id": 700105,
+    "nome": "CARCIOFI, SURGELATI",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "700105.json"
+  },
+  {
+    "id": 700819,
+    "nome": "CARCIOFINI, SOTT'ACETO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "700819.json"
+  },
+  {
+    "id": 100170,
+    "nome": "CARCIOFINI, SOTT'OLIO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "100170.json"
+  },
+  {
+    "id": 311,
+    "nome": "CARDI",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "311.json"
+  },
+  {
+    "id": 8705,
+    "nome": "CARNE BOVINA PRESSATA (IN SCATOLA)",
+    "categoria": "carne in scatola",
+    "file": "8705.json"
+  },
+  {
+    "id": 312,
+    "nome": "CAROTE",
+    "categoria": "verdura a radice",
+    "file": "312.json"
+  },
+  {
+    "id": 1305,
+    "nome": "CARPA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1305.json"
+  },
+  {
+    "id": 8801,
+    "nome": "CARRUBE",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8801.json"
+  },
+  {
+    "id": 8728,
+    "nome": "CASTAGNACCIO",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "8728.json"
+  },
+  {
+    "id": 8635,
+    "nome": "CASTAGNE, arrostite",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8635.json"
+  },
+  {
+    "id": 8636,
+    "nome": "CASTAGNE, bollite",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8636.json"
+  },
+  {
+    "id": 503,
+    "nome": "CASTAGNE, fresche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "503.json"
+  },
+  {
+    "id": 504,
+    "nome": "CASTAGNE, secche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "504.json"
+  },
+  {
+    "id": 100041,
+    "nome": "CASTRATO, CARNE GRASSA",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100041.json"
+  },
+  {
+    "id": 100039,
+    "nome": "CASTRATO, CARNE MAGRA",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100039.json"
+  },
+  {
+    "id": 100040,
+    "nome": "CASTRATO, CARNE SEMIGRASSA",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100040.json"
+  },
+  {
+    "id": 1223,
+    "nome": "CAVALLO, CUORE",
+    "categoria": "frattaglie di equino",
+    "file": "1223.json"
+  },
+  {
+    "id": 1224,
+    "nome": "CAVALLO, FEGATO",
+    "categoria": "frattaglie di equino",
+    "file": "1224.json"
+  },
+  {
+    "id": 1020,
+    "nome": "CAVALLO, senza grasso visibile",
+    "categoria": "carne di equino",
+    "file": "1020.json"
+  },
+  {
+    "id": 1516,
+    "nome": "CAVIALE, UOVA DI STORIONE",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1516.json"
+  },
+  {
+    "id": 313,
+    "nome": "CAVOLFIORE",
+    "categoria": "crucifere",
+    "file": "313.json"
+  },
+  {
+    "id": 315,
+    "nome": "CAVOLI DI BRUXELLES",
+    "categoria": "crucifere",
+    "file": "315.json"
+  },
+  {
+    "id": 314,
+    "nome": "CAVOLO BROCCOLO VERDE RAMOSO",
+    "categoria": "crucifere",
+    "file": "314.json"
+  },
+  {
+    "id": 317,
+    "nome": "CAVOLO CAPPUCCIO, ROSSO",
+    "categoria": "crucifere",
+    "file": "317.json"
+  },
+  {
+    "id": 316,
+    "nome": "CAVOLO CAPPUCCIO, VERDE",
+    "categoria": "crucifere",
+    "file": "316.json"
+  },
+  {
+    "id": 700082,
+    "nome": "CECI IN SCATOLA",
+    "categoria": "legumi",
+    "file": "700082.json"
+  },
+  {
+    "id": 201,
+    "nome": "CECI, secchi",
+    "categoria": "legumi",
+    "file": "201.json"
+  },
+  {
+    "id": 100188,
+    "nome": "CEDRO, CANDITO",
+    "categoria": "frutta candita",
+    "file": "100188.json"
+  },
+  {
+    "id": 1306,
+    "nome": "CEFALO MUGGINE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1306.json"
+  },
+  {
+    "id": 999057,
+    "nome": "CEREALI AGGREGATI, fortificati",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "999057.json"
+  },
+  {
+    "id": 100092,
+    "nome": "CERNIA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "100092.json"
+  },
+  {
+    "id": 100093,
+    "nome": "CERNIA DI FONDO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "100093.json"
+  },
+  {
+    "id": 1400,
+    "nome": "CERNIA, SURGELATA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1400.json"
+  },
+  {
+    "id": 8665,
+    "nome": "CERVO, senza grasso visibile",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "8665.json"
+  },
+  {
+    "id": 318,
+    "nome": "CETRIOLI NY",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "318.json"
+  },
+  {
+    "id": 700125,
+    "nome": "CETRIOLI, IN SALAMOIA",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "700125.json"
+  },
+  {
+    "id": 900606,
+    "nome": "CETRIOLINI, SOTT'ACETO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "900606.json"
+  },
+  {
+    "id": 100235,
+    "nome": "CHAMPAGNE",
+    "categoria": "vino e spumanti",
+    "file": "100235.json"
+  },
+  {
+    "id": 1706,
+    "nome": "CHEDDAR",
+    "categoria": "formaggi e latticini",
+    "file": "1706.json"
+  },
+  {
+    "id": 609027,
+    "nome": "CHERRY BRANDY",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "609027.json"
+  },
+  {
+    "id": 1141,
+    "nome": "CICCIOLI",
+    "categoria": "insaccati e salumi",
+    "file": "1141.json"
+  },
+  {
+    "id": 319,
+    "nome": "CICORIA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "319.json"
+  },
+  {
+    "id": 100171,
+    "nome": "CICORIA CATALOGNA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "100171.json"
+  },
+  {
+    "id": 320,
+    "nome": "CICORIA, DA TAGLIO",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "320.json"
+  },
+  {
+    "id": 321,
+    "nome": "CICORIA, WITLOOF",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "321.json"
+  },
+  {
+    "id": 407,
+    "nome": "CILIEGE",
+    "categoria": "frutta fresca e bacche",
+    "file": "407.json"
+  },
+  {
+    "id": 8840,
+    "nome": "CILIEGIE, CANDITE",
+    "categoria": "frutta candita",
+    "file": "8840.json"
+  },
+  {
+    "id": 8071,
+    "nome": "CILIEGIE, SCIROPPATE",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "8071.json"
+  },
+  {
+    "id": 2005,
+    "nome": "CIOCCOLATO \"FONDENTE\"",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "2005.json"
+  },
+  {
+    "id": 888042,
+    "nome": "CIOCCOLATO \"FONDENTE\" 70%",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "888042.json"
+  },
+  {
+    "id": 9065,
+    "nome": "CIOCCOLATO \"FONDENTE\", CON NOCCIOLE",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "9065.json"
+  },
+  {
+    "id": 2006,
+    "nome": "CIOCCOLATO AL LATTE",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "2006.json"
+  },
+  {
+    "id": 9118,
+    "nome": "CIOCCOLATO AL LATTE, CON CEREALI SOFFIATI",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "9118.json"
+  },
+  {
+    "id": 12985,
+    "nome": "CIOCCOLATO AL LATTE, CON NOCCIOLE",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "12985.json"
+  },
+  {
+    "id": 19014,
+    "nome": "CIOCCOLATO BIANCO",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "19014.json"
+  },
+  {
+    "id": 9116,
+    "nome": "CIOCCOLATO BIANCO, CON NOCCIOLE",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "9116.json"
+  },
+  {
+    "id": 2007,
+    "nome": "CIOCCOLATO GIANDUIA",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "2007.json"
+  },
+  {
+    "id": 9120,
+    "nome": "CIOCCOLATO RIPIENO AL LATTE (tipo kinder)",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "9120.json"
+  },
+  {
+    "id": 322,
+    "nome": "CIPOLLE",
+    "categoria": "agliacee",
+    "file": "322.json"
+  },
+  {
+    "id": 805678,
+    "nome": "CIPOLLE, secche",
+    "categoria": "agliacee",
+    "file": "805678.json"
+  },
+  {
+    "id": 323,
+    "nome": "CIPOLLINE",
+    "categoria": "agliacee",
+    "file": "323.json"
+  },
+  {
+    "id": 900612,
+    "nome": "CIPOLLINE, SOTT'ACETO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "900612.json"
+  },
+  {
+    "id": 408,
+    "nome": "COCOMERO",
+    "categoria": "frutta fresca e bacche",
+    "file": "408.json"
+  },
+  {
+    "id": 10023,
+    "nome": "COGNAC",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "10023.json"
+  },
+  {
+    "id": 9103,
+    "nome": "COLOMBA",
+    "categoria": "brioches, merendine non farcite",
+    "file": "9103.json"
+  },
+  {
+    "id": 900104,
+    "nome": "CONFETTI ALLA MANDORLA",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "900104.json"
+  },
+  {
+    "id": 666016,
+    "nome": "CONFETTURA (MARMELLATA) DI FRUTTA, A RIDOTTO CONTENUTO CALORICO con POLIOLI",
+    "categoria": "marmellate",
+    "file": "666016.json"
+  },
+  {
+    "id": 2013,
+    "nome": "CONFETTURA (MARMELLATA) DI FRUTTA, NORMALE ED EXTRA",
+    "categoria": "marmellate",
+    "file": "2013.json"
+  },
+  {
+    "id": 666015,
+    "nome": "CONFETTURA (MARMELLATA) DI FRUTTA, SOLO ZUCCHERI DELLA FRUTTA",
+    "categoria": "marmellate",
+    "file": "666015.json"
+  },
+  {
+    "id": 666017,
+    "nome": "CONFETTURA (MARMELLATA) DI FRUTTA, SOLO ZUCCHERI DELLA FRUTTA, con polioli",
+    "categoria": "marmellate",
+    "file": "666017.json"
+  },
+  {
+    "id": 1083,
+    "nome": "CONIGLIO, CARNE GRASSA",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "1083.json"
+  },
+  {
+    "id": 1081,
+    "nome": "CONIGLIO, CARNE MAGRA",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "1081.json"
+  },
+  {
+    "id": 1082,
+    "nome": "CONIGLIO, CARNE SEMIGRASSA",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "1082.json"
+  },
+  {
+    "id": 8668,
+    "nome": "CONIGLIO, COSCIO",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "8668.json"
+  },
+  {
+    "id": 1284,
+    "nome": "CONIGLIO, FRATTAGLIE",
+    "categoria": "frattaglie di coniglio e di lepre",
+    "file": "1284.json"
+  },
+  {
+    "id": 8666,
+    "nome": "CONIGLIO, INTERO",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "8666.json"
+  },
+  {
+    "id": 8667,
+    "nome": "CONIGLIO, INTERO, SURGELATO",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "8667.json"
+  },
+  {
+    "id": 8789,
+    "nome": "CONIGLIO, INTERO, cotto",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "8789.json"
+  },
+  {
+    "id": 742070,
+    "nome": "CONO PER GELATO",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "742070.json"
+  },
+  {
+    "id": 1140,
+    "nome": "COPPA O CAPOCOLLO",
+    "categoria": "insaccati e salumi",
+    "file": "1140.json"
+  },
+  {
+    "id": 8503,
+    "nome": "COPPA PARMA",
+    "categoria": "insaccati e salumi",
+    "file": "8503.json"
+  },
+  {
+    "id": 8726,
+    "nome": "COREGONE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8726.json"
+  },
+  {
+    "id": 1101,
+    "nome": "CORNED BEFF IN SCATOLA",
+    "categoria": "carne in scatola",
+    "file": "1101.json"
+  },
+  {
+    "id": 72,
+    "nome": "CORNETTO O BRIOCHE",
+    "categoria": "brioches, merendine non farcite",
+    "file": "72.json"
+  },
+  {
+    "id": 9104,
+    "nome": "CORNETTO o BRIOCHE o CROISSANT, CON CIOCCOLATO",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9104.json"
+  },
+  {
+    "id": 900094,
+    "nome": "CORNETTO o BRIOCHE o CROISSANT, CON CREMA",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "900094.json"
+  },
+  {
+    "id": 900085,
+    "nome": "CORNETTO o BRIOCHE o CROISSANT, CON MARMELLATA",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "900085.json"
+  },
+  {
+    "id": 8727,
+    "nome": "CORVINA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8727.json"
+  },
+  {
+    "id": 9046,
+    "nome": "COTECHINO (CONFEZIONATO PRECOTTO), bollito",
+    "categoria": "insaccati e salumi",
+    "file": "9046.json"
+  },
+  {
+    "id": 1143,
+    "nome": "COTECHINO (CONFEZIONATO PRECOTTO), crudo",
+    "categoria": "insaccati e salumi",
+    "file": "1143.json"
+  },
+  {
+    "id": 8835,
+    "nome": "COUSCOUS, cotto",
+    "categoria": "farine e amidi di cereali",
+    "file": "8835.json"
+  },
+  {
+    "id": 888013,
+    "nome": "COUSCOUS, secco",
+    "categoria": "farine e amidi di cereali",
+    "file": "888013.json"
+  },
+  {
+    "id": 1307,
+    "nome": "COZZA o MITILO",
+    "categoria": "molluschi",
+    "file": "1307.json"
+  },
+  {
+    "id": 999073,
+    "nome": "CRACKERS NON SALATI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "999073.json"
+  },
+  {
+    "id": 79,
+    "nome": "CRACKERS, AL FORMAGGIO",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "79.json"
+  },
+  {
+    "id": 60092,
+    "nome": "CRACKERS, INTEGRALI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "60092.json"
+  },
+  {
+    "id": 78,
+    "nome": "CRACKERS, SALATI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "78.json"
+  },
+  {
+    "id": 19017,
+    "nome": "CRACKERS, SENZA GRASSI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "19017.json"
+  },
+  {
+    "id": 100172,
+    "nome": "CRAUTI",
+    "categoria": "crucifere",
+    "file": "100172.json"
+  },
+  {
+    "id": 2008,
+    "nome": "CREMA DI CACAO E NOCCIOLE",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "2008.json"
+  },
+  {
+    "id": 9117,
+    "nome": "CREMA DI CACAO E NOCCIOLE 40%",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "9117.json"
+  },
+  {
+    "id": 8059,
+    "nome": "CREMA DI LIQUORE",
+    "categoria": "liquori dolci e amari",
+    "file": "8059.json"
+  },
+  {
+    "id": 100225,
+    "nome": "CREMA PER PASTICCERIA (RICETTA)",
+    "categoria": "creme e desserts al cucchiaio",
+    "file": "100225.json"
+  },
+  {
+    "id": 700452,
+    "nome": "CREME CARAMEL",
+    "categoria": "creme e desserts al cucchiaio",
+    "file": "700452.json"
+  },
+  {
+    "id": 100011,
+    "nome": "CRESCENZA",
+    "categoria": "formaggi e latticini",
+    "file": "100011.json"
+  },
+  {
+    "id": 400093,
+    "nome": "CRESCIONE",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "400093.json"
+  },
+  {
+    "id": 8041,
+    "nome": "CROISSANT 4",
+    "categoria": "brioches, merendine non farcite",
+    "file": "8041.json"
+  },
+  {
+    "id": 9070,
+    "nome": "CROSTACEI, NS",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "9070.json"
+  },
+  {
+    "id": 9111,
+    "nome": "CROSTATA ALLA FRUTTA CON CREMA (RICETTA)",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "9111.json"
+  },
+  {
+    "id": 9112,
+    "nome": "CROSTATA ALLA FRUTTA CON MARMELLATA (RICETTA)",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "9112.json"
+  },
+  {
+    "id": 2009,
+    "nome": "CROSTATA CON MARMELLATA, industriale",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "2009.json"
+  },
+  {
+    "id": 8755,
+    "nome": "CROSTATA, CON CREMA AL CACAO, INDUSTRIALE",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "8755.json"
+  },
+  {
+    "id": 888037,
+    "nome": "CROSTINI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "888037.json"
+  },
+  {
+    "id": 30039,
+    "nome": "CRUSCA DI GRANO",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "30039.json"
+  },
+  {
+    "id": 888003,
+    "nome": "CUMINO, SEMI",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "888003.json"
+  },
+  {
+    "id": 3018,
+    "nome": "DADI PER BRODO",
+    "categoria": "dadi, gelatina alimentare, estratti e prodotti a base di glutammato",
+    "file": "3018.json"
+  },
+  {
+    "id": 666010,
+    "nome": "DADI PER BRODO VEGETALE",
+    "categoria": "dadi, gelatina alimentare, estratti e prodotti a base di glutammato",
+    "file": "666010.json"
+  },
+  {
+    "id": 8032,
+    "nome": "DAIKON",
+    "categoria": "verdura a radice",
+    "file": "8032.json"
+  },
+  {
+    "id": 8798,
+    "nome": "DAINO",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "8798.json"
+  },
+  {
+    "id": 505,
+    "nome": "DATTERI, DEGLET NOOR, disidratati",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "505.json"
+  },
+  {
+    "id": 888027,
+    "nome": "DATTERI, MEDJOOL, DISIDRATATI",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "888027.json"
+  },
+  {
+    "id": 606531,
+    "nome": "DATTERI, freschi",
+    "categoria": "frutta fresca e bacche",
+    "file": "606531.json"
+  },
+  {
+    "id": 1308,
+    "nome": "DENTICE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1308.json"
+  },
+  {
+    "id": 1401,
+    "nome": "DENTICE, SURGELATO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1401.json"
+  },
+  {
+    "id": 1707,
+    "nome": "DOLCE VERDE",
+    "categoria": "formaggi e latticini",
+    "file": "1707.json"
+  },
+  {
+    "id": 666014,
+    "nome": "DOLCIFICANTE, ASPARTAME, IN COMPRESSE",
+    "categoria": "dolcificanti",
+    "file": "666014.json"
+  },
+  {
+    "id": 666006,
+    "nome": "DOLCIFICANTE, CON ASPARTAME E LATTOSIO, IN COMPRESSE",
+    "categoria": "dolcificanti",
+    "file": "666006.json"
+  },
+  {
+    "id": 666008,
+    "nome": "DOLCIFICANTE, CON SACCARINA E POLIOLI, IN POLVERE",
+    "categoria": "dolcificanti",
+    "file": "666008.json"
+  },
+  {
+    "id": 9126,
+    "nome": "DOLCIFICANTE, CON SACCAROSIO ED EDULCOLORANTI INTENSI, IN POLVERE",
+    "categoria": "dolcificanti",
+    "file": "9126.json"
+  },
+  {
+    "id": 9067,
+    "nome": "DOLCIFICANTE, CON STEVIA E POLIOLI, IN POLVERE",
+    "categoria": "dolcificanti",
+    "file": "9067.json"
+  },
+  {
+    "id": 666007,
+    "nome": "DOLCIFICANTE, FRUTTOSIO PURO, IN POLVERE",
+    "categoria": "dolcificanti",
+    "file": "666007.json"
+  },
+  {
+    "id": 777013,
+    "nome": "DOLCIFICANTE, SACCARINA PURA, IN COMPRESSE",
+    "categoria": "dolcificanti",
+    "file": "777013.json"
+  },
+  {
+    "id": 100014,
+    "nome": "EDAM STAGIONATО",
+    "categoria": "formaggi e latticini",
+    "file": "100014.json"
+  },
+  {
+    "id": 61784,
+    "nome": "EDAM, FRESCO",
+    "categoria": "formaggi e latticini",
+    "file": "61784.json"
+  },
+  {
+    "id": 1708,
+    "nome": "EMMENTHAL",
+    "categoria": "formaggi e latticini",
+    "file": "1708.json"
+  },
+  {
+    "id": 8006,
+    "nome": "ERBA CIPOLLINA, fresca",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8006.json"
+  },
+  {
+    "id": 100284,
+    "nome": "ERBE AROMATICHE (FOGLIE)",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "100284.json"
+  },
+  {
+    "id": 100286,
+    "nome": "ERBE AROMATICHE (SEMI)",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "100286.json"
+  },
+  {
+    "id": 3014,
+    "nome": "ESTRATTO DI CARNE BOVINA",
+    "categoria": "dadi, gelatina alimentare, estratti e prodotti a base di glutammato",
+    "file": "3014.json"
+  },
+  {
+    "id": 1084,
+    "nome": "FAGIANO",
+    "categoria": "carne di volatili, pollo",
+    "file": "1084.json"
+  },
+  {
+    "id": 100,
+    "nome": "FAGIOLI",
+    "categoria": "legumi",
+    "file": "100.json"
+  },
+  {
+    "id": 8030,
+    "nome": "FAGIOLI ADUKI, secchi",
+    "categoria": "legumi",
+    "file": "8030.json"
+  },
+  {
+    "id": 8033,
+    "nome": "FAGIOLI MUNG, secchi",
+    "categoria": "legumi",
+    "file": "8033.json"
+  },
+  {
+    "id": 100139,
+    "nome": "FAGIOLI, IN SCATOLA",
+    "categoria": "legumi",
+    "file": "100139.json"
+  },
+  {
+    "id": 202,
+    "nome": "FAGIOLI, secchi",
+    "categoria": "legumi",
+    "file": "202.json"
+  },
+  {
+    "id": 101,
+    "nome": "FAGIOLINI",
+    "categoria": "legumi",
+    "file": "101.json"
+  },
+  {
+    "id": 700483,
+    "nome": "FAGIOLINI IN SCATOLA",
+    "categoria": "legumi",
+    "file": "700483.json"
+  },
+  {
+    "id": 8790,
+    "nome": "FARAONA, COSCIO, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8790.json"
+  },
+  {
+    "id": 1086,
+    "nome": "FARAONA, COSCIO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1086.json"
+  },
+  {
+    "id": 8792,
+    "nome": "FARAONA, COSCIO, senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8792.json"
+  },
+  {
+    "id": 1085,
+    "nome": "FARAONA, PETTO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1085.json"
+  },
+  {
+    "id": 8794,
+    "nome": "FARAONA, PETTO, senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8794.json"
+  },
+  {
+    "id": 600546,
+    "nome": "FARAONA, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "600546.json"
+  },
+  {
+    "id": 9,
+    "nome": "FARINA DI AVENA",
+    "categoria": "farine e amidi di cereali",
+    "file": "9.json"
+  },
+  {
+    "id": 3100,
+    "nome": "FARINA DI CASTAGNE",
+    "categoria": "farine di frutta (castagne, cocco, etc)",
+    "file": "3100.json"
+  },
+  {
+    "id": 700080,
+    "nome": "FARINA DI CECI",
+    "categoria": "farine di legumi",
+    "file": "700080.json"
+  },
+  {
+    "id": 999834,
+    "nome": "FARINA DI COCCO",
+    "categoria": "farine di frutta (castagne, cocco, etc)",
+    "file": "999834.json"
+  },
+  {
+    "id": 889004,
+    "nome": "FARINA DI FARRO",
+    "categoria": "farine e amidi di cereali",
+    "file": "889004.json"
+  },
+  {
+    "id": 10,
+    "nome": "FARINA DI FRUMENTO, INTEGRALE",
+    "categoria": "farine e amidi di cereali",
+    "file": "10.json"
+  },
+  {
+    "id": 11,
+    "nome": "FARINA DI FRUMENTO, TIPO",
+    "categoria": "farine e amidi di cereali",
+    "file": "11.json"
+  },
+  {
+    "id": 12,
+    "nome": "FARINA DI FRUMENTO, TIPO 00",
+    "categoria": "farine e amidi di cereali",
+    "file": "12.json"
+  },
+  {
+    "id": 19021,
+    "nome": "FARINA DI GRANO DURO",
+    "categoria": "farine e amidi di cereali",
+    "file": "19021.json"
+  },
+  {
+    "id": 805470,
+    "nome": "FARINA DI GRANO SARACENO",
+    "categoria": "farine e amidi di cereali",
+    "file": "805470.json"
+  },
+  {
+    "id": 13,
+    "nome": "FARINA DI MAIS",
+    "categoria": "farine e amidi di cereali",
+    "file": "13.json"
+  },
+  {
+    "id": 888034,
+    "nome": "FARINA DI MIGLIO",
+    "categoria": "farine e amidi di cereali",
+    "file": "888034.json"
+  },
+  {
+    "id": 14,
+    "nome": "FARINA DI ORZO",
+    "categoria": "farine e amidi di cereali",
+    "file": "14.json"
+  },
+  {
+    "id": 15,
+    "nome": "FARINA DI RISO",
+    "categoria": "farine e amidi di cereali",
+    "file": "15.json"
+  },
+  {
+    "id": 19022,
+    "nome": "FARINA DI SEGALE, integrale",
+    "categoria": "farine e amidi di cereali",
+    "file": "19022.json"
+  },
+  {
+    "id": 500003,
+    "nome": "FARINA DI SEGALE, semi-integrale",
+    "categoria": "farine e amidi di cereali",
+    "file": "500003.json"
+  },
+  {
+    "id": 8034,
+    "nome": "FARINA DI SOIA, a basso contenuto lipidico",
+    "categoria": "farine di legumi",
+    "file": "8034.json"
+  },
+  {
+    "id": 999024,
+    "nome": "FARINA DI SOIA, intera",
+    "categoria": "farine di legumi",
+    "file": "999024.json"
+  },
+  {
+    "id": 1628,
+    "nome": "FARINA LATTEA",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "1628.json"
+  },
+  {
+    "id": 9054,
+    "nome": "FARINA LATTEA CON CEREALI E FRUTTA",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "9054.json"
+  },
+  {
+    "id": 8830,
+    "nome": "FARRO, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8830.json"
+  },
+  {
+    "id": 8603,
+    "nome": "FARRO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8603.json"
+  },
+  {
+    "id": 102,
+    "nome": "FAVE",
+    "categoria": "legumi",
+    "file": "102.json"
+  },
+  {
+    "id": 203,
+    "nome": "FAVE, secche, sgusciate",
+    "categoria": "legumi",
+    "file": "203.json"
+  },
+  {
+    "id": 8637,
+    "nome": "FEISOA",
+    "categoria": "frutta fresca e bacche",
+    "file": "8637.json"
+  },
+  {
+    "id": 805080,
+    "nome": "FETA",
+    "categoria": "formaggi e latticini",
+    "file": "805080.json"
+  },
+  {
+    "id": 73,
+    "nome": "FETTE BISCOTTATE",
+    "categoria": "fette biscottate",
+    "file": "73.json"
+  },
+  {
+    "id": 100149,
+    "nome": "FETTE BISCOTTATE, DOLCI",
+    "categoria": "fette biscottate",
+    "file": "100149.json"
+  },
+  {
+    "id": 60093,
+    "nome": "FETTE BISCOTTATE, INTEGRALI",
+    "categoria": "fette biscottate",
+    "file": "60093.json"
+  },
+  {
+    "id": 700471,
+    "nome": "FETTE BISCOTTATE, VITAMINIZZATE",
+    "categoria": "fette biscottate",
+    "file": "700471.json"
+  },
+  {
+    "id": 19018,
+    "nome": "FETTE DI SEGALE INTEGRALI",
+    "categoria": "fette biscottate",
+    "file": "19018.json"
+  },
+  {
+    "id": 409,
+    "nome": "FICHI",
+    "categoria": "frutta fresca e bacche",
+    "file": "409.json"
+  },
+  {
+    "id": 410,
+    "nome": "FICHI D'INDIA",
+    "categoria": "frutta fresca e bacche",
+    "file": "410.json"
+  },
+  {
+    "id": 8638,
+    "nome": "FICHI, CANDITI",
+    "categoria": "frutta candita",
+    "file": "8638.json"
+  },
+  {
+    "id": 507,
+    "nome": "FICHI, seccati al forno e mandorlati",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "507.json"
+  },
+  {
+    "id": 100185,
+    "nome": "FICHI, seccati al sole",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "100185.json"
+  },
+  {
+    "id": 506,
+    "nome": "FICHI, secchi",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "506.json"
+  },
+  {
+    "id": 324,
+    "nome": "FINOCCHIO",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "324.json"
+  },
+  {
+    "id": 8007,
+    "nome": "FINOCCHIO, SEMI",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8007.json"
+  },
+  {
+    "id": 701003,
+    "nome": "FIOCCHI D'ORZO",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "701003.json"
+  },
+  {
+    "id": 16,
+    "nome": "FIOCCHI DI AVENA",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "16.json"
+  },
+  {
+    "id": 700015,
+    "nome": "FIOCCHI DI CRUSCA DI GRANO, fortificati",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "700015.json"
+  },
+  {
+    "id": 100015,
+    "nome": "FIOCCHI DI LATTE MAGRO",
+    "categoria": "formaggi e latticini",
+    "file": "100015.json"
+  },
+  {
+    "id": 19,
+    "nome": "FIOCCHI DI MAIS (CORNFLAKES), non fortificati",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "19.json"
+  },
+  {
+    "id": 9703,
+    "nome": "FIOCCHI DI MAIS (CORNFLAKS), fortificati",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "9703.json"
+  },
+  {
+    "id": 700026,
+    "nome": "FIOCCHI DI RISO",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "700026.json"
+  },
+  {
+    "id": 900551,
+    "nome": "FIOCCHI MISTI DI CEREALI",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "900551.json"
+  },
+  {
+    "id": 9081,
+    "nome": "FIOCCHI MISTI DI CEREALI con cioccolato",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "9081.json"
+  },
+  {
+    "id": 9080,
+    "nome": "FIOCCHI MISTI DI CEREALI, con frutta",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "9080.json"
+  },
+  {
+    "id": 1709,
+    "nome": "FIOR DI LATTE",
+    "categoria": "formaggi e latticini",
+    "file": "1709.json"
+  },
+  {
+    "id": 325,
+    "nome": "FIORI DI ZUCCA",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "325.json"
+  },
+  {
+    "id": 77,
+    "nome": "FOCACCIA",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "77.json"
+  },
+  {
+    "id": 1710,
+    "nome": "FONTINA",
+    "categoria": "formaggi e latticini",
+    "file": "1710.json"
+  },
+  {
+    "id": 1711,
+    "nome": "FORMAGGINO",
+    "categoria": "formaggi e latticini",
+    "file": "1711.json"
+  },
+  {
+    "id": 1712,
+    "nome": "FORMAGGINO, a basso tenore di lipidi",
+    "categoria": "formaggi e latticini",
+    "file": "1712.json"
+  },
+  {
+    "id": 900015,
+    "nome": "FORMAGGIO AL GORGONZOLA E AL MASCARPONE",
+    "categoria": "formaggi e latticini",
+    "file": "900015.json"
+  },
+  {
+    "id": 8054,
+    "nome": "FORMAGGIO CREMOSO SPALMABILE, LIGHT",
+    "categoria": "formaggi e latticini",
+    "file": "8054.json"
+  },
+  {
+    "id": 1700,
+    "nome": "FORMAGGIO MOLLE DA TAVOLA (TIPO BEL PAESE)",
+    "categoria": "formaggi e latticini",
+    "file": "1700.json"
+  },
+  {
+    "id": 21792,
+    "nome": "FORMAGGIO SPALMABILE (tipo Philadelphia)",
+    "categoria": "formaggi e latticini",
+    "file": "21792.json"
+  },
+  {
+    "id": 411,
+    "nome": "FRAGOLE",
+    "categoria": "frutta fresca e bacche",
+    "file": "411.json"
+  },
+  {
+    "id": 9093,
+    "nome": "FRISELLE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9093.json"
+  },
+  {
+    "id": 1,
+    "nome": "FRUMENTO DURO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "1.json"
+  },
+  {
+    "id": 2,
+    "nome": "FRUMENTO TENERO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "2.json"
+  },
+  {
+    "id": 889006,
+    "nome": "FRUMENTO, AMIDO",
+    "categoria": "farine e amidi di cereali",
+    "file": "889006.json"
+  },
+  {
+    "id": 9002,
+    "nome": "FRUTTA COTTA, con zucchero",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "9002.json"
+  },
+  {
+    "id": 900067,
+    "nome": "FRUTTA COTTA, senza zucchero",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "900067.json"
+  },
+  {
+    "id": 9071,
+    "nome": "FRUTTA ESOTICA, NS",
+    "categoria": "frutta fresca e bacche",
+    "file": "9071.json"
+  },
+  {
+    "id": 9072,
+    "nome": "FRUTTA FRESCA ESTIVA, NS",
+    "categoria": "frutta fresca e bacche",
+    "file": "9072.json"
+  },
+  {
+    "id": 9073,
+    "nome": "FRUTTA FRESCA INVERNALE, NS",
+    "categoria": "frutta fresca e bacche",
+    "file": "9073.json"
+  },
+  {
+    "id": 9074,
+    "nome": "FRUTTA FRESCA, NS",
+    "categoria": "frutta fresca e bacche",
+    "file": "9074.json"
+  },
+  {
+    "id": 900077,
+    "nome": "FRUTTA SECCA, NS",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "900077.json"
+  },
+  {
+    "id": 9076,
+    "nome": "FRUTTA SECCA, OLEAGINOSA, NS",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "9076.json"
+  },
+  {
+    "id": 9077,
+    "nome": "FRUTTA SECCA, ZUCCHERINA, NS",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "9077.json"
+  },
+  {
+    "id": 603552,
+    "nome": "FUNGHI, CHIODINI",
+    "categoria": "funghi, tartufi",
+    "file": "603552.json"
+  },
+  {
+    "id": 603554,
+    "nome": "FUNGHI, GALLINACCI",
+    "categoria": "funghi, tartufi",
+    "file": "603554.json"
+  },
+  {
+    "id": 603558,
+    "nome": "FUNGHI, GALLINACCI, secchi",
+    "categoria": "funghi, tartufi",
+    "file": "603558.json"
+  },
+  {
+    "id": 100173,
+    "nome": "FUNGHI, IN SCATOLA",
+    "categoria": "funghi, tartufi",
+    "file": "100173.json"
+  },
+  {
+    "id": 327,
+    "nome": "FUNGHI, OVULI",
+    "categoria": "funghi, tartufi",
+    "file": "327.json"
+  },
+  {
+    "id": 603551,
+    "nome": "FUNGHI, PORCINELLI",
+    "categoria": "funghi, tartufi",
+    "file": "603551.json"
+  },
+  {
+    "id": 328,
+    "nome": "FUNGHI, PORCINI",
+    "categoria": "funghi, tartufi",
+    "file": "328.json"
+  },
+  {
+    "id": 329,
+    "nome": "FUNGHI, PRATAIOLI, COLTIVATI",
+    "categoria": "funghi, tartufi",
+    "file": "329.json"
+  },
+  {
+    "id": 8036,
+    "nome": "FUNGHI, SHIITAKE, secchi",
+    "categoria": "funghi, tartufi",
+    "file": "8036.json"
+  },
+  {
+    "id": 100175,
+    "nome": "FUNGHI, SOTT'OLIO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "100175.json"
+  },
+  {
+    "id": 603553,
+    "nome": "FUNGHI, SPUGNOLI",
+    "categoria": "funghi, tartufi",
+    "file": "603553.json"
+  },
+  {
+    "id": 100174,
+    "nome": "FUNGHI, secchi",
+    "categoria": "funghi, tartufi",
+    "file": "100174.json"
+  },
+  {
+    "id": 9088,
+    "nome": "GALLETTE DI MAIS",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "9088.json"
+  },
+  {
+    "id": 8077,
+    "nome": "GALLETTE DI RISO",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "8077.json"
+  },
+  {
+    "id": 9089,
+    "nome": "GALLETTE MULTICEREALI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "9089.json"
+  },
+  {
+    "id": 1087,
+    "nome": "GALLINA",
+    "categoria": "carne di volatili, pollo",
+    "file": "1087.json"
+  },
+  {
+    "id": 100097,
+    "nome": "GAMBERETTI DI LAGO",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "100097.json"
+  },
+  {
+    "id": 100122,
+    "nome": "GAMBERETTI, SURGELATI",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "100122.json"
+  },
+  {
+    "id": 1309,
+    "nome": "GAMBERO",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "1309.json"
+  },
+  {
+    "id": 100054,
+    "nome": "GELATINA ALIMENTARE, secca",
+    "categoria": "dadi, gelatina alimentare, estratti e prodotti a base di glutammato",
+    "file": "100054.json"
+  },
+  {
+    "id": 8757,
+    "nome": "GELATO CONFEZIONATO, BISCOTTO",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8757.json"
+  },
+  {
+    "id": 19032,
+    "nome": "GELATO CONFEZIONATO, CACAO O CIOCCOLATO, IN VASCHETTA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "19032.json"
+  },
+  {
+    "id": 8759,
+    "nome": "GELATO CONFEZIONATO, CAFFE', IN VASCHETTA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8759.json"
+  },
+  {
+    "id": 8760,
+    "nome": "GELATO CONFEZIONATO, CONO CON PANNA E CIOCCOLATO",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8760.json"
+  },
+  {
+    "id": 8761,
+    "nome": "GELATO CONFEZIONATO, CONO CON PANNA, SCAGLIE DI CIOCCOLATO E NOCCIOLE",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8761.json"
+  },
+  {
+    "id": 8770,
+    "nome": "GELATO CONFEZIONATO, CREMA O VANIGLIA, IN VASCHETTA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8770.json"
+  },
+  {
+    "id": 8763,
+    "nome": "GELATO CONFEZIONATO, FIOR DI LATTE, RICOPERTO DI SORBETTO",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8763.json"
+  },
+  {
+    "id": 8767,
+    "nome": "GELATO CONFEZIONATO, FIORDILATTE, RICOPERTO DI CIOCCOLATO \"FONDENTE\"",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8767.json"
+  },
+  {
+    "id": 8765,
+    "nome": "GELATO CONFEZIONATO, NOCCIOLA, IN VASCHETTA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8765.json"
+  },
+  {
+    "id": 2010,
+    "nome": "GELATO CONFEZIONATO, PANNA O FIORDILATTE, IN VASCHETTA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "2010.json"
+  },
+  {
+    "id": 8769,
+    "nome": "GELATO CONFEZIONATO, STRACCIATELLA, IN VASCHETTA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8769.json"
+  },
+  {
+    "id": 74,
+    "nome": "GERME DI GRANO",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "74.json"
+  },
+  {
+    "id": 8035,
+    "nome": "GERMOGLI DI ERBA MEDICA",
+    "categoria": "germogli (soia, bambù), asparagi",
+    "file": "8035.json"
+  },
+  {
+    "id": 2011,
+    "nome": "GHIACCIOLO",
+    "categoria": "gelati, ghiaccioli",
+    "file": "2011.json"
+  },
+  {
+    "id": 100176,
+    "nome": "GIARDINIERA, SOTT'ACETO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "100176.json"
+  },
+  {
+    "id": 9003,
+    "nome": "GIARDINIERA, SOTT'OLIO",
+    "categoria": "olive, verdure sott'olio, sott'aceto, in agrodolce",
+    "file": "9003.json"
+  },
+  {
+    "id": 888014,
+    "nome": "GIN",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "888014.json"
+  },
+  {
+    "id": 2012,
+    "nome": "GOMME DA MASTICARE",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "2012.json"
+  },
+  {
+    "id": 1713,
+    "nome": "GORGONZOLA",
+    "categoria": "formaggi e latticini",
+    "file": "1713.json"
+  },
+  {
+    "id": 900686,
+    "nome": "GORGONZOLA CON LE NOCI",
+    "categoria": "formaggi e latticini",
+    "file": "900686.json"
+  },
+  {
+    "id": 100017,
+    "nome": "GOUDA FRESCO",
+    "categoria": "formaggi e latticini",
+    "file": "100017.json"
+  },
+  {
+    "id": 100018,
+    "nome": "GOUDA STAGIONATO",
+    "categoria": "formaggi e latticini",
+    "file": "100018.json"
+  },
+  {
+    "id": 1714,
+    "nome": "GRANA",
+    "categoria": "formaggi e latticini",
+    "file": "1714.json"
+  },
+  {
+    "id": 700418,
+    "nome": "GRANCHIO",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "700418.json"
+  },
+  {
+    "id": 603017,
+    "nome": "GRANCHIO, POLPA, IN SCATOLA",
+    "categoria": "crostacei (freschi, surgelati, cotti o conservati)",
+    "file": "603017.json"
+  },
+  {
+    "id": 100152,
+    "nome": "GRANITO DI TENERO",
+    "categoria": "farine e amidi di cereali",
+    "file": "100152.json"
+  },
+  {
+    "id": 9115,
+    "nome": "GRANO COTTO",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "9115.json"
+  },
+  {
+    "id": 8604,
+    "nome": "GRANO SARACENO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8604.json"
+  },
+  {
+    "id": 4003,
+    "nome": "GRAPPA",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "4003.json"
+  },
+  {
+    "id": 20,
+    "nome": "GRISSINI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "20.json"
+  },
+  {
+    "id": 19038,
+    "nome": "GRISSINI, INTEGRALI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "19038.json"
+  },
+  {
+    "id": 1715,
+    "nome": "GROVIERA",
+    "categoria": "formaggi e latticini",
+    "file": "1715.json"
+  },
+  {
+    "id": 8639,
+    "nome": "GUAVA",
+    "categoria": "frutta fresca e bacche",
+    "file": "8639.json"
+  },
+  {
+    "id": 500019,
+    "nome": "HALIBUT",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "500019.json"
+  },
+  {
+    "id": 330,
+    "nome": "INDIVIA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "330.json"
+  },
+  {
+    "id": 800062,
+    "nome": "INSALATA DI RISO",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "800062.json"
+  },
+  {
+    "id": 9001,
+    "nome": "INSALATA, NS",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "9001.json"
+  },
+  {
+    "id": 8022,
+    "nome": "IRISH MOSS",
+    "categoria": "alghe",
+    "file": "8022.json"
+  },
+  {
+    "id": 8748,
+    "nome": "ITALICO",
+    "categoria": "formaggi e latticini",
+    "file": "8748.json"
+  },
+  {
+    "id": 415,
+    "nome": "KAKI O LOTI",
+    "categoria": "frutta fresca e bacche",
+    "file": "415.json"
+  },
+  {
+    "id": 888041,
+    "nome": "KAMUT®, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "888041.json"
+  },
+  {
+    "id": 889003,
+    "nome": "KAMUT®, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "889003.json"
+  },
+  {
+    "id": 429,
+    "nome": "KIWI",
+    "categoria": "frutta fresca e bacche",
+    "file": "429.json"
+  },
+  {
+    "id": 8024,
+    "nome": "KOMBU, secca",
+    "categoria": "alghe",
+    "file": "8024.json"
+  },
+  {
+    "id": 412,
+    "nome": "LAMPONI",
+    "categoria": "frutta fresca e bacche",
+    "file": "412.json"
+  },
+  {
+    "id": 1901,
+    "nome": "LARDO",
+    "categoria": "burro e grassi animali (esclusa panna)",
+    "file": "1901.json"
+  },
+  {
+    "id": 1611,
+    "nome": "LATTE CONCENTRATO",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "1611.json"
+  },
+  {
+    "id": 100004,
+    "nome": "LATTE DI BUFALA",
+    "categoria": "latte",
+    "file": "100004.json"
+  },
+  {
+    "id": 1600,
+    "nome": "LATTE DI CAPRA",
+    "categoria": "latte",
+    "file": "1600.json"
+  },
+  {
+    "id": 1601,
+    "nome": "LATTE DI PECORA",
+    "categoria": "latte",
+    "file": "1601.json"
+  },
+  {
+    "id": 1605,
+    "nome": "LATTE DI VACCA, CONDENSATO, CON ZUCCHERO",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "1605.json"
+  },
+  {
+    "id": 1602,
+    "nome": "LATTE DI VACCA, INTERO, PASTORIZZATO",
+    "categoria": "latte",
+    "file": "1602.json"
+  },
+  {
+    "id": 805018,
+    "nome": "LATTE DI VACCA, INTERO, UHT",
+    "categoria": "latte",
+    "file": "805018.json"
+  },
+  {
+    "id": 100006,
+    "nome": "LATTE DI VACCA, INTERO, VITAMINIZZATO",
+    "categoria": "latte",
+    "file": "100006.json"
+  },
+  {
+    "id": 1620,
+    "nome": "LATTE DI VACCA, INTERO, in polvere",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "1620.json"
+  },
+  {
+    "id": 1603,
+    "nome": "LATTE DI VACCA, PARZIALMENTE SCREMATO, PASTORIZZATO",
+    "categoria": "latte",
+    "file": "1603.json"
+  },
+  {
+    "id": 700428,
+    "nome": "LATTE DI VACCA, PARZIALMENTE SCREMATO, UHT",
+    "categoria": "latte",
+    "file": "700428.json"
+  },
+  {
+    "id": 100007,
+    "nome": "LATTE DI VACCA, PARZIALMENTE SCREMATO, VITAMINIZZATO",
+    "categoria": "latte",
+    "file": "100007.json"
+  },
+  {
+    "id": 1621,
+    "nome": "LATTE DI VACCA, PARZIALMENTE SCREMATO, in polvere",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "1621.json"
+  },
+  {
+    "id": 1604,
+    "nome": "LATTE DI VACCA, SCREMATO, PASTORIZZATO",
+    "categoria": "latte",
+    "file": "1604.json"
+  },
+  {
+    "id": 700429,
+    "nome": "LATTE DI VACCA, SCREMATO, UHT",
+    "categoria": "latte",
+    "file": "700429.json"
+  },
+  {
+    "id": 1622,
+    "nome": "LATTE DI VACCA, SCREMATO, in polvere",
+    "categoria": "farine lattee, latte condensato e in polvere",
+    "file": "1622.json"
+  },
+  {
+    "id": 1716,
+    "nome": "LATTERIA",
+    "categoria": "formaggi e latticini",
+    "file": "1716.json"
+  },
+  {
+    "id": 1310,
+    "nome": "LATTERINI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1310.json"
+  },
+  {
+    "id": 331,
+    "nome": "LATTUGA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "331.json"
+  },
+  {
+    "id": 332,
+    "nome": "LATTUGA, A CAPPUCCIO",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "332.json"
+  },
+  {
+    "id": 333,
+    "nome": "LATTUGA, DA TAGLIO",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "333.json"
+  },
+  {
+    "id": 8048,
+    "nome": "LENTI COLORATE RIPIENE DI CIOCCOLATO",
+    "categoria": "cioccolatini, tavolette e creme spalmabili",
+    "file": "8048.json"
+  },
+  {
+    "id": 100140,
+    "nome": "LENTICCHIE, IN SCATOLA",
+    "categoria": "legumi",
+    "file": "100140.json"
+  },
+  {
+    "id": 204,
+    "nome": "LENTICCHIE, secche",
+    "categoria": "legumi",
+    "file": "204.json"
+  },
+  {
+    "id": 100045,
+    "nome": "LEPRE, COSCIO",
+    "categoria": "carne di coniglio e di lepre",
+    "file": "100045.json"
+  },
+  {
+    "id": 3003,
+    "nome": "LIEVITO DI BIRRA, compresso",
+    "categoria": "prodotti per la lievitazione",
+    "file": "3003.json"
+  },
+  {
+    "id": 888012,
+    "nome": "LIEVITO DI BIRRA, secco",
+    "categoria": "prodotti per la lievitazione",
+    "file": "888012.json"
+  },
+  {
+    "id": 8040,
+    "nome": "LIEVITO PER DOLCI, in polvere",
+    "categoria": "prodotti per la lievitazione",
+    "file": "8040.json"
+  },
+  {
+    "id": 100182,
+    "nome": "LIMETTE",
+    "categoria": "frutta fresca e bacche",
+    "file": "100182.json"
+  },
+  {
+    "id": 413,
+    "nome": "LIMONE",
+    "categoria": "frutta fresca e bacche",
+    "file": "413.json"
+  },
+  {
+    "id": 606512,
+    "nome": "LIMONE, SCORZA",
+    "categoria": "frutta fresca e bacche",
+    "file": "606512.json"
+  },
+  {
+    "id": 9600,
+    "nome": "LINO, SEMI",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "9600.json"
+  },
+  {
+    "id": 12983,
+    "nome": "LIQUIRIZIA DOLCE",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "12983.json"
+  },
+  {
+    "id": 9121,
+    "nome": "LIQUIRIZIA PURA, NERA",
+    "categoria": "caramelle, liquirizia, confetti",
+    "file": "9121.json"
+  },
+  {
+    "id": 4004,
+    "nome": "LIQUORI DA DESSERT (tra 31 e 35 %vol)",
+    "categoria": "liquori dolci e amari",
+    "file": "4004.json"
+  },
+  {
+    "id": 8640,
+    "nome": "LITCHI",
+    "categoria": "frutta fresca e bacche",
+    "file": "8640.json"
+  },
+  {
+    "id": 1311,
+    "nome": "LUCCIO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1311.json"
+  },
+  {
+    "id": 1088,
+    "nome": "LUMACA",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "1088.json"
+  },
+  {
+    "id": 602073,
+    "nome": "LUMACHE DI MARE",
+    "categoria": "molluschi",
+    "file": "602073.json"
+  },
+  {
+    "id": 205,
+    "nome": "LUPINI DEAMARIZZATI",
+    "categoria": "legumi",
+    "file": "205.json"
+  },
+  {
+    "id": 8804,
+    "nome": "MACADAMIA",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8804.json"
+  },
+  {
+    "id": 9075,
+    "nome": "MACEDONIA DI FRUTTA, FRESCA",
+    "categoria": "frutta fresca e bacche",
+    "file": "9075.json"
+  },
+  {
+    "id": 900864,
+    "nome": "MACEDONIA DI FRUTTA, IN SCATOLA",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "900864.json"
+  },
+  {
+    "id": 8010,
+    "nome": "MAGGIORANA, secca",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8010.json"
+  },
+  {
+    "id": 3004,
+    "nome": "MAIONESE",
+    "categoria": "salse a base di maionese",
+    "file": "3004.json"
+  },
+  {
+    "id": 9039,
+    "nome": "MAIS DOLCE, IN SCATOLA",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "9039.json"
+  },
+  {
+    "id": 50086,
+    "nome": "MAIS DOLCE, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "50086.json"
+  },
+  {
+    "id": 700005,
+    "nome": "MAIS SOFFIATO",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "700005.json"
+  },
+  {
+    "id": 8605,
+    "nome": "MAIS, AMIDO",
+    "categoria": "farine e amidi di cereali",
+    "file": "8605.json"
+  },
+  {
+    "id": 3,
+    "nome": "MAIS, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "3.json"
+  },
+  {
+    "id": 416,
+    "nome": "MANDARANCI e CLEMENTINE",
+    "categoria": "frutta fresca e bacche",
+    "file": "416.json"
+  },
+  {
+    "id": 417,
+    "nome": "MANDARINI",
+    "categoria": "frutta fresca e bacche",
+    "file": "417.json"
+  },
+  {
+    "id": 508,
+    "nome": "MANDORLE DOLCI, fresche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "508.json"
+  },
+  {
+    "id": 8808,
+    "nome": "MANDORLE DOLCI, secche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8808.json"
+  },
+  {
+    "id": 805867,
+    "nome": "MANGO",
+    "categoria": "frutta fresca e bacche",
+    "file": "805867.json"
+  },
+  {
+    "id": 900,
+    "nome": "MARGARINA MISTA",
+    "categoria": "margarina",
+    "file": "900.json"
+  },
+  {
+    "id": 8069,
+    "nome": "MARGARINA PANETTO VEGETALE",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "8069.json"
+  },
+  {
+    "id": 8028,
+    "nome": "MARGARINA SPALMABILE VEGETALE",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "8028.json"
+  },
+  {
+    "id": 100193,
+    "nome": "MARMELLATA (CONFETTURA) DI ARANCE o AGRUMI",
+    "categoria": "marmellate",
+    "file": "100193.json"
+  },
+  {
+    "id": 4005,
+    "nome": "MARSALA ALL'UOVO",
+    "categoria": "liquori dolci e amari",
+    "file": "4005.json"
+  },
+  {
+    "id": 4006,
+    "nome": "MARSALA TIPICO",
+    "categoria": "liquori dolci e amari",
+    "file": "4006.json"
+  },
+  {
+    "id": 1717,
+    "nome": "MASCARPONE",
+    "categoria": "formaggi e latticini",
+    "file": "1717.json"
+  },
+  {
+    "id": 418,
+    "nome": "MELAGRANE",
+    "categoria": "frutta fresca e bacche",
+    "file": "418.json"
+  },
+  {
+    "id": 334,
+    "nome": "MELANZANE",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "334.json"
+  },
+  {
+    "id": 900616,
+    "nome": "MELANZANE, SOTT'OLIO",
+    "categoria": "olive, verdure sott'olio, sott'aceto, in agrodolce",
+    "file": "900616.json"
+  },
+  {
+    "id": 8641,
+    "nome": "MELE ANNURCHE, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8641.json"
+  },
+  {
+    "id": 420,
+    "nome": "MELE COTOGNE",
+    "categoria": "frutta fresca e bacche",
+    "file": "420.json"
+  },
+  {
+    "id": 8642,
+    "nome": "MELE DELIZIOSE, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8642.json"
+  },
+  {
+    "id": 8643,
+    "nome": "MELE GOLDEN, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8643.json"
+  },
+  {
+    "id": 8644,
+    "nome": "MELE GRANNY SMITH, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8644.json"
+  },
+  {
+    "id": 8645,
+    "nome": "MELE IMPERATORE, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8645.json"
+  },
+  {
+    "id": 8646,
+    "nome": "MELE RENETTA, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8646.json"
+  },
+  {
+    "id": 8807,
+    "nome": "MELE, con buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8807.json"
+  },
+  {
+    "id": 8647,
+    "nome": "MELE, disidratate",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8647.json"
+  },
+  {
+    "id": 19047,
+    "nome": "MELE, polpa secca",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "19047.json"
+  },
+  {
+    "id": 419,
+    "nome": "MELE, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "419.json"
+  },
+  {
+    "id": 421,
+    "nome": "MELONE D'ESTATE",
+    "categoria": "frutta fresca e bacche",
+    "file": "421.json"
+  },
+  {
+    "id": 422,
+    "nome": "MELONE D'INVERNO",
+    "categoria": "frutta fresca e bacche",
+    "file": "422.json"
+  },
+  {
+    "id": 1312,
+    "nome": "MELU' O PESCE MOLO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1312.json"
+  },
+  {
+    "id": 8008,
+    "nome": "MENTA, fresca",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8008.json"
+  },
+  {
+    "id": 8009,
+    "nome": "MENTA, secca",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8009.json"
+  },
+  {
+    "id": 19048,
+    "nome": "MERENDINE AL CIOCCOLATO",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "19048.json"
+  },
+  {
+    "id": 9105,
+    "nome": "MERENDINE AL LATTE",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9105.json"
+  },
+  {
+    "id": 2015,
+    "nome": "MERENDINE ALLA MARMELLATA",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "2015.json"
+  },
+  {
+    "id": 9108,
+    "nome": "MERENDINE TIPO BRIOCHE, AL CIOCCOLATO",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9108.json"
+  },
+  {
+    "id": 9110,
+    "nome": "MERENDINE TIPO BRIOCHE, ALLA CREMA",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9110.json"
+  },
+  {
+    "id": 9109,
+    "nome": "MERENDINE TIPO BRIOCHE, ALLA MARMELLATA",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9109.json"
+  },
+  {
+    "id": 9101,
+    "nome": "MERENDINE TIPO BRIOCHE, NON FARCITE",
+    "categoria": "brioches, merendine non farcite",
+    "file": "9101.json"
+  },
+  {
+    "id": 9107,
+    "nome": "MERENDINE TIPO PASTA FROLLA, AL CIOCCOLATO",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9107.json"
+  },
+  {
+    "id": 9106,
+    "nome": "MERENDINE TIPO PASTA FROLLA, ALLA MARMELLATA",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "9106.json"
+  },
+  {
+    "id": 9100,
+    "nome": "MERENDINE, NON FARCITE",
+    "categoria": "brioches, merendine non farcite",
+    "file": "9100.json"
+  },
+  {
+    "id": 900505,
+    "nome": "MERINGA",
+    "categoria": "pasticcini (esclusa pasticceria da tè)",
+    "file": "900505.json"
+  },
+  {
+    "id": 1313,
+    "nome": "MERLUZZO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1313.json"
+  },
+  {
+    "id": 1402,
+    "nome": "MERLUZZO, SURGELATO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1402.json"
+  },
+  {
+    "id": 8729,
+    "nome": "MERLUZZO, SURGELATO, FILETTI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8729.json"
+  },
+  {
+    "id": 8629,
+    "nome": "MERLUZZO, SURGELATO, cotto al forno",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8629.json"
+  },
+  {
+    "id": 8630,
+    "nome": "MERLUZZO, SURGELATO, cotto al microonde",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8630.json"
+  },
+  {
+    "id": 2017,
+    "nome": "MIELE",
+    "categoria": "zucchero e miele",
+    "file": "2017.json"
+  },
+  {
+    "id": 8606,
+    "nome": "MIGLIO, DECORTICATO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8606.json"
+  },
+  {
+    "id": 8762,
+    "nome": "MIGLIO, INTERO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8762.json"
+  },
+  {
+    "id": 500021,
+    "nome": "MIRTILLO NERO",
+    "categoria": "frutta fresca e bacche",
+    "file": "500021.json"
+  },
+  {
+    "id": 8037,
+    "nome": "MISO",
+    "categoria": "prodotti della soia",
+    "file": "8037.json"
+  },
+  {
+    "id": 9069,
+    "nome": "MOLLUSCHI, NS",
+    "categoria": "molluschi",
+    "file": "9069.json"
+  },
+  {
+    "id": 100019,
+    "nome": "MONTASIO",
+    "categoria": "formaggi e latticini",
+    "file": "100019.json"
+  },
+  {
+    "id": 100183,
+    "nome": "MORA DI GELSO",
+    "categoria": "frutta fresca e bacche",
+    "file": "100183.json"
+  },
+  {
+    "id": 100184,
+    "nome": "MORA DI ROVO",
+    "categoria": "frutta fresca e bacche",
+    "file": "100184.json"
+  },
+  {
+    "id": 8731,
+    "nome": "MORMORA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8731.json"
+  },
+  {
+    "id": 1155,
+    "nome": "MORTADELLA DI SUINO",
+    "categoria": "insaccati e salumi",
+    "file": "1155.json"
+  },
+  {
+    "id": 1144,
+    "nome": "MORTADELLA DI SUINO E BOVINO",
+    "categoria": "insaccati e salumi",
+    "file": "1144.json"
+  },
+  {
+    "id": 11796,
+    "nome": "MOZZARELLA DI BUFALA",
+    "categoria": "formaggi e latticini",
+    "file": "11796.json"
+  },
+  {
+    "id": 1718,
+    "nome": "MOZZARELLA DI VACCA",
+    "categoria": "formaggi e latticini",
+    "file": "1718.json"
+  },
+  {
+    "id": 999050,
+    "nome": "MUESLI",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "999050.json"
+  },
+  {
+    "id": 8087,
+    "nome": "MUFFIANL CIOCCOLATO",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "8087.json"
+  },
+  {
+    "id": 888038,
+    "nome": "MUFFIN AI MIRTILLI",
+    "categoria": "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)",
+    "file": "888038.json"
+  },
+  {
+    "id": 888008,
+    "nome": "NATTO",
+    "categoria": "prodotti della soia",
+    "file": "888008.json"
+  },
+  {
+    "id": 423,
+    "nome": "NESPOLE DEL GIAPPONE",
+    "categoria": "frutta fresca e bacche",
+    "file": "423.json"
+  },
+  {
+    "id": 511,
+    "nome": "NOCCIOLE, secche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "511.json"
+  },
+  {
+    "id": 524,
+    "nome": "NOCE DI COCCO",
+    "categoria": "frutta fresca e bacche",
+    "file": "524.json"
+  },
+  {
+    "id": 100217,
+    "nome": "NOCE MOSCATA",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "100217.json"
+  },
+  {
+    "id": 8648,
+    "nome": "NOCI PECAN",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8648.json"
+  },
+  {
+    "id": 509,
+    "nome": "NOCI, fresche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "509.json"
+  },
+  {
+    "id": 510,
+    "nome": "NOCI, secche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "510.json"
+  },
+  {
+    "id": 8023,
+    "nome": "NORI, secca",
+    "categoria": "alghe",
+    "file": "8023.json"
+  },
+  {
+    "id": 1089,
+    "nome": "OCA",
+    "categoria": "carne di volatili, pollo",
+    "file": "1089.json"
+  },
+  {
+    "id": 8732,
+    "nome": "OCCHIATA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8732.json"
+  },
+  {
+    "id": 904,
+    "nome": "OLIO DI COCCO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "904.json"
+  },
+  {
+    "id": 905,
+    "nome": "OLIO DI COLZA",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "905.json"
+  },
+  {
+    "id": 888026,
+    "nome": "OLIO DI COLZA A ZERO ERUCICO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "888026.json"
+  },
+  {
+    "id": 8055,
+    "nome": "OLIO DI FEGATO DI MERLUZZO",
+    "categoria": "burro e grassi animali (esclusa panna)",
+    "file": "8055.json"
+  },
+  {
+    "id": 805166,
+    "nome": "OLIO DI GERME DI GRANO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "805166.json"
+  },
+  {
+    "id": 9044,
+    "nome": "OLIO DI MAIS VITAMINIZZATO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "9044.json"
+  },
+  {
+    "id": 8753,
+    "nome": "OLIO DI MANDORLE DOLCI",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "8753.json"
+  },
+  {
+    "id": 901,
+    "nome": "OLIO DI OLIVA",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "901.json"
+  },
+  {
+    "id": 702901,
+    "nome": "OLIO DI OLIVA EXTRAVERGINE",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "702901.json"
+  },
+  {
+    "id": 700608,
+    "nome": "OLIO DI OLIVA VITAMINIZZATO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "700608.json"
+  },
+  {
+    "id": 908,
+    "nome": "OLIO DI PALMA",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "908.json"
+  },
+  {
+    "id": 888015,
+    "nome": "OLIO DI RISO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "888015.json"
+  },
+  {
+    "id": 100166,
+    "nome": "OLIO DI SEMI DI ARACHIDI",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "100166.json"
+  },
+  {
+    "id": 906,
+    "nome": "OLIO DI SEMI DI GIRASOLE",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "906.json"
+  },
+  {
+    "id": 907,
+    "nome": "OLIO DI SEMI DI MAIS",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "907.json"
+  },
+  {
+    "id": 9068,
+    "nome": "OLIO DI SEMI NS",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "9068.json"
+  },
+  {
+    "id": 902,
+    "nome": "OLIO DI SEMI VARI",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "902.json"
+  },
+  {
+    "id": 909,
+    "nome": "OLIO DI SESAMO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "909.json"
+  },
+  {
+    "id": 910,
+    "nome": "OLIO DI SOIA",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "910.json"
+  },
+  {
+    "id": 911,
+    "nome": "OLIO DI VINACCIOLO",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "911.json"
+  },
+  {
+    "id": 9023,
+    "nome": "OLIO NS",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "9023.json"
+  },
+  {
+    "id": 9050,
+    "nome": "OLIO PER FRITTURA",
+    "categoria": "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)",
+    "file": "9050.json"
+  },
+  {
+    "id": 591,
+    "nome": "OLIVE, DA TAVOLA, conservate",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "591.json"
+  },
+  {
+    "id": 592,
+    "nome": "OLIVE, NERE",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "592.json"
+  },
+  {
+    "id": 590,
+    "nome": "OLIVE, VERDI",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "590.json"
+  },
+  {
+    "id": 700415,
+    "nome": "OMBRINA, SURGELATA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "700415.json"
+  },
+  {
+    "id": 8734,
+    "nome": "ORATA, D'ALLEVAMENTO, FILETTI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8734.json"
+  },
+  {
+    "id": 8733,
+    "nome": "ORATA, SELVATICA, FILETTI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8733.json"
+  },
+  {
+    "id": 1403,
+    "nome": "ORATA, SURGELATA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1403.json"
+  },
+  {
+    "id": 8011,
+    "nome": "ORIGANO, fresco",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8011.json"
+  },
+  {
+    "id": 8012,
+    "nome": "ORIGANO, secco macinato",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8012.json"
+  },
+  {
+    "id": 700168,
+    "nome": "ORTICA o",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "700168.json"
+  },
+  {
+    "id": 700010,
+    "nome": "ORZO SOLUBILE o CAFFE' D'ORZO, in polvere",
+    "categoria": "caffè d'orzo, di cicoria",
+    "file": "700010.json"
+  },
+  {
+    "id": 700012,
+    "nome": "ORZO SOLUBILE o CAFFE' D'ORZO, in tazza",
+    "categoria": "caffè d'orzo, di cicoria",
+    "file": "700012.json"
+  },
+  {
+    "id": 8831,
+    "nome": "ORZO, PERLATO, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8831.json"
+  },
+  {
+    "id": 4,
+    "nome": "ORZO, PERLATO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "4.json"
+  },
+  {
+    "id": 1314,
+    "nome": "OSTRICA",
+    "categoria": "molluschi",
+    "file": "1314.json"
+  },
+  {
+    "id": 1263,
+    "nome": "OVINO, CUORE",
+    "categoria": "frattaglie di ovino",
+    "file": "1263.json"
+  },
+  {
+    "id": 1264,
+    "nome": "OVINO, FEGATO",
+    "categoria": "frattaglie di ovino",
+    "file": "1264.json"
+  },
+  {
+    "id": 8735,
+    "nome": "PAGELLO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8735.json"
+  },
+  {
+    "id": 8736,
+    "nome": "PAGELLO, BOCCA D'ORO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8736.json"
+  },
+  {
+    "id": 1315,
+    "nome": "PALOMBO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1315.json"
+  },
+  {
+    "id": 100227,
+    "nome": "PAN DI SPAGNA (RICETTA)",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "100227.json"
+  },
+  {
+    "id": 700447,
+    "nome": "PANCETTA AFFUMICATA o BACON",
+    "categoria": "insaccati e salumi",
+    "file": "700447.json"
+  },
+  {
+    "id": 19053,
+    "nome": "PANCETTA COPPATA",
+    "categoria": "insaccati e salumi",
+    "file": "19053.json"
+  },
+  {
+    "id": 1903,
+    "nome": "PANCETTA DI MAIALE",
+    "categoria": "burro e grassi animali (esclusa panna)",
+    "file": "1903.json"
+  },
+  {
+    "id": 8501,
+    "nome": "PANCETTA MAGRETTA",
+    "categoria": "insaccati e salumi",
+    "file": "8501.json"
+  },
+  {
+    "id": 8502,
+    "nome": "PANCETTA TESA",
+    "categoria": "insaccati e salumi",
+    "file": "8502.json"
+  },
+  {
+    "id": 9102,
+    "nome": "PANDORO",
+    "categoria": "brioches, merendine non farcite",
+    "file": "9102.json"
+  },
+  {
+    "id": 9114,
+    "nome": "PANE A FETTE, INTEGRALE, confezionato",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9114.json"
+  },
+  {
+    "id": 60088,
+    "nome": "PANE AL LATTE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "60088.json"
+  },
+  {
+    "id": 9087,
+    "nome": "PANE ALL'UVETTA",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9087.json"
+  },
+  {
+    "id": 19055,
+    "nome": "PANE ALLE OLIVE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "19055.json"
+  },
+  {
+    "id": 8607,
+    "nome": "PANE AZZIMO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "8607.json"
+  },
+  {
+    "id": 9092,
+    "nome": "PANE CARASAU",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "9092.json"
+  },
+  {
+    "id": 100154,
+    "nome": "PANE COMUNE, pezzatura da 250g",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "100154.json"
+  },
+  {
+    "id": 100155,
+    "nome": "PANE CONDITO, tipo Ferrarese",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "100155.json"
+  },
+  {
+    "id": 701337,
+    "nome": "PANE DI GRANO DURO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "701337.json"
+  },
+  {
+    "id": 805548,
+    "nome": "PANE DI GRANO E SEGALE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "805548.json"
+  },
+  {
+    "id": 30097,
+    "nome": "PANE DI SEGALE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "30097.json"
+  },
+  {
+    "id": 701016,
+    "nome": "PANE DI SEGALE BISCOTTATO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "701016.json"
+  },
+  {
+    "id": 666005,
+    "nome": "PANE DI SOIA",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "666005.json"
+  },
+  {
+    "id": 35,
+    "nome": "PANE, GRATTUGIATO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "35.json"
+  },
+  {
+    "id": 33,
+    "nome": "PANE, INTEGRALE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "33.json"
+  },
+  {
+    "id": 9064,
+    "nome": "PANE, SENZA SALE, TIPO 0",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9064.json"
+  },
+  {
+    "id": 31,
+    "nome": "PANE, TIPO 0, pezzatura da 100g",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "31.json"
+  },
+  {
+    "id": 32,
+    "nome": "PANE, TIPO 00, pezzatura da 50g",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "32.json"
+  },
+  {
+    "id": 30,
+    "nome": "PANE, TIPO 1, pezzatura > 500g",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "30.json"
+  },
+  {
+    "id": 8839,
+    "nome": "PANE, TIPO FAST-FOOD",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "8839.json"
+  },
+  {
+    "id": 600050,
+    "nome": "PANE, TIPO PANCARRE', BIANCO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "600050.json"
+  },
+  {
+    "id": 888036,
+    "nome": "PANE, TIPO PANCARRE', INTEGRALE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "888036.json"
+  },
+  {
+    "id": 8608,
+    "nome": "PANE, TIPO ROSETTA",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "8608.json"
+  },
+  {
+    "id": 700019,
+    "nome": "PANE, TOSTATO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "700019.json"
+  },
+  {
+    "id": 9113,
+    "nome": "PANEA FETTE, BIANCO, confezionato",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9113.json"
+  },
+  {
+    "id": 2018,
+    "nome": "PANETTONE",
+    "categoria": "brioches, merendine non farcite",
+    "file": "2018.json"
+  },
+  {
+    "id": 34,
+    "nome": "PANINI ALL'OLIO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "34.json"
+  },
+  {
+    "id": 1905,
+    "nome": "PANNA, 20% di lipidi (da cucina)",
+    "categoria": "panna",
+    "file": "1905.json"
+  },
+  {
+    "id": 1906,
+    "nome": "PANNA, 30% di lipidi",
+    "categoria": "panna",
+    "file": "1906.json"
+  },
+  {
+    "id": 1719,
+    "nome": "PANNA, 35% di lipidi",
+    "categoria": "panna",
+    "file": "1719.json"
+  },
+  {
+    "id": 1909,
+    "nome": "PANNA, a basso contenuto di colesterolo",
+    "categoria": "panna",
+    "file": "1909.json"
+  },
+  {
+    "id": 805874,
+    "nome": "PAPAYA",
+    "categoria": "frutta fresca e bacche",
+    "file": "805874.json"
+  },
+  {
+    "id": 100218,
+    "nome": "PAPRIKA, in polvere",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "100218.json"
+  },
+  {
+    "id": 1726,
+    "nome": "PARMIGIANO",
+    "categoria": "formaggi e latticini",
+    "file": "1726.json"
+  },
+  {
+    "id": 8649,
+    "nome": "PASSIFLORA",
+    "categoria": "frutta fresca e bacche",
+    "file": "8649.json"
+  },
+  {
+    "id": 900018,
+    "nome": "PASTA ALL'UOVO, fresca",
+    "categoria": "paste alimentari",
+    "file": "900018.json"
+  },
+  {
+    "id": 9082,
+    "nome": "PASTA ALL'UOVO, fresca, cotta",
+    "categoria": "paste alimentari",
+    "file": "9082.json"
+  },
+  {
+    "id": 51,
+    "nome": "PASTA ALL'UOVO, secca",
+    "categoria": "paste alimentari",
+    "file": "51.json"
+  },
+  {
+    "id": 8823,
+    "nome": "PASTA ALL'UOVO, secca, cotta",
+    "categoria": "paste alimentari",
+    "file": "8823.json"
+  },
+  {
+    "id": 900503,
+    "nome": "PASTA DI MANDORLE (RICETTA)",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "900503.json"
+  },
+  {
+    "id": 700466,
+    "nome": "PASTA DI OLIVE",
+    "categoria": "salse (ketchup, pesto, salsa tonnata, salsa di noci)",
+    "file": "700466.json"
+  },
+  {
+    "id": 8836,
+    "nome": "PASTA DI SEMOLA INTEGRALE, cotta",
+    "categoria": "paste alimentari",
+    "file": "8836.json"
+  },
+  {
+    "id": 60091,
+    "nome": "PASTA DI SEMOLA, INTEGRALE, cruda",
+    "categoria": "paste alimentari",
+    "file": "60091.json"
+  },
+  {
+    "id": 8609,
+    "nome": "PASTA DI SEMOLA, cotta",
+    "categoria": "paste alimentari",
+    "file": "8609.json"
+  },
+  {
+    "id": 50,
+    "nome": "PASTA DI SEMOLA, cruda",
+    "categoria": "paste alimentari",
+    "file": "50.json"
+  },
+  {
+    "id": 300122,
+    "nome": "PASTA FROLLA",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "300122.json"
+  },
+  {
+    "id": 19061,
+    "nome": "PASTA SFOGLIA",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "19061.json"
+  },
+  {
+    "id": 666011,
+    "nome": "PASTI DIETETICI SOSTITUTIVI",
+    "categoria": "pasti dietetici sostitutivi",
+    "file": "666011.json"
+  },
+  {
+    "id": 701302,
+    "nome": "PASTICCINI AL COCCO",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "701302.json"
+  },
+  {
+    "id": 8766,
+    "nome": "PASTIERA NAPOLETANA",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "8766.json"
+  },
+  {
+    "id": 1720,
+    "nome": "PASTORELLA",
+    "categoria": "formaggi e latticini",
+    "file": "1720.json"
+  },
+  {
+    "id": 381,
+    "nome": "PATATE",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "381.json"
+  },
+  {
+    "id": 50399,
+    "nome": "PATATE, DOLCI",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "50399.json"
+  },
+  {
+    "id": 3002,
+    "nome": "PATATE, FECOLA",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "3002.json"
+  },
+  {
+    "id": 380,
+    "nome": "PATATE, NOVELLE",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "380.json"
+  },
+  {
+    "id": 100219,
+    "nome": "PATATE, POLVERE ISTANTANEA",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "100219.json"
+  },
+  {
+    "id": 382,
+    "nome": "PATATINE, IN SACCHETTO, salate",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "382.json"
+  },
+  {
+    "id": 8707,
+    "nome": "PATE' DI FEGATO",
+    "categoria": "frattaglie di volatili",
+    "file": "8707.json"
+  },
+  {
+    "id": 100047,
+    "nome": "PECORA, con grasso visibile",
+    "categoria": "carne di ovino (pecora, agnello, capra)",
+    "file": "100047.json"
+  },
+  {
+    "id": 1721,
+    "nome": "PECORINO",
+    "categoria": "formaggi e latticini",
+    "file": "1721.json"
+  },
+  {
+    "id": 100020,
+    "nome": "PECORINO DA GRATTUGIARE",
+    "categoria": "formaggi e latticini",
+    "file": "100020.json"
+  },
+  {
+    "id": 100022,
+    "nome": "PECORINO ROMANO",
+    "categoria": "formaggi e latticini",
+    "file": "100022.json"
+  },
+  {
+    "id": 8751,
+    "nome": "PECORINO SICILIANO",
+    "categoria": "formaggi e latticini",
+    "file": "8751.json"
+  },
+  {
+    "id": 41789,
+    "nome": "PECORINO, FRESCO",
+    "categoria": "formaggi e latticini",
+    "file": "41789.json"
+  },
+  {
+    "id": 999964,
+    "nome": "PEPE NERO",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "999964.json"
+  },
+  {
+    "id": 335,
+    "nome": "PEPERONCINI, PICCANTI",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "335.json"
+  },
+  {
+    "id": 336,
+    "nome": "PEPERONI, DOLCI",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "336.json"
+  },
+  {
+    "id": 100177,
+    "nome": "PEPERONI, GIALLI",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "100177.json"
+  },
+  {
+    "id": 100178,
+    "nome": "PEPERONI, SOTT'ACETO",
+    "categoria": "olive, verdure sott’olio, sott'aceto, in agrodolce",
+    "file": "100178.json"
+  },
+  {
+    "id": 424,
+    "nome": "PERA, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "424.json"
+  },
+  {
+    "id": 8650,
+    "nome": "PERE, CANDITE",
+    "categoria": "frutta candita",
+    "file": "8650.json"
+  },
+  {
+    "id": 8070,
+    "nome": "PERE, SCIROPPATE",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "8070.json"
+  },
+  {
+    "id": 523,
+    "nome": "PESCA, SCIROPPATA",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "523.json"
+  },
+  {
+    "id": 8809,
+    "nome": "PESCA, con buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "8809.json"
+  },
+  {
+    "id": 425,
+    "nome": "PESCA, senza buccia",
+    "categoria": "frutta fresca e bacche",
+    "file": "425.json"
+  },
+  {
+    "id": 8737,
+    "nome": "PESCE GATTO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8737.json"
+  },
+  {
+    "id": 100106,
+    "nome": "PESCE PERSICO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "100106.json"
+  },
+  {
+    "id": 100110,
+    "nome": "PESCE SPADA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "100110.json"
+  },
+  {
+    "id": 701264,
+    "nome": "PESCE, NS, CON LISCA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "701264.json"
+  },
+  {
+    "id": 8651,
+    "nome": "PESCHE, disidratate",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8651.json"
+  },
+  {
+    "id": 8652,
+    "nome": "PESCHE, secche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8652.json"
+  },
+  {
+    "id": 9090,
+    "nome": "PIADINA",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9090.json"
+  },
+  {
+    "id": 100048,
+    "nome": "PICCIONE ADULTO",
+    "categoria": "carne di volatili, pollo",
+    "file": "100048.json"
+  },
+  {
+    "id": 1090,
+    "nome": "PICCIONE GIOVANE",
+    "categoria": "carne di volatili, pollo",
+    "file": "1090.json"
+  },
+  {
+    "id": 512,
+    "nome": "PINOLI",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "512.json"
+  },
+  {
+    "id": 103,
+    "nome": "PISELLI",
+    "categoria": "legumi",
+    "file": "103.json"
+  },
+  {
+    "id": 100142,
+    "nome": "PISELLI SURGELATI",
+    "categoria": "legumi",
+    "file": "100142.json"
+  },
+  {
+    "id": 100141,
+    "nome": "PISELLI, IN SCATOLA",
+    "categoria": "legumi",
+    "file": "100141.json"
+  },
+  {
+    "id": 805712,
+    "nome": "PISELLI, IN SCATOLA, sgocciolati",
+    "categoria": "legumi",
+    "file": "805712.json"
+  },
+  {
+    "id": 206,
+    "nome": "PISELLI, secchi",
+    "categoria": "legumi",
+    "file": "206.json"
+  },
+  {
+    "id": 700606,
+    "nome": "PISTACCHI, freschi",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "700606.json"
+  },
+  {
+    "id": 700607,
+    "nome": "PISTACCHI, secchi",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "700607.json"
+  },
+  {
+    "id": 701109,
+    "nome": "PISTACCHI, tostati e salati",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "701109.json"
+  },
+  {
+    "id": 8816,
+    "nome": "PISTACCHIO DI BRONTE DOP",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "8816.json"
+  },
+  {
+    "id": 75,
+    "nome": "PIZZA CON POMODORO",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "75.json"
+  },
+  {
+    "id": 76,
+    "nome": "PIZZA CON POMODORO E MOZZARELLA",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "76.json"
+  },
+  {
+    "id": 9084,
+    "nome": "PIZZOCCHERI della VALTELLINA, freschi, crudi",
+    "categoria": "paste alimentari",
+    "file": "9084.json"
+  },
+  {
+    "id": 9083,
+    "nome": "PIZZOCCHERI della VALTELLINA, secchi, crudi",
+    "categoria": "paste alimentari",
+    "file": "9083.json"
+  },
+  {
+    "id": 9005,
+    "nome": "POLENTA (mais)",
+    "categoria": "farine e amidi di cereali",
+    "file": "9005.json"
+  },
+  {
+    "id": 8683,
+    "nome": "POLLO, ALA, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8683.json"
+  },
+  {
+    "id": 8684,
+    "nome": "POLLO, ALA, con pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8684.json"
+  },
+  {
+    "id": 700285,
+    "nome": "POLLO, ALA, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "700285.json"
+  },
+  {
+    "id": 1294,
+    "nome": "POLLO, FEGATINI",
+    "categoria": "frattaglie di volatili",
+    "file": "1294.json"
+  },
+  {
+    "id": 8685,
+    "nome": "POLLO, FUSO (COSCIA), con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8685.json"
+  },
+  {
+    "id": 8687,
+    "nome": "POLLO, FUSO (COSCIA), con pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8687.json"
+  },
+  {
+    "id": 8686,
+    "nome": "POLLO, FUSO (COSCIA), senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8686.json"
+  },
+  {
+    "id": 8688,
+    "nome": "POLLO, FUSO (COSCIA), senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8688.json"
+  },
+  {
+    "id": 8677,
+    "nome": "POLLO, INTERO, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8677.json"
+  },
+  {
+    "id": 8681,
+    "nome": "POLLO, INTERO, con pelle, arrosto (di rosticceria)",
+    "categoria": "carne di volatili, pollo",
+    "file": "8681.json"
+  },
+  {
+    "id": 8679,
+    "nome": "POLLO, INTERO, con pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8679.json"
+  },
+  {
+    "id": 8678,
+    "nome": "POLLO, INTERO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8678.json"
+  },
+  {
+    "id": 8682,
+    "nome": "POLLO, INTERO, senza pelle, arrosto (di rosticceria)",
+    "categoria": "carne di volatili, pollo",
+    "file": "8682.json"
+  },
+  {
+    "id": 8680,
+    "nome": "POLLO, INTERO, senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8680.json"
+  },
+  {
+    "id": 8689,
+    "nome": "POLLO, PETTO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8689.json"
+  },
+  {
+    "id": 8690,
+    "nome": "POLLO, PETTO, senza pelle, saltato in padella",
+    "categoria": "carne di volatili, pollo",
+    "file": "8690.json"
+  },
+  {
+    "id": 1295,
+    "nome": "POLLO, RIGAGLIE",
+    "categoria": "frattaglie di volatili",
+    "file": "1295.json"
+  },
+  {
+    "id": 8691,
+    "nome": "POLLO, SOVRACOSCIO, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8691.json"
+  },
+  {
+    "id": 8693,
+    "nome": "POLLO, SOVRACOSCIO, con pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8693.json"
+  },
+  {
+    "id": 8692,
+    "nome": "POLLO, SOVRACOSCIO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8692.json"
+  },
+  {
+    "id": 8694,
+    "nome": "POLLO, SOVRACOSCIO, senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8694.json"
+  },
+  {
+    "id": 1316,
+    "nome": "POLPO",
+    "categoria": "molluschi",
+    "file": "1316.json"
+  },
+  {
+    "id": 100125,
+    "nome": "POLPO, SURGELATO",
+    "categoria": "molluschi",
+    "file": "100125.json"
+  },
+  {
+    "id": 391,
+    "nome": "POMODORI, DA INSALATA",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "391.json"
+  },
+  {
+    "id": 390,
+    "nome": "POMODORI, MATURI",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "390.json"
+  },
+  {
+    "id": 392,
+    "nome": "POMODORI, PELATI, IN SCATOLA CON LIQUIDO",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "392.json"
+  },
+  {
+    "id": 19064,
+    "nome": "POMODORI, SOTT'OLIO",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "19064.json"
+  },
+  {
+    "id": 700178,
+    "nome": "POMODORI, secchi",
+    "categoria": "olive, verdure sott'olio, sott'aceto, in agrodolce",
+    "file": "700178.json"
+  },
+  {
+    "id": 100180,
+    "nome": "POMODORO, CONCENTRATO (sostanza secca 18%)",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "100180.json"
+  },
+  {
+    "id": 100292,
+    "nome": "POMODORO, CONCENTRATO (sostanza secca 25%)",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "100292.json"
+  },
+  {
+    "id": 3001,
+    "nome": "POMODORO, CONSERVA (sostanza secca 30%",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "3001.json"
+  },
+  {
+    "id": 426,
+    "nome": "POMPELMO",
+    "categoria": "frutta fresca e bacche",
+    "file": "426.json"
+  },
+  {
+    "id": 888005,
+    "nome": "POMPELMO, ROSA",
+    "categoria": "frutta fresca e bacche",
+    "file": "888005.json"
+  },
+  {
+    "id": 3009,
+    "nome": "POP CORN",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "3009.json"
+  },
+  {
+    "id": 337,
+    "nome": "PORRI",
+    "categoria": "agliacee",
+    "file": "337.json"
+  },
+  {
+    "id": 100242,
+    "nome": "PORTO",
+    "categoria": "liquori dolci e amari",
+    "file": "100242.json"
+  },
+  {
+    "id": 338,
+    "nome": "PREZZEMOLO, fresco",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "338.json"
+  },
+  {
+    "id": 8003,
+    "nome": "PREZZEMOLO, secco",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8003.json"
+  },
+  {
+    "id": 1147,
+    "nome": "PROSCIUTTO COTTO",
+    "categoria": "insaccati e salumi",
+    "file": "1147.json"
+  },
+  {
+    "id": 19065,
+    "nome": "PROSCIUTTO COTTO, AFFUMICATO",
+    "categoria": "insaccati e salumi",
+    "file": "19065.json"
+  },
+  {
+    "id": 9066,
+    "nome": "PROSCIUTTO COTTO, AFFUMICATO, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "9066.json"
+  },
+  {
+    "id": 9007,
+    "nome": "PROSCIUTTO COTTO, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "9007.json"
+  },
+  {
+    "id": 805309,
+    "nome": "PROSCIUTTO CRUDO, AFFUMICATO",
+    "categoria": "insaccati e salumi",
+    "file": "805309.json"
+  },
+  {
+    "id": 9063,
+    "nome": "PROSCIUTTO CRUDO, AFFUMICATO, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "9063.json"
+  },
+  {
+    "id": 8712,
+    "nome": "PROSCIUTTO CRUDO, DI MONTAGNA",
+    "categoria": "insaccati e salumi",
+    "file": "8712.json"
+  },
+  {
+    "id": 8713,
+    "nome": "PROSCIUTTO CRUDO, DI PARMA",
+    "categoria": "insaccati e salumi",
+    "file": "8713.json"
+  },
+  {
+    "id": 8714,
+    "nome": "PROSCIUTTO CRUDO, DI PARMA, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "8714.json"
+  },
+  {
+    "id": 8717,
+    "nome": "PROSCIUTTO CRUDO, GAMBUCCIO",
+    "categoria": "insaccati e salumi",
+    "file": "8717.json"
+  },
+  {
+    "id": 9061,
+    "nome": "PROSCIUTTO CRUDO, NS",
+    "categoria": "insaccati e salumi",
+    "file": "9061.json"
+  },
+  {
+    "id": 9062,
+    "nome": "PROSCIUTTO CRUDO, NS, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "9062.json"
+  },
+  {
+    "id": 8715,
+    "nome": "PROSCIUTTO CRUDO, SAN DANIELE",
+    "categoria": "insaccati e salumi",
+    "file": "8715.json"
+  },
+  {
+    "id": 8716,
+    "nome": "PROSCIUTTO CRUDO, SAN DANIELE, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "8716.json"
+  },
+  {
+    "id": 8710,
+    "nome": "PROSCIUTTO CRUDO, disossato",
+    "categoria": "insaccati e salumi",
+    "file": "8710.json"
+  },
+  {
+    "id": 8711,
+    "nome": "PROSCIUTTO CRUDO, disossato, senza grasso visibile",
+    "categoria": "insaccati e salumi",
+    "file": "8711.json"
+  },
+  {
+    "id": 100289,
+    "nome": "PROVOLA AFFUMICATA",
+    "categoria": "formaggi e latticini",
+    "file": "100289.json"
+  },
+  {
+    "id": 100024,
+    "nome": "PROVOLONCINO DOLCE",
+    "categoria": "formaggi e latticini",
+    "file": "100024.json"
+  },
+  {
+    "id": 1722,
+    "nome": "PROVOLONE",
+    "categoria": "formaggi e latticini",
+    "file": "1722.json"
+  },
+  {
+    "id": 100026,
+    "nome": "PROVOLONE PICCANTE",
+    "categoria": "formaggi e latticini",
+    "file": "100026.json"
+  },
+  {
+    "id": 427,
+    "nome": "PRUGNE",
+    "categoria": "frutta fresca e bacche",
+    "file": "427.json"
+  },
+  {
+    "id": 805788,
+    "nome": "PRUGNE REGINA CLAUDIA",
+    "categoria": "frutta fresca e bacche",
+    "file": "805788.json"
+  },
+  {
+    "id": 8805,
+    "nome": "PRUGNE, GIALLE",
+    "categoria": "frutta fresca e bacche",
+    "file": "8805.json"
+  },
+  {
+    "id": 8806,
+    "nome": "PRUGNE, ROSSE",
+    "categoria": "frutta fresca e bacche",
+    "file": "8806.json"
+  },
+  {
+    "id": 8072,
+    "nome": "PRUGNE, SCIROPPATE",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "8072.json"
+  },
+  {
+    "id": 513,
+    "nome": "PRUGNE, secche",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "513.json"
+  },
+  {
+    "id": 9079,
+    "nome": "PUREA DI MELA",
+    "categoria": "frutta cotta e conservata in scatola",
+    "file": "9079.json"
+  },
+  {
+    "id": 1093,
+    "nome": "QUAGLIA",
+    "categoria": "carne di volatili, pollo",
+    "file": "1093.json"
+  },
+  {
+    "id": 8832,
+    "nome": "QUINOA, cotta",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8832.json"
+  },
+  {
+    "id": 889001,
+    "nome": "QUINOA, cruda",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "889001.json"
+  },
+  {
+    "id": 502,
+    "nome": "RACHIDI, tostate",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "502.json"
+  },
+  {
+    "id": 339,
+    "nome": "RADICCHIO ROSSO",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "339.json"
+  },
+  {
+    "id": 340,
+    "nome": "RADICCHIO VERDE",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "340.json"
+  },
+  {
+    "id": 1094,
+    "nome": "RANA",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "1094.json"
+  },
+  {
+    "id": 100112,
+    "nome": "RANA PESCATRICE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "100112.json"
+  },
+  {
+    "id": 326,
+    "nome": "RAPA, FOGLIE",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "326.json"
+  },
+  {
+    "id": 341,
+    "nome": "RAPE",
+    "categoria": "verdura a radice",
+    "file": "341.json"
+  },
+  {
+    "id": 342,
+    "nome": "RAVANELLI",
+    "categoria": "verdura a radice",
+    "file": "342.json"
+  },
+  {
+    "id": 1317,
+    "nome": "RAZZA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1317.json"
+  },
+  {
+    "id": 712023,
+    "nome": "RHUM",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "712023.json"
+  },
+  {
+    "id": 500025,
+    "nome": "RIBES NERO",
+    "categoria": "frutta fresca e bacche",
+    "file": "500025.json"
+  },
+  {
+    "id": 500023,
+    "nome": "RIBES ROSSO",
+    "categoria": "frutta fresca e bacche",
+    "file": "500023.json"
+  },
+  {
+    "id": 9096,
+    "nome": "RICCIARELLI",
+    "categoria": "biscotti, pasticcini da tè",
+    "file": "9096.json"
+  },
+  {
+    "id": 8752,
+    "nome": "RICOTTA DI BUFALA",
+    "categoria": "formaggi e latticini",
+    "file": "8752.json"
+  },
+  {
+    "id": 1723,
+    "nome": "RICOTTA DI PECORA",
+    "categoria": "formaggi e latticini",
+    "file": "1723.json"
+  },
+  {
+    "id": 11793,
+    "nome": "RICOTTA DI VACCA",
+    "categoria": "formaggi e latticini",
+    "file": "11793.json"
+  },
+  {
+    "id": 900689,
+    "nome": "RICOTTA DI VACCA E PECORA",
+    "categoria": "formaggi e latticini",
+    "file": "900689.json"
+  },
+  {
+    "id": 100028,
+    "nome": "RICOTTA INTERA, TIPO TEDESCO",
+    "categoria": "formaggi e latticini",
+    "file": "100028.json"
+  },
+  {
+    "id": 100029,
+    "nome": "RICOTTA MAGRA TIPO TEDESCO",
+    "categoria": "formaggi e latticini",
+    "file": "100029.json"
+  },
+  {
+    "id": 8610,
+    "nome": "RISO BRILLATO, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8610.json"
+  },
+  {
+    "id": 9704,
+    "nome": "RISO SOFFIATO, fortificato",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "9704.json"
+  },
+  {
+    "id": 700027,
+    "nome": "RISO SOFFIATO, non fortificato",
+    "categoria": "fiocchi, pop corn, crusca (anche in compresse) soffiati",
+    "file": "700027.json"
+  },
+  {
+    "id": 889005,
+    "nome": "RISO, AMIDO",
+    "categoria": "farine e amidi di cereali",
+    "file": "889005.json"
+  },
+  {
+    "id": 8076,
+    "nome": "RISO, BASMATI, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8076.json"
+  },
+  {
+    "id": 8075,
+    "nome": "RISO, BASMATI, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8075.json"
+  },
+  {
+    "id": 5,
+    "nome": "RISO, BRILLATO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "5.json"
+  },
+  {
+    "id": 8611,
+    "nome": "RISO, INTEGRALE, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8611.json"
+  },
+  {
+    "id": 500010,
+    "nome": "RISO, INTEGRALE, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "500010.json"
+  },
+  {
+    "id": 8074,
+    "nome": "RISO, ROSSO, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8074.json"
+  },
+  {
+    "id": 8073,
+    "nome": "RISO, ROSSO, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8073.json"
+  },
+  {
+    "id": 8612,
+    "nome": "RISO, TIPO PARBOILED, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8612.json"
+  },
+  {
+    "id": 60089,
+    "nome": "RISO, TIPO PARBOILED, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "60089.json"
+  },
+  {
+    "id": 8834,
+    "nome": "RISO, VENERE, cotto",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8834.json"
+  },
+  {
+    "id": 8833,
+    "nome": "RISO, VENERE, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "8833.json"
+  },
+  {
+    "id": 100030,
+    "nome": "ROBIOLA",
+    "categoria": "formaggi e latticini",
+    "file": "100030.json"
+  },
+  {
+    "id": 605532,
+    "nome": "ROCHEFORT",
+    "categoria": "formaggi e latticini",
+    "file": "605532.json"
+  },
+  {
+    "id": 1318,
+    "nome": "ROMBO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1318.json"
+  },
+  {
+    "id": 8013,
+    "nome": "ROSMARINO, fresco",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8013.json"
+  },
+  {
+    "id": 8014,
+    "nome": "ROSMARINO, secco",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8014.json"
+  },
+  {
+    "id": 700169,
+    "nome": "RUCOLA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "700169.json"
+  },
+  {
+    "id": 8718,
+    "nome": "SALAME BRIANZA",
+    "categoria": "insaccati e salumi",
+    "file": "8718.json"
+  },
+  {
+    "id": 8504,
+    "nome": "SALAME CACCIATORE",
+    "categoria": "insaccati e salumi",
+    "file": "8504.json"
+  },
+  {
+    "id": 100077,
+    "nome": "SALAME DA CUOCERE",
+    "categoria": "insaccati e salumi",
+    "file": "100077.json"
+  },
+  {
+    "id": 100075,
+    "nome": "SALAME DI SUINO",
+    "categoria": "insaccati e salumi",
+    "file": "100075.json"
+  },
+  {
+    "id": 100074,
+    "nome": "SALAME DI SUINO E BOVINO",
+    "categoria": "insaccati e salumi",
+    "file": "100074.json"
+  },
+  {
+    "id": 8505,
+    "nome": "SALAME FABRIANO",
+    "categoria": "insaccati e salumi",
+    "file": "8505.json"
+  },
+  {
+    "id": 8506,
+    "nome": "SALAME FELINO",
+    "categoria": "insaccati e salumi",
+    "file": "8506.json"
+  },
+  {
+    "id": 1148,
+    "nome": "SALAME MILANO",
+    "categoria": "insaccati e salumi",
+    "file": "1148.json"
+  },
+  {
+    "id": 11198,
+    "nome": "SALAME NAPOLI",
+    "categoria": "insaccati e salumi",
+    "file": "11198.json"
+  },
+  {
+    "id": 8508,
+    "nome": "SALAME NOSTRANO",
+    "categoria": "insaccati e salumi",
+    "file": "8508.json"
+  },
+  {
+    "id": 8509,
+    "nome": "SALAME UNGHERESE",
+    "categoria": "insaccati e salumi",
+    "file": "8509.json"
+  },
+  {
+    "id": 700016,
+    "nome": "SALATINI (tipo Ritz)",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "700016.json"
+  },
+  {
+    "id": 8021,
+    "nome": "SALE da cucina",
+    "categoria": "sale",
+    "file": "8021.json"
+  },
+  {
+    "id": 9057,
+    "nome": "SALE da cucina, IODATO",
+    "categoria": "sale",
+    "file": "9057.json"
+  },
+  {
+    "id": 700405,
+    "nome": "SALMONE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "700405.json"
+  },
+  {
+    "id": 700407,
+    "nome": "SALMONE, AFFUMICATO",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "700407.json"
+  },
+  {
+    "id": 1510,
+    "nome": "SALMONE, IN SALAMOIA",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1510.json"
+  },
+  {
+    "id": 8738,
+    "nome": "SALPA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8738.json"
+  },
+  {
+    "id": 1152,
+    "nome": "SALSICCIA DI FEGATO",
+    "categoria": "insaccati e salumi",
+    "file": "1152.json"
+  },
+  {
+    "id": 100078,
+    "nome": "SALSICCIA DI SUINO E BOVINO, fresca",
+    "categoria": "insaccati e salumi",
+    "file": "100078.json"
+  },
+  {
+    "id": 8719,
+    "nome": "SALSICCIA DI SUINO FRESCA, saltata în padella",
+    "categoria": "insaccati e salumi",
+    "file": "8719.json"
+  },
+  {
+    "id": 1149,
+    "nome": "SALSICCIA DI SUINO, fresca",
+    "categoria": "insaccati e salumi",
+    "file": "1149.json"
+  },
+  {
+    "id": 1150,
+    "nome": "SALSICCIA DI SUINO, secca",
+    "categoria": "insaccati e salumi",
+    "file": "1150.json"
+  },
+  {
+    "id": 8015,
+    "nome": "SALVIA, fresca",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8015.json"
+  },
+  {
+    "id": 8016,
+    "nome": "SALVIA, secca macinata",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8016.json"
+  },
+  {
+    "id": 100115,
+    "nome": "SARAGO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "100115.json"
+  },
+  {
+    "id": 1319,
+    "nome": "SARDA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1319.json"
+  },
+  {
+    "id": 100136,
+    "nome": "SARDINE, SALATE",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "100136.json"
+  },
+  {
+    "id": 100137,
+    "nome": "SARDINE, SOTT'OLIO, sgocciolato",
+    "categoria": "pesci vertebrati (conservati sott'olio)",
+    "file": "100137.json"
+  },
+  {
+    "id": 19067,
+    "nome": "SCALOGNO",
+    "categoria": "agliacee",
+    "file": "19067.json"
+  },
+  {
+    "id": 1724,
+    "nome": "SCAMORZA",
+    "categoria": "formaggi e latticini",
+    "file": "1724.json"
+  },
+  {
+    "id": 700435,
+    "nome": "SCAMORZA AFFUMICATA",
+    "categoria": "formaggi e latticini",
+    "file": "700435.json"
+  },
+  {
+    "id": 100181,
+    "nome": "SCAROLA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "100181.json"
+  },
+  {
+    "id": 8067,
+    "nome": "SCIROPPO DI ACERO",
+    "categoria": "sciroppi",
+    "file": "8067.json"
+  },
+  {
+    "id": 888043,
+    "nome": "SCIROPPO DI AGAVE",
+    "categoria": "sciroppi",
+    "file": "888043.json"
+  },
+  {
+    "id": 8089,
+    "nome": "SCIROPPO DI GLUCOSIO (MAIS)",
+    "categoria": "sciroppi",
+    "file": "8089.json"
+  },
+  {
+    "id": 888011,
+    "nome": "SCIROPPO DI MALTO",
+    "categoria": "sciroppi",
+    "file": "888011.json"
+  },
+  {
+    "id": 9125,
+    "nome": "SCIROPPO DI MANDORLA PER BIBITE",
+    "categoria": "sciroppi",
+    "file": "9125.json"
+  },
+  {
+    "id": 53017,
+    "nome": "SCIROPPO PER BIBITE",
+    "categoria": "sciroppi",
+    "file": "53017.json"
+  },
+  {
+    "id": 8739,
+    "nome": "SCORFANO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8739.json"
+  },
+  {
+    "id": 500013,
+    "nome": "SCORZONERA",
+    "categoria": "verdura a radice",
+    "file": "500013.json"
+  },
+  {
+    "id": 343,
+    "nome": "SEDANO",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "343.json"
+  },
+  {
+    "id": 344,
+    "nome": "SEDANO RAPA",
+    "categoria": "verdura a radice",
+    "file": "344.json"
+  },
+  {
+    "id": 888035,
+    "nome": "SEGALE, cruda",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "888035.json"
+  },
+  {
+    "id": 1904,
+    "nome": "SEGO DI BUE",
+    "categoria": "burro e grassi animali (esclusa panna)",
+    "file": "1904.json"
+  },
+  {
+    "id": 17,
+    "nome": "SEMOLA",
+    "categoria": "farine e amidi di cereali",
+    "file": "17.json"
+  },
+  {
+    "id": 1511,
+    "nome": "SEOMBRO O MACCARELLO, IN SALAMOIA",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1511.json"
+  },
+  {
+    "id": 1320,
+    "nome": "SEPPIA",
+    "categoria": "molluschi",
+    "file": "1320.json"
+  },
+  {
+    "id": 100126,
+    "nome": "SEPPIA, SURGELATA",
+    "categoria": "molluschi",
+    "file": "100126.json"
+  },
+  {
+    "id": 1321,
+    "nome": "SGOMBRO O MACCARELLO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1321.json"
+  },
+  {
+    "id": 700384,
+    "nome": "SGOMBRO, FILETTI SOTT'OLIO",
+    "categoria": "pesci vertebrati (conservati sott'olio)",
+    "file": "700384.json"
+  },
+  {
+    "id": 8058,
+    "nome": "SHERRY",
+    "categoria": "liquori dolci e amari",
+    "file": "8058.json"
+  },
+  {
+    "id": 888009,
+    "nome": "SHOYU, salsa di soia e grano",
+    "categoria": "prodotti della soia",
+    "file": "888009.json"
+  },
+  {
+    "id": 8057,
+    "nome": "SIDRO",
+    "categoria": "sidro",
+    "file": "8057.json"
+  },
+  {
+    "id": 3015,
+    "nome": "SODA DOLCE",
+    "categoria": "bevande analcoliche",
+    "file": "3015.json"
+  },
+  {
+    "id": 65099,
+    "nome": "SOFFICINI AL FORMAGGIO SURGELATI",
+    "categoria": "sofficini",
+    "file": "65099.json"
+  },
+  {
+    "id": 1322,
+    "nome": "SOGLIOLA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1322.json"
+  },
+  {
+    "id": 1404,
+    "nome": "SOGLIOLA, SURGELATA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1404.json"
+  },
+  {
+    "id": 702207,
+    "nome": "SOIA, BISTECCA",
+    "categoria": "prodotti della soia",
+    "file": "702207.json"
+  },
+  {
+    "id": 350,
+    "nome": "SOIA, GERMOGLI",
+    "categoria": "germogli (soia, bambù), asparagi",
+    "file": "350.json"
+  },
+  {
+    "id": 208,
+    "nome": "SOIA, SEMI",
+    "categoria": "legumi",
+    "file": "208.json"
+  },
+  {
+    "id": 1142,
+    "nome": "SOPRASSATA",
+    "categoria": "insaccati e salumi",
+    "file": "1142.json"
+  },
+  {
+    "id": 9124,
+    "nome": "SORBETTO, CON BASTONCINO DI LIQUIRIZIA",
+    "categoria": "gelati, ghiaccioli",
+    "file": "9124.json"
+  },
+  {
+    "id": 8768,
+    "nome": "SORBETTO, CON LATTE",
+    "categoria": "gelati, ghiaccioli",
+    "file": "8768.json"
+  },
+  {
+    "id": 9123,
+    "nome": "SORBETTO, SENZA LATTE",
+    "categoria": "gelati, ghiaccioli",
+    "file": "9123.json"
+  },
+  {
+    "id": 1799,
+    "nome": "SOTTILETTE",
+    "categoria": "formaggi e latticini",
+    "file": "1799.json"
+  },
+  {
+    "id": 700478,
+    "nome": "SPECK",
+    "categoria": "insaccati e salumi",
+    "file": "700478.json"
+  },
+  {
+    "id": 888033,
+    "nome": "SPELTA, cruda",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "888033.json"
+  },
+  {
+    "id": 1323,
+    "nome": "SPIGOLA ICA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1323.json"
+  },
+  {
+    "id": 8740,
+    "nome": "SPIGOLA, D'ALLEVAMENTO, FILETTI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8740.json"
+  },
+  {
+    "id": 345,
+    "nome": "SPINACI",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "345.json"
+  },
+  {
+    "id": 700487,
+    "nome": "SPINACI, IN SCATOLA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "700487.json"
+  },
+  {
+    "id": 405,
+    "nome": "SPREMUTA DI ARANCIA, fresca",
+    "categoria": "succhi e spremute di frutta",
+    "file": "405.json"
+  },
+  {
+    "id": 100203,
+    "nome": "SPREMUTA DI POMPELMO, fresco",
+    "categoria": "succhi e spremute di frutta",
+    "file": "100203.json"
+  },
+  {
+    "id": 8791,
+    "nome": "SPUMANTE ALTA GRADAZIONE",
+    "categoria": "vino e spumanti",
+    "file": "8791.json"
+  },
+  {
+    "id": 100243,
+    "nome": "SPUMANTI AROMATICI",
+    "categoria": "vino e spumanti",
+    "file": "100243.json"
+  },
+  {
+    "id": 100244,
+    "nome": "SPUMANTI DEMI-SEC",
+    "categoria": "vino e spumanti",
+    "file": "100244.json"
+  },
+  {
+    "id": 100245,
+    "nome": "SPUMANTI SECCHI",
+    "categoria": "vino e spumanti",
+    "file": "100245.json"
+  },
+  {
+    "id": 100049,
+    "nome": "STARNA, COSCIO",
+    "categoria": "carne di volatili, pollo",
+    "file": "100049.json"
+  },
+  {
+    "id": 1512,
+    "nome": "STOCCAFISSO, ammollato",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1512.json"
+  },
+  {
+    "id": 1513,
+    "nome": "STOCCAFISSO, secco",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1513.json"
+  },
+  {
+    "id": 8741,
+    "nome": "STORIONE",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8741.json"
+  },
+  {
+    "id": 1725,
+    "nome": "STRACCHINO",
+    "categoria": "formaggi e latticini",
+    "file": "1725.json"
+  },
+  {
+    "id": 1902,
+    "nome": "STRUTTO O SUGNA",
+    "categoria": "burro e grassi animali (esclusa panna)",
+    "file": "1902.json"
+  },
+  {
+    "id": 8695,
+    "nome": "STRUZZO, senza grasso visibile",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "8695.json"
+  },
+  {
+    "id": 8696,
+    "nome": "STRUZZO, senza grasso visibile, cotto al forno",
+    "categoria": "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)",
+    "file": "8696.json"
+  },
+  {
+    "id": 100201,
+    "nome": "SUCCO DI ALBICOCCA",
+    "categoria": "succhi e spremute di frutta",
+    "file": "100201.json"
+  },
+  {
+    "id": 805913,
+    "nome": "SUCCO DI ANANAS, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "805913.json"
+  },
+  {
+    "id": 900074,
+    "nome": "SUCCO DI ARANCIA E POMPELMO, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "900074.json"
+  },
+  {
+    "id": 8026,
+    "nome": "SUCCO DI ARANCIA, concentrato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "8026.json"
+  },
+  {
+    "id": 9004,
+    "nome": "SUCCO DI ARANCIA, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "9004.json"
+  },
+  {
+    "id": 805614,
+    "nome": "SUCCO DI BARBABIETOLA, fresco",
+    "categoria": "succhi di verdura",
+    "file": "805614.json"
+  },
+  {
+    "id": 805605,
+    "nome": "SUCCO DI CAROTE",
+    "categoria": "succhi di verdura",
+    "file": "805605.json"
+  },
+  {
+    "id": 3006,
+    "nome": "SUCCO DI FRUTTA",
+    "categoria": "succhi e spremute di frutta",
+    "file": "3006.json"
+  },
+  {
+    "id": 888029,
+    "nome": "SUCCO DI FRUTTA, ACE",
+    "categoria": "succhi e spremute di frutta",
+    "file": "888029.json"
+  },
+  {
+    "id": 9078,
+    "nome": "SUCCO DI FRUTTA, NS",
+    "categoria": "succhi e spremute di frutta",
+    "file": "9078.json"
+  },
+  {
+    "id": 608533,
+    "nome": "SUCCO DI LIMONE",
+    "categoria": "succhi e spremute di frutta",
+    "file": "608533.json"
+  },
+  {
+    "id": 414,
+    "nome": "SUCCO DI LIMONE, fresco",
+    "categoria": "succhi e spremute di frutta",
+    "file": "414.json"
+  },
+  {
+    "id": 888007,
+    "nome": "SUCCO DI MANDARINO, fresco",
+    "categoria": "succhi e spremute di frutta",
+    "file": "888007.json"
+  },
+  {
+    "id": 805929,
+    "nome": "SUCCO DI MANDARINO, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "805929.json"
+  },
+  {
+    "id": 805914,
+    "nome": "SUCCO DI MELA, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "805914.json"
+  },
+  {
+    "id": 608532,
+    "nome": "SUCCO DI MELAGRANA, fresco",
+    "categoria": "succhi e spremute di frutta",
+    "file": "608532.json"
+  },
+  {
+    "id": 500029,
+    "nome": "SUCCO DI PERA",
+    "categoria": "succhi e spremute di frutta",
+    "file": "500029.json"
+  },
+  {
+    "id": 53018,
+    "nome": "SUCCO DI PESCA",
+    "categoria": "succhi e spremute di frutta",
+    "file": "53018.json"
+  },
+  {
+    "id": 805698,
+    "nome": "SUCCO DI POMODORO",
+    "categoria": "succhi di verdura",
+    "file": "805698.json"
+  },
+  {
+    "id": 805922,
+    "nome": "SUCCO DI POMPELMO, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "805922.json"
+  },
+  {
+    "id": 53020,
+    "nome": "SUCCO DI POMPELMO, zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "53020.json"
+  },
+  {
+    "id": 805671,
+    "nome": "SUCCO DI SPINACI",
+    "categoria": "succhi di verdura",
+    "file": "805671.json"
+  },
+  {
+    "id": 53021,
+    "nome": "SUCCO DI UVA, non zuccherato",
+    "categoria": "succhi e spremute di frutta",
+    "file": "53021.json"
+  },
+  {
+    "id": 8803,
+    "nome": "SUCCO DI UVA, non zuccherato, con acido ascorbico",
+    "categoria": "succhi e spremute di frutta",
+    "file": "8803.json"
+  },
+  {
+    "id": 19070,
+    "nome": "SUCCO TROPICALE",
+    "categoria": "succhi e spremute di frutta",
+    "file": "19070.json"
+  },
+  {
+    "id": 1041,
+    "nome": "SUINO, CARNE GRASSA, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "1041.json"
+  },
+  {
+    "id": 1040,
+    "nome": "SUINO, CARNE SEMIGRASSA, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "1040.json"
+  },
+  {
+    "id": 1243,
+    "nome": "SUINO, CUORE",
+    "categoria": "frattaglie di maiale",
+    "file": "1243.json"
+  },
+  {
+    "id": 1244,
+    "nome": "SUINO, FEGATO",
+    "categoria": "frattaglie di maiale",
+    "file": "1244.json"
+  },
+  {
+    "id": 1043,
+    "nome": "SUINO, LEGGERO, bistecca, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "1043.json"
+  },
+  {
+    "id": 8673,
+    "nome": "SUINO, LEGGERO, bistecca, senza grasso visibile, saltata in padella",
+    "categoria": "carne di maiale",
+    "file": "8673.json"
+  },
+  {
+    "id": 1044,
+    "nome": "SUINO, LEGGERO, coscio, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "1044.json"
+  },
+  {
+    "id": 8670,
+    "nome": "SUINO, LEGGERO, lombo, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "8670.json"
+  },
+  {
+    "id": 8671,
+    "nome": "SUINO, LEGGERO, spalla, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "8671.json"
+  },
+  {
+    "id": 8674,
+    "nome": "SUINO, PESANTE, coscio, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "8674.json"
+  },
+  {
+    "id": 8675,
+    "nome": "SUINO, PESANTE, lombo, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "8675.json"
+  },
+  {
+    "id": 8676,
+    "nome": "SUINO, PESANTE, spalla, senza grasso visibile",
+    "categoria": "carne di maiale",
+    "file": "8676.json"
+  },
+  {
+    "id": 31298,
+    "nome": "SUINO, SANGUE",
+    "categoria": "frattaglie di maiale",
+    "file": "31298.json"
+  },
+  {
+    "id": 888006,
+    "nome": "SURIMI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "888006.json"
+  },
+  {
+    "id": 8749,
+    "nome": "SURO O SUGARELLO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8749.json"
+  },
+  {
+    "id": 1097,
+    "nome": "TACCHINA, ALA, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1097.json"
+  },
+  {
+    "id": 1096,
+    "nome": "TACCHINA, COSCIA, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1096.json"
+  },
+  {
+    "id": 1095,
+    "nome": "TACCHINA, PETTO, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1095.json"
+  },
+  {
+    "id": 1072,
+    "nome": "TACCHINO, ALA, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "1072.json"
+  },
+  {
+    "id": 8697,
+    "nome": "TACCHINO, FESA (PETTO), senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8697.json"
+  },
+  {
+    "id": 8698,
+    "nome": "TACCHINO, FESA (PETTO), senza pelle, saltata in padella",
+    "categoria": "carne di volatili, pollo",
+    "file": "8698.json"
+  },
+  {
+    "id": 8699,
+    "nome": "TACCHINO, FUSO (COSCIA), con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8699.json"
+  },
+  {
+    "id": 8701,
+    "nome": "TACCHINO, FUSO (COSCIA), con pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8701.json"
+  },
+  {
+    "id": 8700,
+    "nome": "TACCHINO, FUSO (COSCIA), senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8700.json"
+  },
+  {
+    "id": 8702,
+    "nome": "TACCHINO, FUSO (COSCIA), senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8702.json"
+  },
+  {
+    "id": 8784,
+    "nome": "TACCHINO, INTERO, con pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8784.json"
+  },
+  {
+    "id": 8785,
+    "nome": "TACCHINO, INTERO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8785.json"
+  },
+  {
+    "id": 8703,
+    "nome": "TACCHINO, SOVRACOSCIO, senza pelle",
+    "categoria": "carne di volatili, pollo",
+    "file": "8703.json"
+  },
+  {
+    "id": 8704,
+    "nome": "TACCHINO, SOVRACOSCIO, senza pelle, cotto al forno",
+    "categoria": "carne di volatili, pollo",
+    "file": "8704.json"
+  },
+  {
+    "id": 100031,
+    "nome": "TALEGGIO",
+    "categoria": "formaggi e latticini",
+    "file": "100031.json"
+  },
+  {
+    "id": 888010,
+    "nome": "TAMARI, salsa di soia",
+    "categoria": "prodotti della soia",
+    "file": "888010.json"
+  },
+  {
+    "id": 18,
+    "nome": "TAPIOCA",
+    "categoria": "tuberi, patate, fecola, preparati per gnocchi",
+    "file": "18.json"
+  },
+  {
+    "id": 9086,
+    "nome": "TARALLI",
+    "categoria": "grissini, crackers, salatini, crostini",
+    "file": "9086.json"
+  },
+  {
+    "id": 346,
+    "nome": "TARTUFO, NERO",
+    "categoria": "funghi, tartufi",
+    "file": "346.json"
+  },
+  {
+    "id": 700460,
+    "nome": "TE' DETEINATO, in foglie",
+    "categoria": "tè (anche deteinato e solubile)",
+    "file": "700460.json"
+  },
+  {
+    "id": 9029,
+    "nome": "TE' DETEINATO, in tazza",
+    "categoria": "tè (anche deteinato e solubile)",
+    "file": "9029.json"
+  },
+  {
+    "id": 3017,
+    "nome": "TE', in foglie",
+    "categoria": "tè (anche deteinato e solubile)",
+    "file": "3017.json"
+  },
+  {
+    "id": 700459,
+    "nome": "TE', in tazza",
+    "categoria": "tè (anche deteinato e solubile)",
+    "file": "700459.json"
+  },
+  {
+    "id": 888030,
+    "nome": "TEFF, crudo",
+    "categoria": "cereali in chicchi e preparazioni",
+    "file": "888030.json"
+  },
+  {
+    "id": 8038,
+    "nome": "TEMPEH",
+    "categoria": "prodotti della soia",
+    "file": "8038.json"
+  },
+  {
+    "id": 9091,
+    "nome": "TIGELLE",
+    "categoria": "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza",
+    "file": "9091.json"
+  },
+  {
+    "id": 8017,
+    "nome": "TIMO, fresco",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8017.json"
+  },
+  {
+    "id": 8018,
+    "nome": "TIMO, secco macinato",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8018.json"
+  },
+  {
+    "id": 1324,
+    "nome": "TINCA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1324.json"
+  },
+  {
+    "id": 9047,
+    "nome": "TIRAMISU'",
+    "categoria": "creme e desserts al cucchiaio",
+    "file": "9047.json"
+  },
+  {
+    "id": 9034,
+    "nome": "TISANA, in tazza",
+    "categoria": "tisane d’erbe, infusi",
+    "file": "9034.json"
+  },
+  {
+    "id": 888002,
+    "nome": "TOFU",
+    "categoria": "prodotti della soia",
+    "file": "888002.json"
+  },
+  {
+    "id": 1325,
+    "nome": "TONNO",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1325.json"
+  },
+  {
+    "id": 1515,
+    "nome": "TONNO, IN SALAMOIA, sgocciolato",
+    "categoria": "pesci vertebrati (conservati) e uova di pesce",
+    "file": "1515.json"
+  },
+  {
+    "id": 1514,
+    "nome": "TONNO, SOTT'OLIO, sgocciolato",
+    "categoria": "pesci vertebrati (conservati sott'olio)",
+    "file": "1514.json"
+  },
+  {
+    "id": 100052,
+    "nome": "TORDO",
+    "categoria": "carne di volatili, pollo",
+    "file": "100052.json"
+  },
+  {
+    "id": 2020,
+    "nome": "TORRONE CON MANDORLE",
+    "categoria": "torrone",
+    "file": "2020.json"
+  },
+  {
+    "id": 100230,
+    "nome": "TORTA AL CIOCCOLATO, industriale",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "100230.json"
+  },
+  {
+    "id": 8764,
+    "nome": "TORTA DI MELE (RICETTA)",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "8764.json"
+  },
+  {
+    "id": 2019,
+    "nome": "TORTA MARGHERITA",
+    "categoria": "torte, preparati e basi per torte",
+    "file": "2019.json"
+  },
+  {
+    "id": 8837,
+    "nome": "TORTELLINI, FRESCHI, cotti",
+    "categoria": "pasta ripiena (ravioli e tortellini)",
+    "file": "8837.json"
+  },
+  {
+    "id": 53,
+    "nome": "TORTELLINI, freschi, crudi",
+    "categoria": "pasta ripiena (ravioli e tortellini)",
+    "file": "53.json"
+  },
+  {
+    "id": 54,
+    "nome": "TORTELLINI, secchi, crudi",
+    "categoria": "pasta ripiena (ravioli e tortellini)",
+    "file": "54.json"
+  },
+  {
+    "id": 1326,
+    "nome": "TRIGLIA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1326.json"
+  },
+  {
+    "id": 1327,
+    "nome": "TROTA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "1327.json"
+  },
+  {
+    "id": 8742,
+    "nome": "TROTA IRIDEA, D'ALLEVAMENTO, FILETTI",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8742.json"
+  },
+  {
+    "id": 8669,
+    "nome": "TROTA, SURGELATA",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8669.json"
+  },
+  {
+    "id": 8672,
+    "nome": "TROTA, SURGELATA, cotta al forno",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8672.json"
+  },
+  {
+    "id": 8744,
+    "nome": "TROTA, SURGELATA, cotta al microonde",
+    "categoria": "pesci vertebrati (freschi, surgelati o cotti)",
+    "file": "8744.json"
+  },
+  {
+    "id": 1803,
+    "nome": "UOVO DI ANATRA",
+    "categoria": "uova",
+    "file": "1803.json"
+  },
+  {
+    "id": 1801,
+    "nome": "UOVO DI GALLINA, ALBUME",
+    "categoria": "uova",
+    "file": "1801.json"
+  },
+  {
+    "id": 1800,
+    "nome": "UOVO DI GALLINA, INTERO",
+    "categoria": "uova",
+    "file": "1800.json"
+  },
+  {
+    "id": 1806,
+    "nome": "UOVO DI GALLINA, INTERO, in polvere",
+    "categoria": "uova",
+    "file": "1806.json"
+  },
+  {
+    "id": 8750,
+    "nome": "UOVO DI GALLINA, INTERO, sodo",
+    "categoria": "uova",
+    "file": "8750.json"
+  },
+  {
+    "id": 1802,
+    "nome": "UOVO DI GALLINA, TUORLO",
+    "categoria": "uova",
+    "file": "1802.json"
+  },
+  {
+    "id": 1804,
+    "nome": "UOVO DI OСА",
+    "categoria": "uova",
+    "file": "1804.json"
+  },
+  {
+    "id": 1805,
+    "nome": "UOVO DI TACCHINA",
+    "categoria": "uova",
+    "file": "1805.json"
+  },
+  {
+    "id": 428,
+    "nome": "UVA",
+    "categoria": "frutta fresca e bacche",
+    "file": "428.json"
+  },
+  {
+    "id": 514,
+    "nome": "UVA SULTANINA, UVETTA, UVA SEССА",
+    "categoria": "frutta secca e in guscio, semi edibili",
+    "file": "514.json"
+  },
+  {
+    "id": 19072,
+    "nome": "VALERIANA",
+    "categoria": "verdure a foglia (insalata)",
+    "file": "19072.json"
+  },
+  {
+    "id": 777015,
+    "nome": "VANIGLIA, estratto alcolico",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "777015.json"
+  },
+  {
+    "id": 602044,
+    "nome": "VENTAGLIO O PETTINE",
+    "categoria": "molluschi (freschi, surgelati, cotti o conservati)",
+    "file": "602044.json"
+  },
+  {
+    "id": 19073,
+    "nome": "VERDURA E LEGUMI, SURGELATI",
+    "categoria": "verdure e legumi misti",
+    "file": "19073.json"
+  },
+  {
+    "id": 4007,
+    "nome": "VERMOUTH DOLCE",
+    "categoria": "liquori dolci e amari",
+    "file": "4007.json"
+  },
+  {
+    "id": 4008,
+    "nome": "VERMOUTH SECCO",
+    "categoria": "liquori dolci e amari",
+    "file": "4008.json"
+  },
+  {
+    "id": 4009,
+    "nome": "VINO BIANCO (13%vol)",
+    "categoria": "vino e spumanti",
+    "file": "4009.json"
+  },
+  {
+    "id": 9700,
+    "nome": "VINO BIANCO COMUNE DA TAVOLA (11,5 %vol)",
+    "categoria": "vino e spumanti",
+    "file": "9700.json"
+  },
+  {
+    "id": 999905,
+    "nome": "VINO ROSATO (11 %vol)",
+    "categoria": "vino e spumanti",
+    "file": "999905.json"
+  },
+  {
+    "id": 9702,
+    "nome": "VINO ROSATO (12 %vol)",
+    "categoria": "vino e spumanti",
+    "file": "9702.json"
+  },
+  {
+    "id": 4010,
+    "nome": "VINO ROSSO (13,5 %vol)",
+    "categoria": "vino e spumanti",
+    "file": "4010.json"
+  },
+  {
+    "id": 9701,
+    "nome": "VINO ROSSO COMUNE DA TAVOLA (12 %vol)",
+    "categoria": "vino e spumanti",
+    "file": "9701.json"
+  },
+  {
+    "id": 1202,
+    "nome": "VITELLO, CORATELLA",
+    "categoria": "frattaglie di bovino",
+    "file": "1202.json"
+  },
+  {
+    "id": 700639,
+    "nome": "VODKA",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "700639.json"
+  },
+  {
+    "id": 1328,
+    "nome": "VONGOLA",
+    "categoria": "molluschi (freschi, surgelati, cotti o conservati)",
+    "file": "1328.json"
+  },
+  {
+    "id": 700832,
+    "nome": "VONGOLE, IN SCATOLA, AL NATURALE",
+    "categoria": "molluschi (freschi, surgelati, cotti o conservati)",
+    "file": "700832.json"
+  },
+  {
+    "id": 8025,
+    "nome": "WAKAME, secca",
+    "categoria": "alghe",
+    "file": "8025.json"
+  },
+  {
+    "id": 4011,
+    "nome": "WHISKY",
+    "categoria": "distillati, superalcolici, amari ad alta gradazione",
+    "file": "4011.json"
+  },
+  {
+    "id": 1151,
+    "nome": "WURSTEL",
+    "categoria": "insaccati e salumi",
+    "file": "1151.json"
+  },
+  {
+    "id": 888004,
+    "nome": "WURSTEL DI POLLO",
+    "categoria": "insaccati e salumi",
+    "file": "888004.json"
+  },
+  {
+    "id": 701376,
+    "nome": "WURSTEL DI TACCHINO",
+    "categoria": "insaccati e salumi",
+    "file": "701376.json"
+  },
+  {
+    "id": 8720,
+    "nome": "WURSTEL, saltato in padella",
+    "categoria": "insaccati e salumi",
+    "file": "8720.json"
+  },
+  {
+    "id": 8743,
+    "nome": "YOGURT CAPRINO",
+    "categoria": "yogurt",
+    "file": "8743.json"
+  },
+  {
+    "id": 1630,
+    "nome": "YOGURT DI LATTE INTERO",
+    "categoria": "yogurt",
+    "file": "1630.json"
+  },
+  {
+    "id": 1633,
+    "nome": "YOGURT DI LATTE INTERO, ALLA FRUTTA, ZUCCHERATO",
+    "categoria": "yogurt",
+    "file": "1633.json"
+  },
+  {
+    "id": 9056,
+    "nome": "YOGURT DI LATTE INTERO, ZUCCHERATO",
+    "categoria": "yogurt",
+    "file": "9056.json"
+  },
+  {
+    "id": 1631,
+    "nome": "YOGURT DI LATTE PARZIALMENTE SCREMATO",
+    "categoria": "yogurt",
+    "file": "1631.json"
+  },
+  {
+    "id": 1632,
+    "nome": "YOGURT DI LATTE SCREMATO",
+    "categoria": "yogurt",
+    "file": "1632.json"
+  },
+  {
+    "id": 9055,
+    "nome": "YOGURT DI LATTE SCREMATO",
+    "categoria": "yogurt",
+    "file": "9055.json"
+  },
+  {
+    "id": 8027,
+    "nome": "YOGURT DI LATTE SCREMATO, ALLA FRUTTA, ZUCCHERATO",
+    "categoria": "yogurt",
+    "file": "8027.json"
+  },
+  {
+    "id": 8053,
+    "nome": "YOGURT GRECO",
+    "categoria": "yogurt",
+    "file": "8053.json"
+  },
+  {
+    "id": 8019,
+    "nome": "ZAFFERANO",
+    "categoria": "erbe aromatiche e altri spezie",
+    "file": "8019.json"
+  },
+  {
+    "id": 1153,
+    "nome": "ZAMPONE (CONFEZIONATO PRECOTTO)",
+    "categoria": "insaccati e salumi",
+    "file": "1153.json"
+  },
+  {
+    "id": 8721,
+    "nome": "ZAMPONE (CONFEZIONATO PRECOTTO), bollito",
+    "categoria": "insaccati e salumi",
+    "file": "8721.json"
+  },
+  {
+    "id": 347,
+    "nome": "ZUCCA, GIALLA",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "347.json"
+  },
+  {
+    "id": 2021,
+    "nome": "ZUCCHERO (Saccarosio)",
+    "categoria": "zucchero e miele",
+    "file": "2021.json"
+  },
+  {
+    "id": 8086,
+    "nome": "ZUCCHERO A VELO",
+    "categoria": "zucchero e miele",
+    "file": "8086.json"
+  },
+  {
+    "id": 805958,
+    "nome": "ZUCCHERO DI CANNA, GREZZO",
+    "categoria": "zucchero e miele",
+    "file": "805958.json"
+  },
+  {
+    "id": 349,
+    "nome": "ZUCCHINE",
+    "categoria": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",
+    "file": "349.json"
+  }
+]

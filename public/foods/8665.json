@@ -1,0 +1,36 @@
+{
+  "id" : 8665,
+  "nome" : "CERVO, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10007,
+    "nome" : "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 91,
+      "kj" : 387
+    },
+    "proteine_g" : 21.0,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 50
+  },
+  "minerali" : {
+    "ferro_mg" : 3.3,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (77).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 701264,
+  "nome" : "PESCE, NS, CON LISCA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 71,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 105,
+      "kj" : 444
+    },
+    "proteine_g" : 17.4,
+    "lipidi_g" : 3.7,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 58
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 41
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (86).pdf"
+  }
+}

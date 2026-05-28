@@ -1,0 +1,36 @@
+{
+  "id" : 346,
+  "nome" : "TARTUFO, NERO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2007,
+    "nome" : "funghi, tartufi"
+  },
+  "parte_edibile_percentuale" : 79,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 48,
+      "kj" : 200
+    },
+    "proteine_g" : 6.0,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 8.5,
+    "acqua_g" : 76.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.5,
+    "calcio_mg" : 24
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (18).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 500013,
+  "nome" : "SCORZONERA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2003,
+    "nome" : "verdura a radice"
+  },
+  "parte_edibile_percentuale" : 59,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 53,
+      "kj" : 222
+    },
+    "proteine_g" : 1.3,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 10.2,
+    "fibra_g" : 3.2,
+    "acqua_g" : 83.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 42
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (41).pdf"
+  }
+}

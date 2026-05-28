@@ -1,0 +1,36 @@
+{
+  "id" : 500019,
+  "nome" : "HALIBUT",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 78,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 104,
+      "kj" : 439
+    },
+    "proteine_g" : 20.8,
+    "lipidi_g" : 2.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 77.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 32
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 47
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

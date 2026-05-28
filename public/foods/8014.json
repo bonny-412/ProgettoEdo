@@ -1,0 +1,36 @@
+{
+  "id" : 8014,
+  "nome" : "ROSMARINO, secco",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24001,
+    "nome" : "erbe aromatiche e altri spezie"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 366,
+      "kj" : 1529
+    },
+    "proteine_g" : 4.9,
+    "lipidi_g" : 15.2,
+    "carboidrati_g" : 46.4,
+    "fibra_g" : 17.6,
+    "acqua_g" : 9.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 29.3,
+    "calcio_mg" : 1280
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (37).pdf"
+  }
+}

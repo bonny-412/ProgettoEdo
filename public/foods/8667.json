@@ -1,0 +1,36 @@
+{
+  "id" : 8667,
+  "nome" : "CONIGLIO, INTERO, SURGELATO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10070,
+    "nome" : "carne di coniglio e di lepre"
+  },
+  "parte_edibile_percentuale" : 69,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 116,
+      "kj" : 489
+    },
+    "proteine_g" : 20.3,
+    "lipidi_g" : 3.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 51
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150634.943.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1284,
+  "nome" : "CONIGLIO, FRATTAGLIE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10071,
+    "nome" : "frattaglie di coniglio e di lepre"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 147,
+      "kj" : 617
+    },
+    "proteine_g" : 18.7,
+    "lipidi_g" : 7.9,
+    "carboidrati_g" : 0.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 70.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0.4
+  },
+  "minerali" : {
+    "ferro_mg" : 8,
+    "calcio_mg" : 20
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150615.560.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9083,
+  "nome" : "PIZZOCCHERI della VALTELLINA, secchi, crudi",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8006,
+    "nome" : "paste alimentari"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 336,
+      "kj" : 1427
+    },
+    "proteine_g" : 12.3,
+    "lipidi_g" : 1.9,
+    "carboidrati_g" : 68.4,
+    "fibra_g" : 6.7,
+    "acqua_g" : 12.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 69
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121319.367.pdf"
+  }
+}

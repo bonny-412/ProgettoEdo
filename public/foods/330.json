@@ -1,0 +1,36 @@
+{
+  "id" : 330,
+  "nome" : "INDIVIA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 69,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 20,
+      "kj" : 82
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 2.7,
+    "fibra_g" : 1.6,
+    "acqua_g" : 93.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 93
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

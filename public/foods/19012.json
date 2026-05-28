@@ -1,0 +1,36 @@
+{
+  "id" : 19012,
+  "nome" : "CARAMELLE ALLA MENTA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14004,
+    "nome" : "caramelle, liquirizia, confetti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 361,
+      "kj" : 1541
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 96.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 3.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 7
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.8,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (38).pdf"
+  }
+}

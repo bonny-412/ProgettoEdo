@@ -1,0 +1,36 @@
+{
+  "id" : 1719,
+  "nome" : "PANNA, 35% di lipidi",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 13004,
+    "nome" : "panna"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 337,
+      "kj" : 1388
+    },
+    "proteine_g" : 2.3,
+    "lipidi_g" : 35.0,
+    "carboidrati_g" : 3.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 58.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 105
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 78
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (39).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 100041,
+  "nome" : "CASTRATO, CARNE GRASSA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10080,
+    "nome" : "carne di ovino (pecora, agnello, capra)"
+  },
+  "parte_edibile_percentuale" : 74,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 332,
+      "kj" : 1372
+    },
+    "proteine_g" : 16.5,
+    "lipidi_g" : 29.5,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 53.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 76
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (57).pdf"
+  }
+}

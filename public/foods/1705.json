@@ -1,0 +1,36 @@
+{
+  "id" : 1705,
+  "nome" : "CACIOTTINA FRESCA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 263,
+      "kj" : 1090
+    },
+    "proteine_g" : 17.3,
+    "lipidi_g" : 21.3,
+    "carboidrati_g" : 0.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 54.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 290
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (10).pdf"
+  }
+}

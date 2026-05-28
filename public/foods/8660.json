@@ -1,0 +1,36 @@
+{
+  "id" : 8660,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, sottofesa, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 111,
+      "kj" : 470
+    },
+    "proteine_g" : 22.0,
+    "lipidi_g" : 2.6,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 60
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (76).pdf"
+  }
+}

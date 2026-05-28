@@ -1,0 +1,36 @@
+{
+  "id" : 8724,
+  "nome" : "CAPITONE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 65,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 247,
+      "kj" : 1024
+    },
+    "proteine_g" : 13.0,
+    "lipidi_g" : 21.5,
+    "carboidrati_g" : 0.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 62.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 87
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 17
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.5,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (32).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 606010,
+  "nome" : "BURRO DI ARACHIDI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 13002,
+    "nome" : "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 636,
+      "kj" : 2635
+    },
+    "proteine_g" : 22.6,
+    "lipidi_g" : 53.7,
+    "carboidrati_g" : 13.1,
+    "fibra_g" : 6.8,
+    "acqua_g" : 1.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 6
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 37
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento - 2026-05-14T171433.053.pdf"
+  }
+}

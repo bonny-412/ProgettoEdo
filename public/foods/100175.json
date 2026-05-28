@@ -1,0 +1,36 @@
+{
+  "id" : 100175,
+  "nome" : "FUNGHI, SOTT'OLIO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott’olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 52,
+      "kj" : 213
+    },
+    "proteine_g" : 3.3,
+    "lipidi_g" : 3.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 1.6,
+    "acqua_g" : 86.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (97).pdf"
+  }
+}

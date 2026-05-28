@@ -1,0 +1,36 @@
+{
+  "id" : 8030,
+  "nome" : "FAGIOLI ADUKI, secchi",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 294,
+      "kj" : 1247
+    },
+    "proteine_g" : 19.9,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 50.1,
+    "fibra_g" : 11.1,
+    "acqua_g" : 12.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.2,
+    "calcio_mg" : 84
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (2).pdf"
+  }
+}

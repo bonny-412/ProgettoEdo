@@ -1,0 +1,36 @@
+{
+  "id" : 8723,
+  "nome" : "BOGA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 69,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 87,
+      "kj" : 368
+    },
+    "proteine_g" : 18.3,
+    "lipidi_g" : 1.2,
+    "carboidrati_g" : 0.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 79.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 25
+  },
+  "minerali" : {
+    "ferro_mg" : 4.1,
+    "calcio_mg" : 65
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.8,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (46).pdf"
+  }
+}

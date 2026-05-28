@@ -1,0 +1,36 @@
+{
+  "id" : 2017,
+  "nome" : "MIELE",
+  "anno" : 2017,
+  "categoria" : {
+    "codice" : 14003,
+    "nome" : "zucchero e miele"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 304,
+      "kj" : 1295
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 80.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 18.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 36.4,
+    "fruttosio_g" : 43.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (57).pdf"
+  }
+}

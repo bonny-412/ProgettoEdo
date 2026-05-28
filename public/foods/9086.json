@@ -1,0 +1,36 @@
+{
+  "id" : 9086,
+  "nome" : "TARALLI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9001,
+    "nome" : "grissini, crackers, salatini, crostini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 448,
+      "kj" : 1887
+    },
+    "proteine_g" : 9.9,
+    "lipidi_g" : 17.6,
+    "carboidrati_g" : 65.7,
+    "fibra_g" : 2.0,
+    "acqua_g" : 7.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 16
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (17).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 4000,
+    "nome": "APERITIVI (fino a 22 %vol)",
+    "anno": 2008,
+    "categoria": {
+        "codice": 17002,
+        "nome": "liquori dolci e amari"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 186,
+            "kj": 780
+        },
+        "proteine_g": 0.0,
+        "lipidi_g": 0.2,
+        "carboidrati_g": 17.0,
+        "fibra_g": 0.0,
+        "acqua_g": 17.5,
+        "alcol": 65.5,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.0,
+        "calcio_mg": 0
+    },
+    "zuccheri": {
+        "glucosio_g": 7.4,
+        "fruttosio_g": 9.5,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (47).pdf"
+    }
+}

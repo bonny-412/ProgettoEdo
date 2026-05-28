@@ -1,0 +1,36 @@
+{
+    "id": 1505,
+    "nome": "ARINGA, marinata",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11004,
+        "nome": "pesci vertebrati (conservati) e uova di pesce"
+    },
+    "parte_edibile_percentuale": 95,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 199,
+            "kj": 829
+        },
+        "proteine_g": 18.3,
+        "lipidi_g": 14.0,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 60.2,
+        "alcol": 0.0,
+        "colesterolo_mg": 97
+    },
+    "minerali": {
+        "ferro_mg": 0.7,
+        "calcio_mg": 30
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (59).pdf"
+    }
+}

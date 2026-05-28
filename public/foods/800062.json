@@ -1,0 +1,36 @@
+{
+  "id" : 800062,
+  "nome" : "INSALATA DI RISO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 190,
+      "kj" : 794
+    },
+    "proteine_g" : 5.9,
+    "lipidi_g" : 11.5,
+    "carboidrati_g" : 16.1,
+    "fibra_g" : 1.3,
+    "acqua_g" : 65.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 34
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 79
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (1).pdf"
+  }
+}

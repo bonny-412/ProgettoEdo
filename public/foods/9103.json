@@ -1,0 +1,36 @@
+{
+  "id" : 9103,
+  "nome" : "COLOMBA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15001,
+    "nome" : "brioches, merendine non farcite"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 374,
+      "kj" : 1575
+    },
+    "proteine_g" : 6.8,
+    "lipidi_g" : 14.8,
+    "carboidrati_g" : 56.0,
+    "fibra_g" : 2.0,
+    "acqua_g" : 18.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 126
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 32
+  },
+  "zuccheri" : {
+    "glucosio_g" : 5.2,
+    "fruttosio_g" : 4.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150511.833.pdf"
+  }
+}

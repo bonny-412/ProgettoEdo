@@ -1,0 +1,36 @@
+{
+  "id" : 311,
+  "nome" : "CARDI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 70,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 13,
+      "kj" : 53
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 1.7,
+    "fibra_g" : 1.5,
+    "acqua_g" : 94.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 96
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (47).pdf"
+  }
+}

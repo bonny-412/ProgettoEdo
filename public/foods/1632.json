@@ -1,0 +1,36 @@
+{
+    "id": 1632,
+    "nome": "YOGURT DI LATTE SCREMATО",
+    "anno": 2008,
+    "categoria": {
+        "codice": 6002,
+        "nome": "yogurt"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 36,
+            "kj": 153
+        },
+        "proteine_g": 3.3,
+        "lipidi_g": 0.9,
+        "carboidrati_g": 4.0,
+        "fibra_g": 0.0,
+        "acqua_g": 89.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 2
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 120
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 1.6
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "Y - Scheda alimento (5).pdf"
+    }
+}

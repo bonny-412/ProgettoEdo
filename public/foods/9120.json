@@ -1,0 +1,36 @@
+{
+  "id" : 9120,
+  "nome" : "CIOCCOLATO RIPIENO AL LATTE (tipo kinder)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 546,
+      "kj" : 2279
+    },
+    "proteine_g" : 8.5,
+    "lipidi_g" : 34.6,
+    "carboidrati_g" : 52.7,
+    "fibra_g" : 1.4,
+    "acqua_g" : 2.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 25
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 326
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150441.418.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 349,
+    "nome": "ZUCCHINE",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2009,
+        "nome": "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+    },
+    "parte_edibile_percentuale": 88,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 14,
+            "kj": 59
+        },
+        "proteine_g": 1.3,
+        "lipidi_g": 0.1,
+        "carboidrati_g": 1.4,
+        "fibra_g": 1.3,
+        "acqua_g": 93.6,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.5,
+        "calcio_mg": 21
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "z - Scheda alimento (7).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 2010,
+  "nome" : "GELATO CONFEZIONATO, PANNA O FIORDILATTE, IN VASCHETTA",
+  "anno" : 2010,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 189,
+      "kj" : 794
+    },
+    "proteine_g" : 3.1,
+    "lipidi_g" : 8.8,
+    "carboidrati_g" : 25.9,
+    "fibra_g" : 0.2,
+    "acqua_g" : 60.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 29
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 98
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (17).pdf"
+  }
+}

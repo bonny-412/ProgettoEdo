@@ -1,0 +1,36 @@
+{
+  "id" : 8520,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, TAGLI DI CARNE MAGRA, senza grasso visibile",
+  "anno" : 1954,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 108,
+      "kj" : 455
+    },
+    "proteine_g" : 21.6,
+    "lipidi_g" : 2.4,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 61
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (80).pdf"
+  }
+}

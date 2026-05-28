@@ -1,0 +1,36 @@
+{
+  "id" : 19067,
+  "nome" : "SCALOGNO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2005,
+    "nome" : "agliacee"
+  },
+  "parte_edibile_percentuale" : 72,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 23,
+      "kj" : 98
+    },
+    "proteine_g" : 1.5,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 3.3,
+    "fibra_g" : 1.5,
+    "acqua_g" : 92.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 24
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (30).pdf"
+  }
+}

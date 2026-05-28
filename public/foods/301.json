@@ -1,0 +1,36 @@
+{
+    "id": 301,
+    "nome": "AGLIO, fresco",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2005,
+        "nome": "agliacee"
+    },
+    "parte_edibile_percentuale": 75,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 45,
+            "kj": 190
+        },
+        "proteine_g": 0.9,
+        "lipidi_g": 0.6,
+        "carboidrati_g": 8.4,
+        "fibra_g": 2.3,
+        "acqua_g": 80.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 1.5,
+        "calcio_mg": 14
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (9).pdf"
+    }
+}

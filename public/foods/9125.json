@@ -1,0 +1,36 @@
+{
+  "id" : 9125,
+  "nome" : "SCIROPPO DI MANDORLA PER BIBITE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14008,
+    "nome" : "sciroppi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 349,
+      "kj" : 1482
+    },
+    "proteine_g" : 1.2,
+    "lipidi_g" : 3.4,
+    "carboidrati_g" : 83.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 12.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 16
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (38).pdf"
+  }
+}

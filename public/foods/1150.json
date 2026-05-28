@@ -1,0 +1,36 @@
+{
+  "id" : 1150,
+  "nome" : "SALSICCIA DI SUINO, secca",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 514,
+      "kj" : 2124
+    },
+    "proteine_g" : 22.0,
+    "lipidi_g" : 47.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 28.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 88
+  },
+  "minerali" : {
+    "ferro_mg" : 4.3,
+    "calcio_mg" : 31
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (22).pdf"
+  }
+}

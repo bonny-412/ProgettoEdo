@@ -1,0 +1,36 @@
+{
+  "id" : 9091,
+  "nome" : "TIGELLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 289,
+      "kj" : 1221
+    },
+    "proteine_g" : 9.1,
+    "lipidi_g" : 5.6,
+    "carboidrati_g" : 52.3,
+    "fibra_g" : 2.8,
+    "acqua_g" : 28.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 5
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 1.3
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (25).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 73,
+  "nome" : "FETTE BISCOTTATE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15002,
+    "nome" : "fette biscottate"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 387,
+      "kj" : 1642
+    },
+    "proteine_g" : 11.3,
+    "lipidi_g" : 6.0,
+    "carboidrati_g" : 75.0,
+    "fibra_g" : 3.5,
+    "acqua_g" : 4.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.8,
+    "calcio_mg" : 55
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (40).pdf"
+  }
+}

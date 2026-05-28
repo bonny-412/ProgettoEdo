@@ -1,0 +1,36 @@
+{
+  "id" : 100177,
+  "nome" : "PEPERONI, GIALLI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 88,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 27,
+      "kj" : 114
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 5.0,
+    "fibra_g" : 0.9,
+    "acqua_g" : 93.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 17
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (77).pdf"
+  }
+}

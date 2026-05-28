@@ -1,0 +1,36 @@
+{
+    "id": 8787,
+    "nome": "AGNELLO, COSTOLETTA, senza grasso visibile",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10080,
+        "nome": "carne di ovino (pecora, agnello, capra)"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 106,
+            "kj": 447
+        },
+        "proteine_g": 20.4,
+        "lipidi_g": 2.7,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 76.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 75
+    },
+    "minerali": {
+        "ferro_mg": 1.7,
+        "calcio_mg": 13
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (20).pdf"
+    }
+}

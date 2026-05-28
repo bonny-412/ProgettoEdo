@@ -1,0 +1,36 @@
+{
+  "id" : 100172,
+  "nome" : "CRAUTI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2004,
+    "nome" : "crucifere"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 26,
+      "kj" : 109
+    },
+    "proteine_g" : 1.5,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 4.0,
+    "fibra_g" : 1.1,
+    "acqua_g" : 91.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 48
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150829.165.pdf"
+  }
+}

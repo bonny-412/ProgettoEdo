@@ -1,0 +1,209 @@
+/* ===============================================================
+   Piano alimentare — Stile globale
+   Allinea le variabili al mockup del Dott. Edoardo Dietista.
+   Layout full-viewport: la maschera occupa l'intera pagina.
+   =============================================================== */
+
+:root {
+  --green-900: #1b4332;
+  --green-800: #2e7d32;
+  --green-600: #3fa34d;
+  --green-400: #5cc45c;
+  --green-100: #d8f3dc;
+  --green-50:  #f0faf1;
+  --gray-900:  #1a1a1a;
+  --gray-700:  #3d3d3d;
+  --gray-500:  #6b6b6b;
+  --gray-300:  #c4c4c4;
+  --gray-100:  #f4f4f2;
+  --gray-50:   #fafaf8;
+  --white:     #ffffff;
+  --amber:     #f59e0b;
+  --red:       #ef4444;
+  --blue:      #3b82f6;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.10);
+
+  /* Larghezza sidebar parametrizzata per riusarla nei break-point. */
+  --sidebar-w: 220px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+  font-feature-settings: 'cv11', 'ss01';
+  background: white;
+  color: var(--gray-900);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;       /* lo scroll è gestito dalla content area */
+}
+
+/* Vuetify ridichiara font-family su molti elementi: forziamo DM Sans. */
+.v-application,
+.v-application__wrap,
+.v-application *:not(.material-symbols-outlined):not([class*='mdi-']) {
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif !important;
+}
+
+.v-application__wrap {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+/* Numeri sempre tabellari per allineare le colonne nutrizionali. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── Schermi extra-large: limita la larghezza del contenuto ──── */
+/* Sui monitor 4K/ultrawide manteniamo la sidebar fissa a sinistra
+   ma centriamo la content area entro un massimo leggibile. */
+@media (min-width: 1800px) {
+  :root {
+    --sidebar-w: 260px;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   Override globale Vuetify v-btn — design system app
+   Ogni variante si applica aggiungendo la classe .app-btn--*
+   al componente <v-btn>. Il variant Vuetify consigliato è "flat".
+   ═══════════════════════════════════════════════════════════════ */
+
+/* — Base reset comune a tutti i bottoni app */
+.v-btn.app-btn {
+  font-family: 'DM Sans', sans-serif !important;
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, transform 0.05s ease !important;
+}
+.v-btn.app-btn > .v-btn__overlay { display: none; }
+.v-btn.app-btn:active { transform: translateY(1px); }
+
+/* — Outline (es. "Modifica" in PatientBar) — size="small" */
+.v-btn.app-btn--outline {
+  background: transparent !important;
+  color: var(--gray-700) !important;
+  border: 1px solid var(--gray-300) !important;
+  border-radius: 5px !important;
+  font-weight: 500 !important;
+}
+.v-btn.app-btn--outline:hover {
+  background: white !important;
+  border-color: var(--green-600) !important;
+  color: var(--green-800) !important;
+}
+
+/* — Text morbido (es. "Annulla" nei dialog) — size="small" */
+.v-btn.app-btn--text {
+  background: transparent !important;
+  color: var(--gray-600) !important;
+  font-weight: 400 !important;
+}
+.v-btn.app-btn--text:hover {
+  background: var(--gray-100) !important;
+  color: var(--gray-900) !important;
+}
+
+/* — Primary verde (es. "Salva", "Aggiungi" nei dialog) — size="small" */
+.v-btn.app-btn--primary {
+  background: var(--green-600) !important;
+  color: white !important;
+  border-radius: 6px !important;
+  font-weight: 500 !important;
+}
+.v-btn.app-btn--primary:hover:not(.v-btn--disabled) {
+  background: var(--green-800) !important;
+}
+.v-btn.app-btn--primary.v-btn--disabled {
+  opacity: 0.5 !important;
+  background: var(--green-600) !important;
+  color: white !important;
+}
+
+/* — Green compact (es. "Aggiungi" in FoodSearch) — size="small" */
+.v-btn.app-btn--green-sm {
+  background: var(--green-600) !important;
+  color: white !important;
+  border-radius: 5px !important;
+  font-weight: 500 !important;
+}
+.v-btn.app-btn--green-sm:hover:not(.v-btn--disabled) {
+  background: var(--green-800) !important;
+}
+.v-btn.app-btn--green-sm.v-btn--disabled {
+  opacity: 0.55 !important;
+  background: var(--green-600) !important;
+  color: white !important;
+}
+
+/* — Link testuale (es. "o manuale") — size="small" */
+.v-btn.app-btn--link {
+  background: transparent !important;
+  color: var(--gray-500) !important;
+  font-weight: 400 !important;
+  text-decoration: underline dotted !important;
+  text-underline-offset: 2px !important;
+}
+.v-btn.app-btn--link .v-btn__content {
+  text-decoration: underline dotted !important;
+  text-underline-offset: 2px !important;
+}
+.v-btn.app-btn--link:hover {
+  color: var(--green-800) !important;
+  background: transparent !important;
+}
+
+/* — Icon piccola (es. ⋯ opzioni pasto) — icon + size="x-small" */
+.v-btn.app-btn--icon-sm {
+  border-radius: 5px !important;
+  background: var(--green-50) !important;
+  border: 1px solid var(--green-100) !important;
+  color: var(--green-800) !important;
+}
+.v-btn.app-btn--icon-sm:hover { background: var(--green-100) !important; }
+
+/* — Icon minima (es. × elimina alimento) — icon + size="x-small" */
+.v-btn.app-btn--icon-xs {
+  border-radius: 4px !important;
+  border: 1px solid #ebebeb !important;
+  background: white !important;
+  color: var(--gray-300) !important;
+}
+.v-btn.app-btn--icon-xs:hover {
+  border-color: var(--red) !important;
+  color: var(--red) !important;
+  background: #fef2f2 !important;
+}
+
+/* — Aggiungi pasto (bordo tratteggiato, full-width) — size="large" */
+.v-btn.app-btn--add-meal {
+  display: flex !important;
+  width: 100% !important;
+  border: 1.5px dashed var(--green-100) !important;
+  border-radius: var(--radius-md) !important;
+  background: var(--green-50) !important;
+  color: var(--green-600) !important;
+  font-weight: 500 !important;
+}
+.v-btn.app-btn--add-meal:hover {
+  background: var(--green-100) !important;
+  border-color: var(--green-400) !important;
+}
+

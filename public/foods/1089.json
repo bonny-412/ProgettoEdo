@@ -1,0 +1,36 @@
+{
+  "id" : 1089,
+  "nome" : "OCA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 70,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 373,
+      "kj" : 1541
+    },
+    "proteine_g" : 15.8,
+    "lipidi_g" : 34.4,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 49.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 80
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

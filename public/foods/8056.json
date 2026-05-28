@@ -1,0 +1,36 @@
+{
+  "id" : 8056,
+  "nome" : "BIRRA CHIARA DOPPIO MALTO (6.2 - 12.0 %vol)",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17003,
+    "nome" : "birra"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 44,
+      "kj" : 182
+    },
+    "proteine_g" : 0.3,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 93.5,
+    "alcol" : 6.1,
+    "colesterolo_mg" : 6
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (21).pdf"
+  }
+}

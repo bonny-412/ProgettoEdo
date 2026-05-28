@@ -1,0 +1,36 @@
+{
+  "id" : 3008,
+  "nome" : "BEVANDA A BASE DI COLA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 16001,
+    "nome" : "bevande analcoliche"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 39,
+      "kj" : 168
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 10.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 89.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.4,
+    "fruttosio_g" : 3.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (12).pdf"
+  }
+}

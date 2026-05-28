@@ -1,0 +1,36 @@
+{
+  "id" : 19048,
+  "nome" : "MERENDINE AL CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 389,
+      "kj" : 1633
+    },
+    "proteine_g" : 6.5,
+    "lipidi_g" : 17.7,
+    "carboidrati_g" : 52.5,
+    "fibra_g" : 3.4,
+    "acqua_g" : 18.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 29
+  },
+  "minerali" : {
+    "ferro_mg" : 1.3,
+    "calcio_mg" : 61
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (41).pdf"
+  }
+}

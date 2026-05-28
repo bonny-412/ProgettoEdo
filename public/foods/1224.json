@@ -1,0 +1,36 @@
+{
+  "id" : 1224,
+  "nome" : "CAVALLO, FEGATO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10008,
+    "nome" : "frattaglie di equino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 145,
+      "kj" : 614
+    },
+    "proteine_g" : 22.4,
+    "lipidi_g" : 4.0,
+    "carboidrati_g" : 5.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 67.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 300
+  },
+  "minerali" : {
+    "ferro_mg" : 9,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 5.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (61).pdf"
+  }
+}

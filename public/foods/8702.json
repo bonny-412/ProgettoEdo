@@ -1,0 +1,36 @@
+{
+  "id" : 8702,
+  "nome" : "TACCHINO, FUSO (COSCIA), senza pelle, cotto al forno",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 72,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 190,
+      "kj" : 798
+    },
+    "proteine_g" : 28.0,
+    "lipidi_g" : 8.7,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 61.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 107
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (9).pdf"
+  }
+}

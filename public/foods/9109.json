@@ -1,0 +1,36 @@
+{
+  "id" : 9109,
+  "nome" : "MERENDINE TIPO BRIOCHE, ALLA MARMELLATA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 382,
+      "kj" : 1606
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 17.3,
+    "carboidrati_g" : 52.7,
+    "fibra_g" : 1.7,
+    "acqua_g" : 21.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 42
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 5.0,
+    "fruttosio_g" : 2.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (47).pdf"
+  }
+}

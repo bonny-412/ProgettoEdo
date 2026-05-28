@@ -1,0 +1,36 @@
+{
+    "id": 1301,
+    "nome": "ANGUILLA DI FIUME",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11001,
+        "nome": "pesci vertebrati (freschi, surgelati o cotti)"
+    },
+    "parte_edibile_percentuale": 71,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 261,
+            "kj": 1079
+        },
+        "proteine_g": 11.8,
+        "lipidi_g": 23.7,
+        "carboidrati_g": 0.1,
+        "fibra_g": 0.0,
+        "acqua_g": 61.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 92
+    },
+    "minerali": {
+        "ferro_mg": 1.0,
+        "calcio_mg": 31
+    },
+    "zuccheri": {
+        "glucosio_g": 0.1,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (43).pdf"
+    }
+}

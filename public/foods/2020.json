@@ -1,0 +1,36 @@
+{
+  "id" : 2020,
+  "nome" : "TORRONE CON MANDORLE",
+  "anno" : 2020,
+  "categoria" : {
+    "codice" : 14000,
+    "nome" : "torrone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 483,
+      "kj" : 2022
+    },
+    "proteine_g" : 10.8,
+    "lipidi_g" : 26.8,
+    "carboidrati_g" : 52.0,
+    "fibra_g" : 1.9,
+    "acqua_g" : 6.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.5,
+    "calcio_mg" : 80
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (36).pdf"
+  }
+}

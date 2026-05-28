@@ -1,0 +1,36 @@
+{
+  "id" : 9121,
+  "nome" : "LIQUIRIZIA PURA, NERA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14004,
+    "nome" : "caramelle, liquirizia, confetti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 329,
+      "kj" : 1397
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 72.3,
+    "fibra_g" : 15.0,
+    "acqua_g" : 6.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 141
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.3,
+    "fruttosio_g" : 0.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (35).pdf"
+  }
+}

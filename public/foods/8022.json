@@ -1,0 +1,36 @@
+{
+  "id" : 8022,
+  "nome" : "IRISH MOSS",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2011,
+    "nome" : "alghe"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 32,
+      "kj" : 131
+    },
+    "proteine_g" : 1.5,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 12.3,
+    "acqua_g" : 81.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 8.9,
+    "calcio_mg" : 72
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

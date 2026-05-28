@@ -1,0 +1,36 @@
+{
+  "id" : 8692,
+  "nome" : "POLLO, SOVRACOSCIO, senza pelle",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 83,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 132,
+      "kj" : 551
+    },
+    "proteine_g" : 18.7,
+    "lipidi_g" : 6.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 73
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121525.311.pdf"
+  }
+}

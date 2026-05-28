@@ -1,0 +1,36 @@
+{
+  "id" : 8080,
+  "nome" : "BARRETTA DI CIOCCOLATO, CON RIPIENO, CARAMELLO E ARACHIDI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15009,
+    "nome" : "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 485,
+      "kj" : 2027
+    },
+    "proteine_g" : 7.5,
+    "lipidi_g" : 28.2,
+    "carboidrati_g" : 52.1,
+    "fibra_g" : 2.8,
+    "acqua_g" : 5.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 5
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 101
+  },
+  "zuccheri" : {
+    "glucosio_g" : 4.8,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (7).pdf"
+  }
+}

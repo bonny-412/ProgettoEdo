@@ -1,0 +1,36 @@
+{
+  "id" : 8769,
+  "nome" : "GELATO CONFEZIONATO, STRACCIATELLA, IN VASCHETTA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 217,
+      "kj" : 909
+    },
+    "proteine_g" : 3.4,
+    "lipidi_g" : 10.8,
+    "carboidrati_g" : 27.8,
+    "fibra_g" : 0.8,
+    "acqua_g" : 55.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 26
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 95
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (18).pdf"
+  }
+}

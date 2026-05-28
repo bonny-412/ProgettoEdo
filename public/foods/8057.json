@@ -1,0 +1,36 @@
+{
+  "id" : 8057,
+  "nome" : "SIDRO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17006,
+    "nome" : "sidro"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 42,
+      "kj" : 176
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 4.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 91.2,
+    "alcol" : 3.7,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.0,
+    "fruttosio_g" : 0.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (54).pdf"
+  }
+}

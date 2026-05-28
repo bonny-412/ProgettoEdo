@@ -1,0 +1,36 @@
+{
+  "id" : 1513,
+  "nome" : "STOCCAFISSO, secco",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11004,
+    "nome" : "pesci vertebrati (conservati) e uova di pesce"
+  },
+  "parte_edibile_percentuale" : 78,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 356,
+      "kj" : 1509
+    },
+    "proteine_g" : 80.1,
+    "lipidi_g" : 3.5,
+    "carboidrati_g" : 1.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 12.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 82
+  },
+  "minerali" : {
+    "ferro_mg" : 3.3,
+    "calcio_mg" : 60
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.1,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (81).pdf"
+  }
+}

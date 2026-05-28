@@ -1,0 +1,36 @@
+{
+  "id" : 16,
+  "nome" : "FIOCCHI DI AVENA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 367,
+      "kj" : 1549
+    },
+    "proteine_g" : 8.0,
+    "lipidi_g" : 7.5,
+    "carboidrati_g" : 66.8,
+    "fibra_g" : 8.3,
+    "acqua_g" : 10.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 5.2,
+    "calcio_mg" : 54
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (53).pdf"
+  }
+}

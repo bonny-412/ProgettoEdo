@@ -1,0 +1,36 @@
+{
+  "id" : 100092,
+  "nome" : "CERNIA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 41,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 80,
+      "kj" : 340
+    },
+    "proteine_g" : 17.9,
+    "lipidi_g" : 0.7,
+    "carboidrati_g" : 0.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 78.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 37
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 11
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (74).pdf"
+  }
+}

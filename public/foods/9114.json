@@ -1,0 +1,36 @@
+{
+  "id" : 9114,
+  "nome" : "PANE A FETTE, INTEGRALE, confezionato",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 244,
+      "kj" : 1030
+    },
+    "proteine_g" : 8.9,
+    "lipidi_g" : 4.0,
+    "carboidrati_g" : 42.3,
+    "fibra_g" : 6.7,
+    "acqua_g" : 32.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 115
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (11).pdf"
+  }
+}

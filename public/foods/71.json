@@ -1,0 +1,36 @@
+{
+  "id" : 71,
+  "nome" : "BISCOTTI PER L'INFANZIA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 400,
+      "kj" : 1694
+    },
+    "proteine_g" : 8.6,
+    "lipidi_g" : 8.5,
+    "carboidrati_g" : 75.7,
+    "fibra_g" : 2.8,
+    "acqua_g" : 5.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 1
+  },
+  "minerali" : {
+    "ferro_mg" : 6.5,
+    "calcio_mg" : 310
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (36).pdf"
+  }
+}

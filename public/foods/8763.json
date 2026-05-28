@@ -1,0 +1,36 @@
+{
+  "id" : 8763,
+  "nome" : "GELATO CONFEZIONATO, FIOR DI LATTE, RICOPERTO DI SORBETTO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 123,
+      "kj" : 518
+    },
+    "proteine_g" : 1.4,
+    "lipidi_g" : 3.4,
+    "carboidrati_g" : 23.0,
+    "fibra_g" : 0.1,
+    "acqua_g" : 72.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 1
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 38
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.7,
+    "fruttosio_g" : 2.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (15).pdf"
+  }
+}

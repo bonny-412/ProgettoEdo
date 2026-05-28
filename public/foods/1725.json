@@ -1,0 +1,36 @@
+{
+  "id" : 1725,
+  "nome" : "STRACCHINO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 300,
+      "kj" : 1243
+    },
+    "proteine_g" : 18.5,
+    "lipidi_g" : 25.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 53.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 567
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (83).pdf"
+  }
+}

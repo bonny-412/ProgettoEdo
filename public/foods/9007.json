@@ -1,0 +1,36 @@
+{
+  "id" : 9007,
+  "nome" : "PROSCIUTTO COTTO, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 132,
+      "kj" : 556
+    },
+    "proteine_g" : 22.2,
+    "lipidi_g" : 4.4,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 62
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 7
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121704.662.pdf"
+  }
+}

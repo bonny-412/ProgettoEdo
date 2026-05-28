@@ -1,0 +1,36 @@
+{
+  "id" : 100188,
+  "nome" : "CEDRO, CANDITO 4",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14002,
+    "nome" : "frutta candita"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 271,
+      "kj" : 1156
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 70.0,
+    "fibra_g" : 3.3,
+    "acqua_g" : 17.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 55
+  },
+  "zuccheri" : {
+    "glucosio_g" : 27.4,
+    "fruttosio_g" : 20.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (71).pdf"
+  }
+}

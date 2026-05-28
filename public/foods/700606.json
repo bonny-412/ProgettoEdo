@@ -1,0 +1,36 @@
+{
+  "id" : 700606,
+  "nome" : "PISTACCHI, freschi",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 409,
+      "kj" : 1698
+    },
+    "proteine_g" : 12.8,
+    "lipidi_g" : 32.6,
+    "carboidrati_g" : 16.4,
+    "fibra_g" : 1.5,
+    "acqua_g" : 35.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.8,
+    "calcio_mg" : 65
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (100).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8801,
+  "nome" : "CARRUBE",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 253,
+      "kj" : 1065
+    },
+    "proteine_g" : 3.3,
+    "lipidi_g" : 0.7,
+    "carboidrati_g" : 49.9,
+    "fibra_g" : 23.1,
+    "acqua_g" : 10.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.9,
+    "calcio_mg" : 348
+  },
+  "zuccheri" : {
+    "glucosio_g" : 6.7,
+    "fruttosio_g" : 5.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (51).pdf"
+  }
+}

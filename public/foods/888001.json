@@ -1,0 +1,36 @@
+{
+  "id" : 888001,
+  "nome" : "CAFFE' SOLUBILE, DECAFFEINATO, in polvere",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 18002,
+    "nome" : "caffè (anche decaffeinato e solubile)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 208,
+      "kj" : 886
+    },
+    "proteine_g" : 11.6,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 42.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 3.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.8,
+    "calcio_mg" : 140
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (19).pdf"
+  }
+}

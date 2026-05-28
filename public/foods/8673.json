@@ -1,0 +1,36 @@
+{
+  "id" : 8673,
+  "nome" : "SUINO, LEGGERO, bistecca, senza grasso visibile, saltata in padella",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 75,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 247,
+      "kj" : 1033
+    },
+    "proteine_g" : 30.1,
+    "lipidi_g" : 14.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 53.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 89
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131950.602.pdf"
+  }
+}

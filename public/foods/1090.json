@@ -1,0 +1,36 @@
+{
+  "id" : 1090,
+  "nome" : "PICCIONE GIOVANE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 90,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 138,
+      "kj" : 579
+    },
+    "proteine_g" : 22.1,
+    "lipidi_g" : 5.5,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 71.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 76
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (93).pdf"
+  }
+}

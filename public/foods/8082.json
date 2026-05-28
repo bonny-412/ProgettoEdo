@@ -1,0 +1,36 @@
+{
+  "id" : 8082,
+  "nome" : "BISCOTTAIL CIOCCOLATO, tipo cookies",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 445,
+      "kj" : 1866
+    },
+    "proteine_g" : 5.2,
+    "lipidi_g" : 21.3,
+    "carboidrati_g" : 60.6,
+    "fibra_g" : 2.5,
+    "acqua_g" : 6.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 36
+  },
+  "minerali" : {
+    "ferro_mg" : 2.5,
+    "calcio_mg" : 108
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (28).pdf"
+  }
+}

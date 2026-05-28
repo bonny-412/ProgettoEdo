@@ -1,0 +1,36 @@
+{
+  "id" : 888035,
+  "nome" : "SEGALE, cruda",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 314,
+      "kj" : 1328
+    },
+    "proteine_g" : 10.3,
+    "lipidi_g" : 1.6,
+    "carboidrati_g" : 60.8,
+    "fibra_g" : 15.1,
+    "acqua_g" : 10.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.6,
+    "calcio_mg" : 24
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (44).pdf"
+  }
+}

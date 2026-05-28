@@ -1,0 +1,36 @@
+{
+  "id" : 8839,
+  "nome" : "PANE, TIPO FAST-FOOD",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 248,
+      "kj" : 1051
+    },
+    "proteine_g" : 10.1,
+    "lipidi_g" : 3.0,
+    "carboidrati_g" : 47.0,
+    "fibra_g" : 2.0,
+    "acqua_g" : 32.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.4,
+    "calcio_mg" : 144
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.4,
+    "fruttosio_g" : 2.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (30).pdf"
+  }
+}

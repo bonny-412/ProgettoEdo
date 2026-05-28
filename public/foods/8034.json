@@ -1,0 +1,36 @@
+{
+  "id" : 8034,
+  "nome" : "FARINA DI SOIA, a basso contenuto lipidico",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3002,
+    "nome" : "farine di legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 378,
+      "kj" : 1594
+    },
+    "proteine_g" : 45.3,
+    "lipidi_g" : 7.2,
+    "carboidrati_g" : 28.2,
+    "fibra_g" : 13.3,
+    "acqua_g" : 7.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 9.1,
+    "calcio_mg" : 240
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (30).pdf"
+  }
+}

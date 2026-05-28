@@ -1,0 +1,36 @@
+{
+  "id" : 701307,
+  "nome" : "BISCOTTI INTEGRALI 4",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 441,
+      "kj" : 1850
+    },
+    "proteine_g" : 8.2,
+    "lipidi_g" : 17.5,
+    "carboidrati_g" : 62.2,
+    "fibra_g" : 8.5,
+    "acqua_g" : 2.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 15
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 26
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (35).pdf"
+  }
+}

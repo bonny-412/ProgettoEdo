@@ -1,0 +1,36 @@
+{
+  "id" : 201,
+  "nome" : "CECI, secchi",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 363,
+      "kj" : 1531
+    },
+    "proteine_g" : 21.8,
+    "lipidi_g" : 4.9,
+    "carboidrati_g" : 54.3,
+    "fibra_g" : 13.8,
+    "acqua_g" : 13.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 6.1,
+    "calcio_mg" : 117
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (70).pdf"
+  }
+}

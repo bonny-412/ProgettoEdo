@@ -1,0 +1,36 @@
+{
+  "id" : 8074,
+  "nome" : "RISO, ROSSO, cotto",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 131,
+      "kj" : 558
+    },
+    "proteine_g" : 3.0,
+    "lipidi_g" : 1.2,
+    "carboidrati_g" : 28.2,
+    "fibra_g" : 1.4,
+    "acqua_g" : 71.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 24
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (25).pdf"
+  }
+}

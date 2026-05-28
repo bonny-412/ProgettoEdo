@@ -1,0 +1,36 @@
+{
+  "id" : 8024,
+  "nome" : "KOMBU, secca",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2011,
+    "nome" : "alghe"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 160,
+      "kj" : 650
+    },
+    "proteine_g" : 7.1,
+    "lipidi_g" : 1.6,
+    "carboidrati_g" :0.0,
+    "fibra_g" : 58.7,
+    "acqua_g" : 12.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 12.7,
+    "calcio_mg" : 900
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (4).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8087,
+  "nome" : "MUFFIANL CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 438,
+      "kj" : 1833
+    },
+    "proteine_g" : 5.5,
+    "lipidi_g" : 25.4,
+    "carboidrati_g" : 49.5,
+    "fibra_g" : 1.0,
+    "acqua_g" : 18.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 45
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 70
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (73).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9003,
+  "nome" : "GIARDINIERA, SOTT'OLIO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott'olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 63,
+      "kj" : 262
+    },
+    "proteine_g" : 2.6,
+    "lipidi_g" : 4.8,
+    "carboidrati_g" : 1.3,
+    "fibra_g" : 2.5,
+    "acqua_g" : 84.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (23).pdf"
+  }
+}

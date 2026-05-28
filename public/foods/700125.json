@@ -1,0 +1,36 @@
+{
+  "id" : 700125,
+  "nome" : "CETRIOLI, IN SALAMOIA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott’olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 67,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 17,
+      "kj" : 70
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 2.6,
+    "fibra_g" : 1.2,
+    "acqua_g" : 92.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 20
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (79).pdf"
+  }
+}

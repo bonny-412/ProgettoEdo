@@ -1,0 +1,36 @@
+{
+    "id": 602044,
+    "nome": "VENTAGLIO O PETTINE",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11002,
+        "nome": "molluschi (freschi, surgelati, cotti o conservati)"
+    },
+    "parte_edibile_percentuale": 32,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 83,
+            "kj": 354
+        },
+        "proteine_g": 16.8,
+        "lipidi_g": 0.8,
+        "carboidrati_g": 2.4,
+        "fibra_g": 0.0,
+        "acqua_g": 78.6,
+        "alcol": 0.0,
+        "colesterolo_mg": 33
+    },
+    "minerali": {
+        "ferro_mg": 0.3,
+        "calcio_mg": 24
+    },
+    "zuccheri": {
+        "glucosio_g": 2.4,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (2).pdf"
+    }
+}

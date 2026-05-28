@@ -1,0 +1,36 @@
+{
+  "id" : 79,
+  "nome" : "CRACKERS, AL FORMAGGIO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9001,
+    "nome" : "grissini, crackers, salatini, crostini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 443,
+      "kj" : 1864
+    },
+    "proteine_g" : 9.4,
+    "lipidi_g" : 18.0,
+    "carboidrati_g" : 63.0,
+    "fibra_g" : 3.8,
+    "acqua_g" : 5.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 13
+  },
+  "minerali" : {
+    "ferro_mg" : 4.9,
+    "calcio_mg" : 136
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento - 2026-05-15T150804.245.pdf"
+  }
+}

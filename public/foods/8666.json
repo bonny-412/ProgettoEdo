@@ -1,0 +1,36 @@
+{
+  "id" : 8666,
+  "nome" : "CONIGLIO, INTERO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10070,
+    "nome" : "carne di coniglio e di lepre"
+  },
+  "parte_edibile_percentuale" : 71,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 118,
+      "kj" : 497
+    },
+    "proteine_g" : 19.9,
+    "lipidi_g" : 4.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 52
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150619.731.pdf"
+  }
+}

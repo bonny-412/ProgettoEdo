@@ -1,0 +1,36 @@
+{
+  "id" : 8805,
+  "nome" : "PRUGNE, GIALLE",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 96,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 33,
+      "kj" : 139
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 7.2,
+    "fibra_g" : 1.4,
+    "acqua_g" : 87.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.6,
+    "fruttosio_g" : 1.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121850.432.pdf"
+  }
+}

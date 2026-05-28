@@ -1,0 +1,36 @@
+{
+  "id" : 888034,
+  "nome" : "FARINA DI MIGLIO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 357,
+      "kj" : 1516
+    },
+    "proteine_g" : 10.8,
+    "lipidi_g" : 4.3,
+    "carboidrati_g" : 71.6,
+    "fibra_g" : 3.5,
+    "acqua_g" : 8.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.9,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (25).pdf"
+  }
+}

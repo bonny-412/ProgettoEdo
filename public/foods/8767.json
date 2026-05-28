@@ -1,0 +1,36 @@
+{
+  "id" : 8767,
+  "nome" : "GELATO CONFEZIONATO, FIORDILATTE, RICOPERTO DI CIOCCOLATO \"FONDENTE\"",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 288,
+      "kj" : 1201
+    },
+    "proteine_g" : 3.6,
+    "lipidi_g" : 19.4,
+    "carboidrati_g" : 25.6,
+    "fibra_g" : 1.5,
+    "acqua_g" : 50.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 17
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 63
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (14).pdf"
+  }
+}

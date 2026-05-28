@@ -1,0 +1,36 @@
+{
+  "id" : 8761,
+  "nome" : "GELATO CONFEZIONATO, CONO CON PANNA, SCAGLIE DI CIOCCOLATO E NOCCIOLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 287,
+      "kj" : 1203
+    },
+    "proteine_g" : 3.9,
+    "lipidi_g" : 15.1,
+    "carboidrati_g" : 35.4,
+    "fibra_g" : 1.4,
+    "acqua_g" : 41.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 6
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 70
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (12).pdf"
+  }
+}

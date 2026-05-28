@@ -1,0 +1,36 @@
+{
+  "id" : 19053,
+  "nome" : "PANCETTA COPPATA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 393,
+      "kj" : 1629
+    },
+    "proteine_g" : 20.9,
+    "lipidi_g" : 34.1,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 40.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 88
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (4).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9054,
+  "nome" : "FARINA LATTEA CON CEREALI E FRUTTA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6003,
+    "nome" : "farine lattee, latte condensato e in polvere"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 939,
+      "kj" : 939
+    },
+    "proteine_g" : 12.4,
+    "lipidi_g" : 8.1,
+    "carboidrati_g" : 73.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 3.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 12
+  },
+  "minerali" : {
+    "ferro_mg" : 4.9,
+    "calcio_mg" : 538
+  },
+  "zuccheri" : {
+    "glucosio_g" : 11.6,
+    "fruttosio_g" : 11.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (33).pdf"
+  }
+}

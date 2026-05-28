@@ -1,0 +1,36 @@
+{
+  "id" : 415,
+  "nome" : "KAKI O LOTI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 97,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 70,
+      "kj" : 297
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 16.0,
+    "fibra_g" : 2.5,
+    "acqua_g" : 82,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 6.9,
+    "fruttosio_g" : 7.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

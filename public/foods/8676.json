@@ -1,0 +1,36 @@
+{
+  "id" : 8676,
+  "nome" : "SUINO, PESANTE, spalla, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 94,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 156,
+      "kj" : 652
+    },
+    "proteine_g" : 19.0,
+    "lipidi_g" : 8.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 70.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 83
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T132020.008.pdf"
+  }
+}

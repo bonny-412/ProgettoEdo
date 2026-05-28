@@ -1,0 +1,36 @@
+{
+  "id" : 8835,
+  "nome" : "COUSCOUS, cotto",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 179,
+      "kj" : 759
+    },
+    "proteine_g" : 3.6,
+    "lipidi_g" : 1.1,
+    "carboidrati_g" : 39.7,
+    "fibra_g" : 2.7,
+    "acqua_g" : 55.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 10
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150743.774.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8745,
+  "nome" : "BUTIRRO CALABRO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 440,
+      "kj" : 1823
+    },
+    "proteine_g" : 24.7,
+    "lipidi_g" : 37.8,
+    "carboidrati_g" : 0.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 32.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 111
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 135
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento - 2026-05-14T171444.704.pdf"
+  }
+}

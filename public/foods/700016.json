@@ -1,0 +1,36 @@
+{
+  "id" : 700016,
+  "nome" : "SALATINI (tipo Ritz)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9001,
+    "nome" : "grissini, crackers, salatini, crostini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 472,
+      "kj" : 1978
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 23.2,
+    "carboidrati_g" : 61.2,
+    "fibra_g" : 2.3,
+    "acqua_g" : 3.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.5,
+    "calcio_mg" : 154
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (11).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 700178,
+  "nome" : "POMODORI, secchi",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott'olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 271,
+      "kj" : 1145
+    },
+    "proteine_g" : 14.1,
+    "lipidi_g" : 3.0,
+    "carboidrati_g" : 43.5,
+    "fibra_g" : 12.3,
+    "acqua_g" : 14.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 9.1,
+    "calcio_mg" : 110
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121555.436.pdf"
+  }
+}

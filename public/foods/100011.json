@@ -1,0 +1,36 @@
+{
+  "id" : 100011,
+  "nome" : "CRESCENZA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 281,
+      "kj" : 1166
+    },
+    "proteine_g" : 16.1,
+    "lipidi_g" : 23.3,
+    "carboidrati_g" : 1.9,
+    "fibra_g" : 0.0,
+    "acqua_g" : 58.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 53
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 557
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150856.185.pdf"
+  }
+}

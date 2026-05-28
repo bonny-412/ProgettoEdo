@@ -1,0 +1,36 @@
+{
+    "id": 1080,
+    "nome": "ANATRA DOMESTICA, con pelle",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10050,
+        "nome": "carne di volatili, pollo"
+    },
+    "parte_edibile_percentuale": 80,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 159,
+            "kj": 667
+        },
+        "proteine_g": 21.4,
+        "lipidi_g": 8.2,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 68.8,
+        "alcol": 0.0,
+        "colesterolo_mg": 110
+    },
+    "minerali": {
+        "ferro_mg": 1.3,
+        "calcio_mg": 12
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (41).pdf"
+    }
+}

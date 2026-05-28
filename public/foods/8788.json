@@ -1,0 +1,36 @@
+{
+    "id": 8788,
+    "nome": "AGNELLO, COSTOLETTA, senza grasso visibile, cotto al forno",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10080,
+        "nome": "carne di ovino (pecora, agnello, capra)"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 153,
+            "kj": 643
+        },
+        "proteine_g": 28.7,
+        "lipidi_g": 4.2,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 66.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 104
+    },
+    "minerali": {
+        "ferro_mg": 2.2,
+        "calcio_mg": 12
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (21).pdf"
+    }
+}

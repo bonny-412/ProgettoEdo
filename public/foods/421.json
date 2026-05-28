@@ -1,0 +1,36 @@
+{
+  "id" : 421,
+  "nome" : "MELONE D'ESTATE",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 47,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 34,
+      "kj" : 145
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 7.4,
+    "fibra_g" : 0.7,
+    "acqua_g" : 90.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (36).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8712,
+  "nome" : "PROSCIUTTO CRUDO, DI MONTAGNA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 303,
+      "kj" : 1259
+    },
+    "proteine_g" : 26.2,
+    "lipidi_g" : 22.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 44.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 69
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121748.522.pdf"
+  }
+}

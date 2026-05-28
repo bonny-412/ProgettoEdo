@@ -1,0 +1,36 @@
+{
+  "id" : 9093,
+  "nome" : "FRISELLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 345,
+      "kj" : 1468
+    },
+    "proteine_g" : 10.5,
+    "lipidi_g" : 2.0,
+    "carboidrati_g" : 74.5,
+    "fibra_g" : 2.9,
+    "acqua_g" : 4.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 71
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (74).pdf"
+  }
+}

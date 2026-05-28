@@ -1,0 +1,36 @@
+{
+  "id" : 8521,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, TAGLI DI CARNE GRASSA, senza grasso visibile",
+  "anno" : 1978,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 155,
+      "kj" : 650
+    },
+    "proteine_g" : 20.5,
+    "lipidi_g" : 8.2,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 70.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 63
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (79).pdf"
+  }
+}

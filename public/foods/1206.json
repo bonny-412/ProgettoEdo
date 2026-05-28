@@ -1,0 +1,36 @@
+{
+  "id" : 1206,
+  "nome" : "BOVINO, MILZA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10041,
+    "nome" : "frattaglie di bovino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 107,
+      "kj" : 451
+    },
+    "proteine_g" : 18.5,
+    "lipidi_g" : 3.7,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 324
+  },
+  "minerali" : {
+    "ferro_mg" : 42,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (56).pdf"
+  }
+}

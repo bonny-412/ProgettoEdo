@@ -1,0 +1,36 @@
+{
+  "id" : 8503,
+  "nome" : "COPPA PARMA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 398,
+      "kj" : 1650
+    },
+    "proteine_g" : 23.6,
+    "lipidi_g" : 33.5,
+    "carboidrati_g" : 0.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 36.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 96
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 11
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150648.930.pdf"
+  }
+}

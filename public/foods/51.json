@@ -1,0 +1,36 @@
+{
+  "id" : 51,
+  "nome" : "PASTA ALL'UOVO, secca",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8006,
+    "nome" : "paste alimentari"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 346,
+      "kj" : 1471
+    },
+    "proteine_g" : 13.0,
+    "lipidi_g" : 2.4,
+    "carboidrati_g" : 71.0,
+    "fibra_g" : 3.2,
+    "acqua_g" : 12.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 94
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (47).pdf"
+  }
+}

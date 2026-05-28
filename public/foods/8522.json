@@ -1,0 +1,36 @@
+{
+  "id" : 8522,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, TAGLI DI CARNE SEMIGRASSA, senza grasso visjbile",
+  "anno" : 1900,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 125,
+      "kj" : 525
+    },
+    "proteine_g" : 21.0,
+    "lipidi_g" : 4.6,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 73.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 62
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (81).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 328,
+  "nome" : "FUNGHI, PORCINI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2007,
+    "nome" : "funghi, tartufi"
+  },
+  "parte_edibile_percentuale" : 92,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 32,
+      "kj" : 135
+    },
+    "proteine_g" : 3.9,
+    "lipidi_g" : 0.7,
+    "carboidrati_g" : 1.4,
+    "fibra_g" : 2.5,
+    "acqua_g" : 92.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (93).pdf"
+  }
+}

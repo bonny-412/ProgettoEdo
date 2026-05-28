@@ -1,0 +1,36 @@
+{
+  "id" : 8505,
+  "nome" : "SALAME FABRIANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 420,
+      "kj" : 1744
+    },
+    "proteine_g" : 26.5,
+    "lipidi_g" : 34.3,
+    "carboidrati_g" : 1.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 32.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 88
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 46
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.5,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (5).pdf"
+  }
+}

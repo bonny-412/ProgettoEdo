@@ -1,0 +1,36 @@
+{
+  "id" : 53017,
+  "nome" : "SCIROPPO PER BIBITE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14008,
+    "nome" : "sciroppi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 308,
+      "kj" : 1312
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 82.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 18.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 3
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (39).pdf"
+  }
+}

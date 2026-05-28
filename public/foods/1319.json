@@ -1,0 +1,36 @@
+{
+  "id" : 1319,
+  "nome" : "SARDA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 70,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 129,
+      "kj" : 544
+    },
+    "proteine_g" : 20.8,
+    "lipidi_g" : 4.5,
+    "carboidrati_g" : 1.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 73.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 63
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 33
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.5,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (27).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 8754,
+    "nome": "AGNELLO, senza grasso visibile, cotto al forno",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10080,
+        "nome": "carne di ovino (pecora, agnello, capra)"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 270,
+            "kj": 1131
+        },
+        "proteine_g": 35.6,
+        "lipidi_g": 14.2,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 42.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 110
+    },
+    "minerali": {
+        "ferro_mg": 3.2,
+        "calcio_mg": 15
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (23).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1087,
+  "nome" : "GALLINA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 70,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 194,
+      "kj" : 810
+    },
+    "proteine_g" : 20.9,
+    "lipidi_g" : 12.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 66.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 93
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

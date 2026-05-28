@@ -1,0 +1,36 @@
+{
+  "id" : 8001,
+  "nome" : "BASILICO, fresco",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24001,
+    "nome" : "erbe aromatiche e altri spezie"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 49,
+      "kj" : 206
+    },
+    "proteine_g" : 3.1,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 5.1,
+    "fibra_g" : 5.2,
+    "acqua_g" : 88.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 5.5,
+    "calcio_mg" : 250
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (9).pdf"
+  }
+}

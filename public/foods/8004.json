@@ -1,0 +1,36 @@
+{
+    "id": 8004,
+    "nome": "ALLORO, secсо",
+    "anno": 1998,
+    "categoria": {
+        "codice": 24001,
+        "nome": "erbe aromatiche e altri spezie"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 341,
+            "kj": 1428
+        },
+        "proteine_g": 7.6,
+        "lipidi_g": 8.4,
+        "carboidrati_g": 48.6,
+        "fibra_g": 26.3,
+        "acqua_g": 5.4,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 43.0,
+        "calcio_mg": 830
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (30).pdf"
+    }
+}

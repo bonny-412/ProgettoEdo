@@ -1,0 +1,36 @@
+{
+  "id" : 8038,
+  "nome" : "TEMPEH",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3004,
+    "nome" : "prodotti della soia"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 173,
+      "kj" : 724
+    },
+    "proteine_g" : 20.7,
+    "lipidi_g" : 6.4,
+    "carboidrati_g" : 6.4,
+    "fibra_g" : 4.1,
+    "acqua_g" : 61.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.6,
+    "calcio_mg" : 120
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (24).pdf"
+  }
+}

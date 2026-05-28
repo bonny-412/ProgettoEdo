@@ -1,0 +1,36 @@
+{
+  "id" : 1903,
+  "nome" : "PANCETTA DI MAIALE",
+  "anno" : 1903,
+  "categoria" : {
+    "codice" : 13003,
+    "nome" : "burro e grassi animali (esclusa panna)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 661,
+      "kj" : 2723
+    },
+    "proteine_g" : 8.4,
+    "lipidi_g" : 69.3,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 19.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 101
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (5).pdf"
+  }
+}

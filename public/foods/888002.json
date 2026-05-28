@@ -1,0 +1,36 @@
+{
+  "id" : 888002,
+  "nome" : "TOFU",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3004,
+    "nome" : "prodotti della soia"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 81,
+      "kj" : 336
+    },
+    "proteine_g" : 8.1,
+    "lipidi_g" : 4.8,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 1.2,
+    "acqua_g" : 84.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 5.4,
+    "calcio_mg" : 105
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (31).pdf"
+  }
+}

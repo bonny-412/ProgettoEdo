@@ -1,0 +1,36 @@
+{
+  "id" : 30039,
+  "nome" : "CRUSCA DI GRANO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 290,
+      "kj" : 1208
+    },
+    "proteine_g" : 14.1,
+    "lipidi_g" : 5.5,
+    "carboidrati_g" : 26.6,
+    "fibra_g" : 42.4,
+    "acqua_g" : 8.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 12.9,
+    "calcio_mg" : 110
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T151000.985.pdf"
+  }
+}

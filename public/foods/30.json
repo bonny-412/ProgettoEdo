@@ -1,0 +1,36 @@
+{
+  "id" : 30,
+  "nome" : "PANE, TIPO 1, pezzatura > 500g",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 239,
+      "kj" : 1018
+    },
+    "proteine_g" : 8.3,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 52.0,
+    "fibra_g" : 4.2,
+    "acqua_g" : 34.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (29).pdf"
+  }
+}

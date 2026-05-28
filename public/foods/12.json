@@ -1,0 +1,36 @@
+{
+  "id" : 12,
+  "nome" : "FARINA DI FRUMENTO, TIPO 00",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 323,
+      "kj" : 1376
+    },
+    "proteine_g" : 11.0,
+    "lipidi_g" : 0.7,
+    "carboidrati_g" : 1.6,
+    "fibra_g" : 2.2,
+    "acqua_g" : 14.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 17
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (21).pdf"
+  }
+}

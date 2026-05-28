@@ -1,0 +1,36 @@
+{
+    "id": 100205,
+    "nome": "ACETO",
+    "anno": 1998,
+    "categoria": {
+        "codice": 24002,
+        "nome": "aceto di vino, di mele"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 4,
+            "kj": 16
+        },
+        "proteine_g": 0.4,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 0.6,
+        "fibra_g": 0.0,
+        "acqua_g": 99.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.5,
+        "calcio_mg": 15
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (4).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9090,
+  "nome" : "PIADINA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 315,
+      "kj" : 1327
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 10.5,
+    "carboidrati_g" : 49.9,
+    "fibra_g" : 2.2,
+    "acqua_g" : 28.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 7
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (91).pdf"
+  }
+}

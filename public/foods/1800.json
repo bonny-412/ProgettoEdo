@@ -1,0 +1,36 @@
+{
+    "id": 1800,
+    "nome": "UOVO DI GALLINA, INTERO",
+    "anno": 2008,
+    "categoria": {
+        "codice": 12001,
+        "nome": "uova"
+    },
+    "parte_edibile_percentuale": 87,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 128,
+            "kj": 533
+        },
+        "proteine_g": 12.4,
+        "lipidi_g": 8.7,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 77.1,
+        "alcol": 0.0,
+        "colesterolo_mg": 371
+    },
+    "minerali": {
+        "ferro_mg": 1.5,
+        "calcio_mg": 48
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "U - Scheda alimento (2).pdf"
+    }
+}

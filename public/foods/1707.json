@@ -1,0 +1,36 @@
+{
+    "id": 1707,
+    "nome": "DOLCE VERDE",
+    "anno": 2008,
+    "categoria": {
+        "codice": 7001,
+        "nome": "formaggi e latticini"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 266,
+            "kj": 1105
+        },
+        "proteine_g": 19.1,
+        "lipidi_g": 20.0,
+        "carboidrati_g": 2.5,
+        "fibra_g": 0.0,
+        "acqua_g": 52.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 90
+    },
+    "minerali": {
+        "ferro_mg": 0.3,
+        "calcio_mg": 360
+    },
+    "zuccheri": {
+        "glucosio_g": 0.7,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "D - Scheda alimento (9).pdf"
+    }
+}

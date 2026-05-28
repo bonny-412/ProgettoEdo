@@ -1,0 +1,36 @@
+{
+  "id" : 3001,
+  "nome" : "POMODORO, CONSERVA (sostanza secca 30%)",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 100,
+      "kj" : 424
+    },
+    "proteine_g" : 3.9,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 20.4,
+    "fibra_g" : 2.0,
+    "acqua_g" : 70.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.2,
+    "calcio_mg" : 27
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121611.846.pdf"
+  }
+}

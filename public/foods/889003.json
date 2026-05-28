@@ -1,0 +1,36 @@
+{
+  "id" : 889003,
+  "nome" : "KAMUT®, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 322,
+      "kj" : 1365
+    },
+    "proteine_g" : 14.5,
+    "lipidi_g" : 2.1,
+    "carboidrati_g" : 59.5,
+    "fibra_g" : 11.1,
+    "acqua_g" : 11.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.8,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (2).pdf"
+  }
+}

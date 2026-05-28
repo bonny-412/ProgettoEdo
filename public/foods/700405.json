@@ -1,0 +1,36 @@
+{
+  "id" : 700405,
+  "nome" : "SALMONE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 65,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 185,
+      "kj" : 773
+    },
+    "proteine_g" : 18.4,
+    "lipidi_g" : 12.0,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 68.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 35
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 27
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (14).pdf"
+  }
+}

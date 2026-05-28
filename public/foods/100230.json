@@ -1,0 +1,36 @@
+{
+  "id" : 100230,
+  "nome" : "TORTA AL CIOCCOLATO, industriale",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 423,
+      "kj" : 1771
+    },
+    "proteine_g" : 6.0,
+    "lipidi_g" : 23.1,
+    "carboidrati_g" : 49.6,
+    "fibra_g" : 2.6,
+    "acqua_g" : 19.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 92
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (37).pdf"
+  }
+}

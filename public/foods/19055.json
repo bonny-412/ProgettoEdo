@@ -1,0 +1,36 @@
+{
+  "id" : 19055,
+  "nome" : "PANE ALLE OLIVE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 293,
+      "kj" : 1239
+    },
+    "proteine_g" : 7.0,
+    "lipidi_g" : 6.7,
+    "carboidrati_g" : 52.6,
+    "fibra_g" : 3.8,
+    "acqua_g" : 35.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 114
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (13).pdf"
+  }
+}

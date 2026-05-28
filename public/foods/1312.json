@@ -1,0 +1,36 @@
+{
+  "id" : 1312,
+  "nome" : "MELU' O PESCE MOLO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 65,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 72,
+      "kj" : 307
+    },
+    "proteine_g" : 17.4,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 80.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 52
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 31
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (38).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9065,
+  "nome" : "CIOCCOLATO \"FONDENTE\", CON NOCCIOLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 563,
+      "kj" : 2342
+    },
+    "proteine_g" : 8.3,
+    "lipidi_g" : 40.6,
+    "carboidrati_g" : 39.7,
+    "fibra_g" : 8.0,
+    "acqua_g" : 1.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.6,
+    "calcio_mg" : 74
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (99).pdf"
+  }
+}

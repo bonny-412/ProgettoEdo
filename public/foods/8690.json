@@ -1,0 +1,36 @@
+{
+  "id" : 8690,
+  "nome" : "POLLO, PETTO, senza pelle, saltato in padella",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 98,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 129,
+      "kj" : 547
+    },
+    "proteine_g" : 30.2,
+    "lipidi_g" : 0.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 67.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 75
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121508.622.pdf"
+  }
+}

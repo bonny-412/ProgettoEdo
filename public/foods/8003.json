@@ -1,0 +1,36 @@
+{
+  "id" : 8003,
+  "nome" : "PREZZEMOLO, secco",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24001,
+    "nome" : "erbe aromatiche e altri spezie"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 270,
+      "kj" : 1117
+    },
+    "proteine_g" : 15.8,
+    "lipidi_g" : 7.0,
+    "carboidrati_g" : 14.5,
+    "fibra_g" : 44.7,
+    "acqua_g" : 9.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 41.5,
+    "calcio_mg" : 1080
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121646.872.pdf"
+  }
+}

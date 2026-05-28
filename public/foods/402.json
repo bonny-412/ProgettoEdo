@@ -1,0 +1,36 @@
+{
+    "id": 402,
+    "nome": "AMARENE",
+    "anno": 2022,
+    "categoria": {
+        "codice": 4001,
+        "nome": "frutta fresca e bacche"
+    },
+    "parte_edibile_percentuale": 85,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 44,
+            "kj": 186
+        },
+        "proteine_g": 0.8,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 10.2,
+        "fibra_g": 1.1,
+        "acqua_g": 84.2,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.4,
+        "calcio_mg": 15
+    },
+    "zuccheri": {
+        "glucosio_g": 5.0,
+        "fruttosio_g": 4.2,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (32).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 32,
+  "nome" : "PANE, TIPO 00, pezzatura da 50g",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 295,
+      "kj" : 1257
+    },
+    "proteine_g" : 8.6,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 66.9,
+    "fibra_g" : 3.2,
+    "acqua_g" : 29.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (27).pdf"
+  }
+}

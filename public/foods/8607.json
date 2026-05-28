@@ -1,0 +1,36 @@
+{
+  "id" : 8607,
+  "nome" : "PANE AZZIMO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 365,
+      "kj" : 1554
+    },
+    "proteine_g" : 10.7,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 81.7,
+    "fibra_g" : 3.5,
+    "acqua_g" : 4.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.2,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (15).pdf"
+  }
+}

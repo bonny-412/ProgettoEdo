@@ -1,0 +1,36 @@
+{
+  "id" : 8664,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, spalla, muscolo, girello, fesone, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 108,
+      "kj" : 454
+    },
+    "proteine_g" : 21.5,
+    "lipidi_g" : 2.4,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 66
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (77).pdf"
+  }
+}

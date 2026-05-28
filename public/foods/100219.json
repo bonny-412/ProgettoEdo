@@ -1,0 +1,36 @@
+{
+  "id" : 100219,
+  "nome" : "PATATE, POLVERE ISTANTANEA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 1001,
+    "nome" : "tuberi, patate, fecola, preparati per gnocchi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 351,
+      "kj" : 1488
+    },
+    "proteine_g" : 9.1,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 73.2,
+    "fibra_g" : 16.5,
+    "acqua_g" : 7.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.4,
+    "calcio_mg" : 89
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (65).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 700012,
+  "nome" : "ORZO SOLUBILE o CAFFE' D'ORZO, in tazza",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 18005,
+    "nome" : "caffè d'orzo, di cicoria (anche in tazza)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 5,
+      "kj" : 19
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 0.9,
+    "fibra_g" : 0.4,
+    "acqua_g" : 98.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (37).pdf"
+  }
+}

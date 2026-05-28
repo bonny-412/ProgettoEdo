@@ -1,0 +1,36 @@
+{
+  "id" : 100040,
+  "nome" : "CASTRATO, CARNE SEMIGRASSA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10080,
+    "nome" : "carne di ovino (pecora, agnello, capra)"
+  },
+  "parte_edibile_percentuale" : 74,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 227,
+      "kj" : 944
+    },
+    "proteine_g" : 16.8,
+    "lipidi_g" : 17.8,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 64.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 77
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (59).pdf"
+  }
+}

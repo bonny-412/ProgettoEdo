@@ -1,0 +1,36 @@
+{
+  "id" : 606512,
+  "nome" : "LIMONE, SCORZA",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 50,
+      "kj" : 208
+    },
+    "proteine_g" : 1.5,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 5.4,
+    "fibra_g" : 10.6,
+    "acqua_g" : 81.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 134
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (32).pdf"
+  }
+}

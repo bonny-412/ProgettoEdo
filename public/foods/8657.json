@@ -1,0 +1,36 @@
+{
+  "id" : 8657,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, lombata, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 134,
+      "kj" : 563
+    },
+    "proteine_g" : 21.8,
+    "lipidi_g" : 5.2,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 60
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (72).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 8006,
+    "nome": "ERBA CIPOLLINA, fresca",
+    "anno": 2008,
+    "categoria": {
+        "codice": 24001,
+        "nome": "erbe aromatiche e altri spezie"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 7,
+            "kj": 112
+        },
+        "proteine_g": 2.8,
+        "lipidi_g": 0.6,
+        "carboidrati_g": 1.7,
+        "fibra_g": 1.9,
+        "acqua_g": 91.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 1.6,
+        "calcio_mg": 85
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "E - Scheda alimento (3).pdf"
+    }
+}

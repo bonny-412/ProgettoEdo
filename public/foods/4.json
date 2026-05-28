@@ -1,0 +1,36 @@
+{
+  "id" : 4,
+  "nome" : "ORZO, PERLATO, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 346,
+      "kj" : 1468
+    },
+    "proteine_g" : 9.4,
+    "lipidi_g" : 1.5,
+    "carboidrati_g" : 73.7,
+    "fibra_g" : 9.2,
+    "acqua_g" : 12.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 21
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (35).pdf"
+  }
+}

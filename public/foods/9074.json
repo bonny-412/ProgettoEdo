@@ -1,0 +1,36 @@
+{
+  "id" : 9074,
+  "nome" : "FRUTTA FRESCA, NS",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 77,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 49,
+      "kj" : 209
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 11.0,
+    "fibra_g" : 1.9,
+    "acqua_g" : 84.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.3,
+    "fruttosio_g" : 4.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (83).pdf"
+  }
+}

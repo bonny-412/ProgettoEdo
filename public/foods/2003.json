@@ -1,0 +1,36 @@
+{
+  "id" : 2003,
+  "nome" : "CARAMELLE DURE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14004,
+    "nome" : "caramelle, liquirizia, confetti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 362,
+      "kj" : 1543
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 96.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 3.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 0
+  },
+  "zuccheri" : {
+    "glucosio_g" : 11.9,
+    "fruttosio_g" : 3.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (39).pdf"
+  }
+}

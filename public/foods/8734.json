@@ -1,0 +1,36 @@
+{
+  "id" : 8734,
+  "nome" : "ORATA, D'ALLEVAMENTO, FILETTI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 159,
+      "kj" : 665
+    },
+    "proteine_g" : 19.7,
+    "lipidi_g" : 8.4,
+    "carboidrati_g" : 1.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 68
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (28).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1602,
+  "nome" : "LATTE DI VACCA, INTERO, PASTORIZZATO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6001,
+    "nome" : "latte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 64,
+      "kj" : 268
+    },
+    "proteine_g" : 3.3,
+    "lipidi_g" : 3.6,
+    "carboidrati_g" : 4.9,
+    "fibra_g" : 0.0,
+    "acqua_g" : 87.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 11
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 119
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (8).pdf"
+  }
+}

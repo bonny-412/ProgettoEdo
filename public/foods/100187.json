@@ -1,0 +1,36 @@
+{
+  "id" : 100187,
+  "nome" : "BUCCIA D'ARANCIA, CANDITA 4",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14002,
+    "nome" : "frutta candita"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 315,
+      "kj" : 1343
+    },
+    "proteine_g" : 0.2,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 82.7,
+    "fibra_g" : 1.1,
+    "acqua_g" : 16.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 65
+  },
+  "zuccheri" : {
+    "glucosio_g" : 32.3,
+    "fruttosio_g" : 23.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (94).pdf"
+  }
+}

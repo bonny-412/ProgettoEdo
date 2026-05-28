@@ -1,0 +1,36 @@
+{
+  "id" : 12983,
+  "nome" : "LIQUIRIZIA DOLCE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14004,
+    "nome" : "caramelle, liquirizia, confetti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 322,
+      "kj" : 1368
+    },
+    "proteine_g" : 2.6,
+    "lipidi_g" : 1.6,
+    "carboidrati_g" : 77.4,
+    "fibra_g" : 3.3,
+    "acqua_g" : 15.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 8.1,
+    "calcio_mg" : 63
+  },
+  "zuccheri" : {
+    "glucosio_g" : 9.9,
+    "fruttosio_g" : 7.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (34).pdf"
+  }
+}

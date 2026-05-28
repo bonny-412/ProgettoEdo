@@ -1,0 +1,36 @@
+{
+  "id" : 8749,
+  "nome" : "SURO O SUGARELLO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 55,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 104,
+      "kj" : 438
+    },
+    "proteine_g" : 18.3,
+    "lipidi_g" : 3.0,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 77.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 65
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 125
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T132033.949.pdf"
+  }
+}

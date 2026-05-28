@@ -1,0 +1,36 @@
+{
+  "id" : 100139,
+  "nome" : "FAGIOLI, IN SCATOLA 4",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 58,
+      "kj" : 243
+    },
+    "proteine_g" : 4.1,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 6.3,
+    "fibra_g" : 6.8,
+    "acqua_g" : 82.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 40
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9101,
+  "nome" : "MERENDINE TIPO BRIOCHE, NON FARCITE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15001,
+    "nome" : "brioches, merendine non farcite"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 411,
+      "kj" : 1719
+    },
+    "proteine_g" : 7.9,
+    "lipidi_g" : 22.1,
+    "carboidrati_g" : 47.0,
+    "fibra_g" : 1.9,
+    "acqua_g" : 19.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 56
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 33
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (48).pdf"
+  }
+}

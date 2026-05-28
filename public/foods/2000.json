@@ -1,0 +1,36 @@
+{
+  "id" : 2000,
+  "nome" : "BABA'AL RHUM",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15004,
+    "nome" : "pasticcini (esclusa pasticceria da tè)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 234,
+      "kj" : 986
+    },
+    "proteine_g" : 2.2,
+    "lipidi_g" : 4.1,
+    "carboidrati_g" : 35.0,
+    "fibra_g" : 0.2,
+    "acqua_g" : 50.3,
+    "alcol" : 8.1,
+    "colesterolo_mg" : 38
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9087,
+  "nome" : "PANE ALL'UVETTA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 285,
+      "kj" : 1204
+    },
+    "proteine_g" : 6.9,
+    "lipidi_g" : 6.4,
+    "carboidrati_g" : 51.8,
+    "fibra_g" : 2.6,
+    "acqua_g" : 33.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 2
+  },
+  "minerali" : {
+    "ferro_mg" : 2,
+    "calcio_mg" : 112
+  },
+  "zuccheri" : {
+    "glucosio_g" : 8.7,
+    "fruttosio_g" : 8.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (14).pdf"
+  }
+}

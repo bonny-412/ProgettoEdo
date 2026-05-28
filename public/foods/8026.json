@@ -1,0 +1,36 @@
+{
+  "id" : 8026,
+  "nome" : "SUCCO DI ARANCIA, concentrato",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4010,
+    "nome" : "succhi e spremute di frutta"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 184,
+      "kj" : 786
+    },
+    "proteine_g" : 2.9,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 44.9,
+    "fibra_g" : 0.0,
+    "acqua_g" : 41.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 36
+  },
+  "zuccheri" : {
+    "glucosio_g" : 11.7,
+    "fruttosio_g" : 12.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (89).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1316,
+  "nome" : "POLPO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11002,
+    "nome" : "molluschi (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 90,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 57,
+      "kj" : 240
+    },
+    "proteine_g" : 10.6,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 1.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 82.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 72
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 144
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.4,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121533.830.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1701,
+  "nome" : "BURRINI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 527,
+      "kj" : 2180
+    },
+    "proteine_g" : 22.1,
+    "lipidi_g" : 47.0,
+    "carboidrati_g" : 4.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 26.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 157
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 603
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (100).pdf"
+  }
+}

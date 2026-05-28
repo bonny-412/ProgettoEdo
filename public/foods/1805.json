@@ -1,0 +1,36 @@
+{
+    "id": 1805,
+    "nome": "UOVO DI TACCHINA",
+    "anno": 2008,
+    "categoria": {
+        "codice": 12001,
+        "nome": "uova"
+    },
+    "parte_edibile_percentuale": 87,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 147,
+            "kj": 611
+        },
+        "proteine_g": 12.8,
+        "lipidi_g": 10.2,
+        "carboidrati_g": 1.0,
+        "fibra_g": 0.0,
+        "acqua_g": 72.6,
+        "alcol": 0.0,
+        "colesterolo_mg": 801
+    },
+    "minerali": {
+        "ferro_mg": 2.5,
+        "calcio_mg": 50
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "U - Scheda alimento (7).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 701003,
+  "nome" : "FIOCCHI D'ORZO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 314,
+      "kj" : 1330
+    },
+    "proteine_g" : 7.9,
+    "lipidi_g" : 1.5,
+    "carboidrati_g" : 66.1,
+    "fibra_g" : 10.3,
+    "acqua_g" : 13.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2,
+    "calcio_mg" : 16
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (59).pdf"
+  }
+}

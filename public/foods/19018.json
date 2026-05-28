@@ -1,0 +1,36 @@
+{
+  "id" : 19018,
+  "nome" : "FETTE DI SEGALE INTEGRALI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15002,
+    "nome" : "fette biscottate"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 325,
+      "kj" : 1372
+    },
+    "proteine_g" : 8.6,
+    "lipidi_g" : 1.4,
+    "carboidrati_g" : 63.4,
+    "fibra_g" : 20.0,
+    "acqua_g" : 7.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.5,
+    "calcio_mg" : 38
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (44).pdf"
+  }
+}

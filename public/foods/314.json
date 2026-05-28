@@ -1,0 +1,36 @@
+{
+  "id" : 314,
+  "nome" : "CAVOLO BROCCOLO VERDE RAMOSO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2004,
+    "nome" : "crucifere"
+  },
+  "parte_edibile_percentuale" : 72,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 30,
+      "kj" : 126
+    },
+    "proteine_g" : 3.4,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 2.0,
+    "fibra_g" : 3.1,
+    "acqua_g" : 89.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 72
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (66).pdf"
+  }
+}

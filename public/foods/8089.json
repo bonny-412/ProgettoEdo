@@ -1,0 +1,36 @@
+{
+  "id" : 8089,
+  "nome" : "SCIROPPO DI GLUCOSIO (MAIS)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14008,
+    "nome" : "sciroppi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 287,
+      "kj" : 1226
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 76.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 22.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 14.9,
+    "fruttosio_g" : 1.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (36).pdf"
+  }
+}

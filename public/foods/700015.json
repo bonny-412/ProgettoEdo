@@ -1,0 +1,36 @@
+{
+  "id" : 700015,
+  "nome" : "FIOCCHI DI CRUSCA DI GRANO, fortificati",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 360,
+      "kj" : 1525
+    },
+    "proteine_g" : 9.6,
+    "lipidi_g" : 2.2,
+    "carboidrati_g" : 73.3,
+    "fibra_g" : 13.4,
+    "acqua_g" : 4.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 8.8,
+    "calcio_mg" : 44
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.0,
+    "fruttosio_g" : 2.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (54).pdf"
+  }
+}

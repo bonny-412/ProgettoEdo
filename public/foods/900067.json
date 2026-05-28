@@ -1,0 +1,36 @@
+{
+  "id" : 900067,
+  "nome" : "FRUTTA COTTA, senza zucchero",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4002,
+    "nome" : "frutta cotta e conservata in scatola"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 55,
+      "kj" : 231
+    },
+    "proteine_g" : 0.7,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 12.2,
+    "fibra_g" : 2.1,
+    "acqua_g" : 77.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 11
+  },
+  "zuccheri" : {
+    "glucosio_g" : 4.6,
+    "fruttosio_g" : 6.0,
+    "galattosio_g" : 0.3
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (79).pdf"
+  }
+}

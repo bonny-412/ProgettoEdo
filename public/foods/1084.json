@@ -1,0 +1,36 @@
+{
+  "id" : 1084,
+  "nome" : "FAGIANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 85,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 144,
+      "kj" : 606
+    },
+    "proteine_g" : 24.3,
+    "lipidi_g" : 5.2,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 71
+  },
+  "minerali" : {
+    "ferro_mg" : 8,
+    "calcio_mg" : 49
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

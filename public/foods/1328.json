@@ -1,0 +1,36 @@
+{
+    "id": 1328,
+    "nome": "VONGOLA",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11002,
+        "nome": "molluschi (freschi, surgelati, cotti o conservati)"
+    },
+    "parte_edibile_percentuale": 25,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 72,
+            "kj": 301
+        },
+        "proteine_g": 10.2,
+        "lipidi_g": 2.5,
+        "carboidrati_g": 2.2,
+        "fibra_g": 0.0,
+        "acqua_g": 82.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 50
+    },
+    "minerali": {
+        "ferro_mg": 14.0,
+        "calcio_mg": 46
+    },
+    "zuccheri": {
+        "glucosio_g": 2.2,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (14).pdf"
+    }
+}

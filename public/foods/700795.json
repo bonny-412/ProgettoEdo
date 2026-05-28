@@ -1,0 +1,36 @@
+{
+  "id" : 700795,
+  "nome" : "CAFFE' CRUDO, in grani",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 18002,
+    "nome" : "caffè (anche decaffeinato e solubile)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 287,
+      "kj" : 1178
+    },
+    "proteine_g" : 11.2,
+    "lipidi_g" : 13.1,
+    "carboidrati_g" : 6.7,
+    "fibra_g" : 49.5,
+    "acqua_g" : 10.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 20,
+    "calcio_mg" : 160
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (15).pdf"
+  }
+}

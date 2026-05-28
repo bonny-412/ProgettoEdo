@@ -1,0 +1,36 @@
+{
+  "id" : 1307,
+  "nome" : "COZZA o MITILO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11002,
+    "nome" : "molluschi (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 32,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 84,
+      "kj" : 353
+    },
+    "proteine_g" : 11.7,
+    "lipidi_g" : 2.7,
+    "carboidrati_g" : 3.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 82.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 121
+  },
+  "minerali" : {
+    "ferro_mg" : 5.8,
+    "calcio_mg" : 88
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150759.636.pdf"
+  }
+}

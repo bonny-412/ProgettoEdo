@@ -1,0 +1,36 @@
+{
+  "id" : 1082,
+  "nome" : "CONIGLIO, CARNE SEMIGRASSA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10070,
+    "nome" : "carne di coniglio e di lepre"
+  },
+  "parte_edibile_percentuale" : 68,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 138,
+      "kj" : 580
+    },
+    "proteine_g" : 22.1,
+    "lipidi_g" : 5.3,
+    "carboidrati_g" : 0.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 70.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 65
+  },
+  "minerali" : {
+    "ferro_mg" : 1.3,
+    "calcio_mg" : 17
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.5,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento - 2026-05-15T150607.748.pdf"
+  }
+}

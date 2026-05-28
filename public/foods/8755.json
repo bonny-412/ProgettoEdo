@@ -1,0 +1,36 @@
+{
+  "id" : 8755,
+  "nome" : "CROSTATA, CON CREMA AL CACAO, INDUSTRIALE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 480,
+      "kj" : 2009
+    },
+    "proteine_g" : 6.8,
+    "lipidi_g" : 26.2,
+    "carboidrati_g" : 56.3,
+    "fibra_g" : 2.9,
+    "acqua_g" : 6.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 81
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 57
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150936.605.pdf"
+  }
+}

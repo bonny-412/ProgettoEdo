@@ -1,0 +1,36 @@
+{
+  "id" : 9116,
+  "nome" : "CIOCCOLATO BIANCO, CON NOCCIOLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 566,
+      "kj" : 2357
+    },
+    "proteine_g" : 7.7,
+    "lipidi_g" : 39.5,
+    "carboidrati_g" : 46.8,
+    "fibra_g" : 2.0,
+    "acqua_g" : 2.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 16
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 187
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (96).pdf"
+  }
+}

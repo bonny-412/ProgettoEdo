@@ -1,0 +1,36 @@
+{
+  "id" : 3,
+  "nome" : "MAIS, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 357,
+      "kj" : 1515
+    },
+    "proteine_g" : 9.2,
+    "lipidi_g" : 3.8,
+    "carboidrati_g" : 75.1,
+    "fibra_g" : 2.0,
+    "acqua_g" : 12.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.4,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (6).pdf"
+  }
+}

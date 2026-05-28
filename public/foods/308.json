@@ -1,0 +1,36 @@
+{
+  "id" : 308,
+  "nome" : "BROCCOLETTI DI RAPE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2004,
+    "nome" : "crucifere"
+  },
+  "parte_edibile_percentuale" : 60,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 28,
+      "kj" : 116
+    },
+    "proteine_g" : 2.9,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 2.0,
+    "fibra_g" : 2.9,
+    "acqua_g" : 90.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 97
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (87).pdf"
+  }
+}

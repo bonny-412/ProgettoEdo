@@ -1,0 +1,36 @@
+{
+  "id" : 316,
+  "nome" : "CAVOLO CAPPUCCIO, VERDE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2004,
+    "nome" : "crucifere"
+  },
+  "parte_edibile_percentuale" : 93,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 24,
+      "kj" : 103
+    },
+    "proteine_g" : 2.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 2.5,
+    "fibra_g" : 2.9,
+    "acqua_g" : 92.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 60
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (68).pdf"
+  }
+}

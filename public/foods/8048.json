@@ -1,0 +1,36 @@
+{
+  "id" : 8048,
+  "nome" : "LENTI COLORATE RIPIENE DI CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 463,
+      "kj" : 1947
+    },
+    "proteine_g" : 5.4,
+    "lipidi_g" : 17.5,
+    "carboidrati_g" : 73.9,
+    "fibra_g" : 3.2,
+    "acqua_g" : 1.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 17
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 150
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (25).pdf"
+  }
+}

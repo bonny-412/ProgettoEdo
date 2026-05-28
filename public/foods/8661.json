@@ -1,0 +1,36 @@
+{
+  "id" : 8661,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, copertina di sotto, copertina di spalla, sottospalla, collo",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 132,
+      "kj" : 556
+    },
+    "proteine_g" : 20.3,
+    "lipidi_g" : 5.7,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 66
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (66).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 100039,
+  "nome" : "CASTRATO, CARNE MAGRA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10080,
+    "nome" : "carne di ovino (pecora, agnello, capra)"
+  },
+  "parte_edibile_percentuale" : 74,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 122,
+      "kj" : 511
+    },
+    "proteine_g" : 17.0,
+    "lipidi_g" : 6.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 71
+  },
+  "minerali" : {
+    "ferro_mg" : 2.2,
+    "calcio_mg" : 10
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (58).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 700797,
+  "nome" : "CAFFE' DECAFFEINATO, TOSTATO, macinato",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 18002,
+    "nome" : "caffè (anche decaffeinato e solubile)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 370,
+      "kj" : 1534
+    },
+    "proteine_g" : 10.4,
+    "lipidi_g" : 15.4,
+    "carboidrati_g" : 28.5,
+    "fibra_g" : 41.4,
+    "acqua_g" : 4.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.1,
+    "calcio_mg" : 130
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (17).pdf"
+  }
+}

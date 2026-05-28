@@ -1,0 +1,36 @@
+{
+  "id" : 100292,
+  "nome" : "POMODORO, CONCENTRATO (sostanza secca 25%)",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 90,
+      "kj" : 379
+    },
+    "proteine_g" : 4.4,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 16.4,
+    "fibra_g" : 2.5,
+    "acqua_g" : 75.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 41
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121607.862.pdf"
+  }
+}

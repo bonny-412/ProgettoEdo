@@ -1,0 +1,36 @@
+{
+  "id" : 100235,
+  "nome" : "CHAMPAGNE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17001,
+    "nome" : "vino e spumanti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 76,
+      "kj" : 315
+    },
+    "proteine_g" : 0.3,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 1.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 86.8,
+    "alcol" : 9.9,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 3
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (81).pdf"
+  }
+}

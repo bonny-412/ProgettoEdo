@@ -1,0 +1,36 @@
+{
+    "id": 1630,
+    "nome": "YOGURT DI LATTE INTERO",
+    "anno": 2008,
+    "categoria": {
+        "codice": 6002,
+        "nome": "yogurt"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 66,
+            "kj": 278
+        },
+        "proteine_g": 3.8,
+        "lipidi_g": 3.9,
+        "carboidrati_g": 4.3,
+        "fibra_g": 0.0,
+        "acqua_g": 87.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 11
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 125
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "Y - Scheda alimento (1).pdf"
+    }
+}

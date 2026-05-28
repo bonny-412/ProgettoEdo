@@ -1,0 +1,36 @@
+{
+  "id" : 900094,
+  "nome" : "CORNETTO o BRIOCHE o CROISSANT, CON CREMA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 325,
+      "kj" : 1366
+    },
+    "proteine_g" : 6.9,
+    "lipidi_g" : 15.4,
+    "carboidrati_g" : 41.7,
+    "fibra_g" : 1.4,
+    "acqua_g" : 35.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 77
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 60
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150711.223.pdf"
+  }
+}

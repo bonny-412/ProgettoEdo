@@ -1,0 +1,36 @@
+{
+  "id" : 702207,
+  "nome" : "SOIA, BISTECCA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3004,
+    "nome" : "prodotti della soia"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 312,
+      "kj" : 1318
+    },
+    "proteine_g" : 47.0,
+    "lipidi_g" : 1.2,
+    "carboidrati_g" : 20.9,
+    "fibra_g" : 17.5,
+    "acqua_g" : 7.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 9.2,
+    "calcio_mg" : 241
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (59).pdf"
+  }
+}

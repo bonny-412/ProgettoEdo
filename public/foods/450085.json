@@ -1,0 +1,36 @@
+{
+  "id" : 450085,
+  "nome" : "BISCOTTI FROLLINI 4",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 456,
+      "kj" : 1920
+    },
+    "proteine_g" : 7.3,
+    "lipidi_g" : 18.2,
+    "carboidrati_g" : 68.7,
+    "fibra_g" : 2.9,
+    "acqua_g" : 1.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 46
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (34).pdf"
+  }
+}

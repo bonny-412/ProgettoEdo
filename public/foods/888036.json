@@ -1,0 +1,36 @@
+{
+  "id" : 888036,
+  "nome" : "PANE, TIPO PANCARRE', INTEGRALE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 248,
+      "kj" : 1047
+    },
+    "proteine_g" : 9.4,
+    "lipidi_g" : 4.9,
+    "carboidrati_g" : 40.7,
+    "fibra_g" : 6.8,
+    "acqua_g" : 30.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.5,
+    "calcio_mg" : 161
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.1,
+    "fruttosio_g" : 2.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (32).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1622,
+  "nome" : "LATTE DI VACCA, SCREMATO, in polvere",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6003,
+    "nome" : "farine lattee, latte condensato e in polvere"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 351,
+      "kj" : 1495
+    },
+    "proteine_g" : 33.1,
+    "lipidi_g" : 0.9,
+    "carboidrati_g" : 56.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 5.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 22
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 1323
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (15).pdf"
+  }
+}

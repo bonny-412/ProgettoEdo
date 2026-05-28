@@ -1,0 +1,36 @@
+{
+  "id" : 8609,
+  "nome" : "PASTA DI SEMOLA, cotta",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8006,
+    "nome" : "paste alimentari"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 175,
+      "kj" : 744
+    },
+    "proteine_g" : 6.9,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 37.3,
+    "fibra_g" : 0.9,
+    "acqua_g" : 54.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 21
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (51).pdf"
+  }
+}

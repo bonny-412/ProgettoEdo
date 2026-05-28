@@ -1,0 +1,36 @@
+{
+  "id" : 1295,
+  "nome" : "POLLO, RIGAGLIE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10051,
+    "nome" : "frattaglie di volatili (anche come paté)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 196,
+      "kj" : 815
+    },
+    "proteine_g" : 13.9,
+    "lipidi_g" : 15.6,
+    "carboidrati_g" : 0.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 67.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 262
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121512.285.pdf"
+  }
+}

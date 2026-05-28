@@ -1,0 +1,36 @@
+{
+  "id" : 700487,
+  "nome" : "SPINACI, IN SCATOLA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 63,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 25,
+      "kj" : 104
+    },
+    "proteine_g" : 2.8,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 0.8,
+    "fibra_g" : 3.1,
+    "acqua_g" : 91.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 120
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (72).pdf"
+  }
+}

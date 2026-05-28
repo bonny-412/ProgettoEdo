@@ -1,0 +1,36 @@
+{
+    "id": 305,
+    "nome": "ASPARAGI, di serra",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2001,
+        "nome": "germogli (soia, bambù), asparagi"
+    },
+    "parte_edibile_percentuale": 52,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 28,
+            "kj": 120
+        },
+        "proteine_g": 3.0,
+        "lipidi_g": 0.1,
+        "carboidrati_g": 3.0,
+        "fibra_g": 2.1,
+        "acqua_g": 92.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 1.0,
+        "calcio_mg": 24
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (64).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1801,
+    "nome": "UOVO DI GALLINA, ALBUME",
+    "anno": 2008,
+    "categoria": {
+        "codice": 12001,
+        "nome": "uova"
+    },
+    "parte_edibile_percentuale": 88,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 43,
+            "kj": 182
+        },
+        "proteine_g": 10.7,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 87.7,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 7
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "U - Scheda alimento (1).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 100034,
+    "nome": "AGNELLO, CARNE SEMIGRASSA",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10080,
+        "nome": "carne di ovino (pecora, agnello, capra)"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 211,
+            "kj": 878
+        },
+        "proteine_g": 19.0,
+        "lipidi_g": 15.0,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 65.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 71
+    },
+    "minerali": {
+        "ferro_mg": 2.0,
+        "calcio_mg": 10
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (16).pdf"
+    }
+}

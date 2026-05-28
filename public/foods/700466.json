@@ -1,0 +1,36 @@
+{
+  "id" : 700466,
+  "nome" : "PASTA DI OLIVE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 28003,
+    "nome" : "salse (ketchup, pesto, salsa tonnata, salsa di noci)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 336,
+      "kj" : 1382
+    },
+    "proteine_g" : 1.4,
+    "lipidi_g" : 34.3,
+    "carboidrati_g" : 4.5,
+    "fibra_g" : 2.2,
+    "acqua_g" : 52.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.2,
+    "calcio_mg" : 63
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (50).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1802,
+    "nome": "UOVO DI GALLINA, TUORLO",
+    "anno": 2008,
+    "categoria": {
+        "codice": 12001,
+        "nome": "uova"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 325,
+            "kj": 1345
+        },
+        "proteine_g": 15.8,
+        "lipidi_g": 29.1,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 53.2,
+        "alcol": 0.0,
+        "colesterolo_mg": 1337
+    },
+    "minerali": {
+        "ferro_mg": 4.9,
+        "calcio_mg": 116
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "U - Scheda alimento (5).pdf"
+    }
+}

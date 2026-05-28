@@ -1,0 +1,36 @@
+{
+  "id" : 608532,
+  "nome" : "SUCCO DI MELAGRANA, fresco",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4010,
+    "nome" : "succhi e spremute di frutta"
+  },
+  "parte_edibile_percentuale" : 56,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 44,
+      "kj" : 189
+    },
+    "proteine_g" : 0.2,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 11.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 85.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 3
+  },
+  "zuccheri" : {
+    "glucosio_g" : 6.3,
+    "fruttosio_g" : 5.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131820.216.pdf"
+  }
+}

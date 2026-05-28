@@ -1,0 +1,36 @@
+{
+  "id" : 100024,
+  "nome" : "PROVOLONCINO DOLCE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 347,
+      "kj" : 1441
+    },
+    "proteine_g" : 25.0,
+    "lipidi_g" : 26.6,
+    "carboidrati_g" : 2.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 41.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 101
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 850
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121832.523.pdf"
+  }
+}

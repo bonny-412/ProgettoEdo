@@ -1,0 +1,36 @@
+{
+  "id" : 700435,
+  "nome" : "SCAMORZA AFFUMICATA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 334,
+      "kj" : 1388
+    },
+    "proteine_g" : 25.0,
+    "lipidi_g" : 25.6,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 44.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 101
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 512
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (32).pdf"
+  }
+}

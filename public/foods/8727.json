@@ -1,0 +1,36 @@
+{
+  "id" : 8727,
+  "nome" : "CORVINA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 68,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 88,
+      "kj" : 373
+    },
+    "proteine_g" : 20.0,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 0.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 78.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 55
+  },
+  "minerali" : {
+    "ferro_mg" : 14.4,
+    "calcio_mg" : 74
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150721.593.pdf"
+  }
+}

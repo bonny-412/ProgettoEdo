@@ -1,0 +1,36 @@
+{
+  "id" : 9073,
+  "nome" : "FRUTTA FRESCA INVERNALE, NS | 4",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 78,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 54,
+      "kj" : 230
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 12.3,
+    "fibra_g" : 2.1,
+    "acqua_g" : 83.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.2,
+    "fruttosio_g" : 5.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (82).pdf"
+  }
+}

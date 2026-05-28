@@ -1,0 +1,36 @@
+{
+  "id" : 100182,
+  "nome" : "LIMETTE",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 65,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 45,
+      "kj" : 190
+    },
+    "proteine_g" : 0.7,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 8.8,
+    "fibra_g" : 3.3,
+    "acqua_g" : 86.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 60
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.3,
+    "fruttosio_g" : 3.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (30).pdf"
+  }
+}

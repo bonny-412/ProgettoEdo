@@ -1,0 +1,36 @@
+{
+  "id" : 700169,
+  "nome" : "RUCOLA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 40,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 28,
+      "kj" : 116
+    },
+    "proteine_g" : 2.6,
+    "lipidi_g" : 0.7,
+    "carboidrati_g" : 2.1,
+    "fibra_g" : 1.6,
+    "acqua_g" : 91.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 160
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (38).pdf"
+  }
+}

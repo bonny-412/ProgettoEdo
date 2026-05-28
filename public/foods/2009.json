@@ -1,0 +1,36 @@
+{
+  "id" : 2009,
+  "nome" : "CROSTATA CON MARMELLATA, industriale",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 390,
+      "kj" : 1643
+    },
+    "proteine_g" : 5.0,
+    "lipidi_g" : 13.9,
+    "carboidrati_g" : 64.4,
+    "fibra_g" : 1.7,
+    "acqua_g" : 13.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 83
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 21
+  },
+  "zuccheri" : {
+    "glucosio_g" : 7.0,
+    "fruttosio_g" : 3.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150940.834.pdf"
+  }
+}

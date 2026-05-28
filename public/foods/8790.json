@@ -1,0 +1,36 @@
+{
+  "id" : 8790,
+  "nome" : "FARAONA, COSCIO, con pelle",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 85,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 133,
+      "kj" : 558
+    },
+    "proteine_g" : 24.3,
+    "lipidi_g" : 3.8,
+    "carboidrati_g" : 0.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 71.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 71
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (9).pdf"
+  }
+}

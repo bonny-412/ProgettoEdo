@@ -1,0 +1,36 @@
+{
+  "id" : 341,
+  "nome" : "RAPE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2003,
+    "nome" : "verdura a radice"
+  },
+  "parte_edibile_percentuale" : 69,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 23,
+      "kj" : 99
+    },
+    "proteine_g" : 1.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 3.8,
+    "fibra_g" : 2.6,
+    "acqua_g" : 93.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 40
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (5).pdf"
+  }
+}

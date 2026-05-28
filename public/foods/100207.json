@@ -1,0 +1,36 @@
+{
+  "id" : 100207,
+  "nome" : "CANNELLA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24001,
+    "nome" : "erbe aromatiche e altri spezie"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 301,
+      "kj" : 1268
+    },
+    "proteine_g" : 3.9,
+    "lipidi_g" : 3.2,
+    "carboidrati_g" : 55.5,
+    "fibra_g" : 24.4,
+    "acqua_g" : 10.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 38.1,
+    "calcio_mg" : 1228
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (28).pdf"
+  }
+}

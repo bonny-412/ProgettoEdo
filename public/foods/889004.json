@@ -1,0 +1,36 @@
+{
+  "id" : 889004,
+  "nome" : "FARINA DI FARRO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 331,
+      "kj" : 1403
+    },
+    "proteine_g" : 11.4,
+    "lipidi_g" : 3.0,
+    "carboidrati_g" : 64.0,
+    "fibra_g" : 9.3,
+    "acqua_g" : 10.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 31
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (18).pdf"
+  }
+}

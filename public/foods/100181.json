@@ -1,0 +1,36 @@
+{
+  "id" : 100181,
+  "nome" : "SCAROLA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 60,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 18,
+      "kj" : 74
+    },
+    "proteine_g" : 1.6,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 1.7,
+    "fibra_g" : 1.5,
+    "acqua_g" : 93.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 6
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (33).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1503,
+    "nome": "ANGUILLA, marinata",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11004,
+        "nome": "pesci vertebrati (conservati) e uova di pesce"
+    },
+    "parte_edibile_percentuale": 88,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 259,
+            "kj": 1072
+        },
+        "proteine_g": 14.8,
+        "lipidi_g": 21.9,
+        "carboidrati_g": 0.6,
+        "fibra_g": 0.0,
+        "acqua_g": 59.9,
+        "alcol": 0.0,
+        "colesterolo_mg": 92
+    },
+    "minerali": {
+        "ferro_mg": 0.7,
+        "calcio_mg": 18
+    },
+    "zuccheri": {
+        "glucosio_g": 0.6,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (45).pdf"
+    }
+}

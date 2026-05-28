@@ -1,0 +1,36 @@
+{
+  "id" : 888012,
+  "nome" : "LIEVITO DI BIRRA, secco",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 24015,
+    "nome" : "prodotti per la lievitazione"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 223,
+      "kj" : 932
+    },
+    "proteine_g" : 35.6,
+    "lipidi_g" : 1.5,
+    "carboidrati_g" : 3.5,
+    "fibra_g" : 26.9,
+    "acqua_g" : 5.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 20,
+    "calcio_mg" : 80
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (28).pdf"
+  }
+}

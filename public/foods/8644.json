@@ -1,0 +1,36 @@
+{
+  "id" : 8644,
+  "nome" : "MELE GRANNY SMITH, senza buccia",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 81,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 42,
+      "kj" : 178
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 9.4,
+    "fibra_g" : 1.9,
+    "acqua_g" : 87.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.1,
+    "fruttosio_g" : 4.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (31).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1723,
+  "nome" : "RICOTTA DI PECORA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 157,
+      "kj" : 654
+    },
+    "proteine_g" : 9.5,
+    "lipidi_g" : 11.5,
+    "carboidrati_g" : 4.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 56
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 166
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (13).pdf"
+  }
+}

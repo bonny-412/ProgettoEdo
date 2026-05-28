@@ -1,0 +1,36 @@
+{
+    "id": 889002,
+    "nome": "AMARANTO, crudo",
+    "anno": 2022,
+    "categoria": {
+        "codice": 8001,
+        "nome": "cereali in chicchi e preparazioni"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 351,
+            "kj": 1481
+        },
+        "proteine_g": 13.6,
+        "lipidi_g": 7.0,
+        "carboidrati_g": 58.6,
+        "fibra_g": 6.7,
+        "acqua_g": 11.3,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 7.6,
+        "calcio_mg": 159
+    },
+    "zuccheri": {
+        "glucosio_g": 0.3,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (31).pdf"
+    }
+}

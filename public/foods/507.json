@@ -1,0 +1,36 @@
+{
+  "id" : 507,
+  "nome" : "FICHI, seccati al forno e mandorlati",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 305,
+      "kj" : 1287
+    },
+    "proteine_g" : 5.2,
+    "lipidi_g" : 4.2,
+    "carboidrati_g" : 58.2,
+    "fibra_g" : 14.0,
+    "acqua_g" : 18.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 186
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 25.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (48).pdf"
+  }
+}

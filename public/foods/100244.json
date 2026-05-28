@@ -1,0 +1,36 @@
+{
+  "id" : 100244,
+  "nome" : "SPUMANTI DEMI-SEC",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17001,
+    "nome" : "vino e spumanti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 71,
+      "kj" : 297
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 2.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 88.6,
+    "alcol" : 8.8,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.1,
+    "fruttosio_g" : 1.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (77).pdf"
+  }
+}

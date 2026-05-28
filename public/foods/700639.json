@@ -1,0 +1,36 @@
+{
+    "id": 700639,
+    "nome": "VODKA",
+    "anno": 2008,
+    "categoria": {
+        "codice": 17004,
+        "nome": "distillati, superalcolici, amari ad alta gradazione"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 222,
+            "kj": 919
+        },
+        "proteine_g": 0.0,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 63.3,
+        "alcol": 31.7,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.0,
+        "calcio_mg": 0
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (13).pdf"
+    }
+}

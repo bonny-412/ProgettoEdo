@@ -1,0 +1,36 @@
+{
+  "id" : 100144,
+  "nome" : "BISCOTTI AL BURRO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 520,
+      "kj" : 2176
+    },
+    "proteine_g" : 5.3,
+    "lipidi_g" : 29.0,
+    "carboidrati_g" : 62.2,
+    "fibra_g" : 2.2,
+    "acqua_g" : 3.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 82
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 138
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (27).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 337,
+  "nome" : "PORRI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2005,
+    "nome" : "agliacee"
+  },
+  "parte_edibile_percentuale" : 77,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 35,
+      "kj" : 146
+    },
+    "proteine_g" : 2.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 5.2,
+    "fibra_g" : 2.9,
+    "acqua_g" : 87.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 54
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121634.298.pdf"
+  }
+}

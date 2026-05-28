@@ -1,0 +1,36 @@
+{
+  "id" : 74,
+  "nome" : "GERME DI GRANO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 378,
+      "kj" : 1592
+    },
+    "proteine_g" : 26.0,
+    "lipidi_g" : 10.0,
+    "carboidrati_g" : 43.5,
+    "fibra_g" : 10.5,
+    "acqua_g" : 10.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 10,
+    "calcio_mg" : 72
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 0.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (19).pdf"
+  }
+}

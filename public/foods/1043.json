@@ -1,0 +1,36 @@
+{
+  "id" : 1043,
+  "nome" : "SUINO, LEGGERO, bistecca, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 74,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 157,
+      "kj" : 658
+    },
+    "proteine_g" : 21.3,
+    "lipidi_g" : 8.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 62
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131947.282.pdf"
+  }
+}

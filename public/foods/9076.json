@@ -1,0 +1,36 @@
+{
+  "id" : 9076,
+  "nome" : "FRUTTA SECCA, OLEAGINOSA, NS",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 37,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 647,
+      "kj" : 2672
+    },
+    "proteine_g" : 18.8,
+    "lipidi_g" : 59.5,
+    "carboidrati_g" : 5.1,
+    "fibra_g" : 8.6,
+    "acqua_g" : 5.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 103
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (85).pdf"
+  }
+}

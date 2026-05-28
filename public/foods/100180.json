@@ -1,0 +1,36 @@
+{
+  "id" : 100180,
+  "nome" : "POMODORO, CONCENTRATO (sostanza secca 18%)",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 55,
+      "kj" : 231
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 11.4,
+    "fibra_g" : 2.3,
+    "acqua_g" : 82.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121604.060.pdf"
+  }
+}

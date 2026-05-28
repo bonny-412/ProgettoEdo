@@ -1,0 +1,36 @@
+{
+  "id" : 2019,
+  "nome" : "TORTA MARGHERITA",
+  "anno" : 2019,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 370,
+      "kj" : 1562
+    },
+    "proteine_g" : 8.9,
+    "lipidi_g" : 10.4,
+    "carboidrati_g" : 63.4,
+    "fibra_g" : 1.4,
+    "acqua_g" : 19.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 158
+  },
+  "minerali" : {
+    "ferro_mg" : 2.8,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (39).pdf"
+  }
+}

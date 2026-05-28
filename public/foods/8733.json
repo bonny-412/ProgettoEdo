@@ -1,0 +1,36 @@
+{
+  "id" : 8733,
+  "nome" : "ORATA, SELVATICA, FILETTI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 121,
+      "kj" : 508
+    },
+    "proteine_g" : 20.7,
+    "lipidi_g" : 3.8,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 73.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 64
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 15
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (29).pdf"
+  }
+}

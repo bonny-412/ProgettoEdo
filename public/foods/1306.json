@@ -1,0 +1,36 @@
+{
+  "id" : 1306,
+  "nome" : "CEFALO MUGGINE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 55,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 127,
+      "kj" : 531
+    },
+    "proteine_g" : 15.8,
+    "lipidi_g" : 6.8,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 73.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 53
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 26
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (72).pdf"
+  }
+}

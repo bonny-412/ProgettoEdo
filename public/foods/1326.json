@@ -1,0 +1,36 @@
+{
+  "id" : 1326,
+  "nome" : "TRIGLIA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 60,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 123,
+      "kj" : 516
+    },
+    "proteine_g" : 15.8,
+    "lipidi_g" : 6.2,
+    "carboidrati_g" : 1.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 78
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 21
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.1,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (43).pdf"
+  }
+}

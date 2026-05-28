@@ -1,0 +1,36 @@
+{
+  "id" : 888038,
+  "nome" : "MUFFIN AI MIRTILLI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 360,
+      "kj" : 1511
+    },
+    "proteine_g" : 4.5,
+    "lipidi_g" : 16.1,
+    "carboidrati_g" : 51.9,
+    "fibra_g" : 1.1,
+    "acqua_g" : 24.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 30
+  },
+  "minerali" : {
+    "ferro_mg" : 1.3,
+    "calcio_mg" : 44
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.1,
+    "fruttosio_g" : 0.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (72).pdf"
+  }
+}

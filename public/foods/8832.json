@@ -1,0 +1,36 @@
+{
+  "id" : 8832,
+  "nome" : "QUINOA, cotta",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 140,
+      "kj" : 592
+    },
+    "proteine_g" : 4.8,
+    "lipidi_g" : 2.5,
+    "carboidrati_g" : 24.3,
+    "fibra_g" : 3.6,
+    "acqua_g" : 71.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 21
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (1).pdf"
+  }
+}

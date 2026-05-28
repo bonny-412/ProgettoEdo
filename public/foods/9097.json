@@ -1,0 +1,36 @@
+{
+  "id" : 9097,
+  "nome" : "CANTUCCI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 449,
+      "kj" : 1887
+    },
+    "proteine_g" : 11.9,
+    "lipidi_g" : 18.2,
+    "carboidrati_g" : 60.9,
+    "fibra_g" : 4.6,
+    "acqua_g" : 5.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 69
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 79
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (31).pdf"
+  }
+}

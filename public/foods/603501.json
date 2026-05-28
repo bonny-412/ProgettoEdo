@@ -1,0 +1,36 @@
+{
+    "id": 603501,
+    "nome": "AGLIO, in polvere",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2005,
+        "nome": "agliacee"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 266,
+            "kj": 1125
+        },
+        "proteine_g": 18.7,
+        "lipidi_g": 1.2,
+        "carboidrati_g": 42.7,
+        "fibra_g": 9.9,
+        "acqua_g": 6.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 3.9,
+        "calcio_mg": 65
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (10).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 3014,
+    "nome": "ESTRATTO DI CARNE BOVINA",
+    "anno": 1998,
+    "categoria": {
+        "codice": 24005,
+        "nome": "dadi, gelatina alimentare, estratti e prodotti a base di glutammato"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 221,
+            "kj": 940
+        },
+        "proteine_g": 54.0,
+        "lipidi_g": 0.4,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.9,
+        "acqua_g": 18.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 2
+    },
+    "minerali": {
+        "ferro_mg": 1.3,
+        "calcio_mg": 37
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "E - Scheda alimento (6).pdf"
+    }
+}

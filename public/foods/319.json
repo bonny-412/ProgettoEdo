@@ -1,0 +1,36 @@
+{
+  "id" : 319,
+  "nome" : "CICORIA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 80,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 17,
+      "kj" : 71
+    },
+    "proteine_g" : 1.4,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 3.6,
+    "acqua_g" : 93.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 74
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (85).pdf"
+  }
+}

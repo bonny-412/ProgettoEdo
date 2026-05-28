@@ -1,0 +1,36 @@
+{
+  "id" : 1726,
+  "nome" : "PARMIGIANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 387,
+      "kj" : 1609
+    },
+    "proteine_g" : 33.5,
+    "lipidi_g" : 28.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 30.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 91
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 1159
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (43).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8630,
+  "nome" : "MERLUZZO, SURGELATO, cotto al microonde",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 75,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 107,
+      "kj" : 455
+    },
+    "proteine_g" : 24.8,
+    "lipidi_g" : 0.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 62
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 37
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (55).pdf"
+  }
+}

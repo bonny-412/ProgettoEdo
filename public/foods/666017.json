@@ -1,0 +1,36 @@
+{
+  "id" : 666017,
+  "nome" : "CONFETTURA (MARMELLATA) DI FRUTTA, SOLO ZUCCHERI DELLA FRUTTA, con polioli",
+  "anno" : 2020,
+  "categoria" : {
+    "codice" : 14005,
+    "nome" : "marmellate"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 89,
+      "kj" : 377
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 21.0,
+    "fibra_g" : 1.7,
+    "acqua_g" : 74.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 6.8,
+    "fruttosio_g" : 9.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150540.118.pdf"
+  }
+}

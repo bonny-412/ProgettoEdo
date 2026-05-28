@@ -1,0 +1,36 @@
+{
+    "id": 9126,
+    "nome": "DOLCIFICANTE, CON SACCAROSIO ED EDULCOLORANTI INTENSI, IN POLVERE",
+    "anno": 2022,
+    "categoria": {
+        "codice": 14007,
+        "nome": "dolcificanti"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 377,
+            "kj": 1608
+        },
+        "proteine_g": 0.0,
+        "lipidi_g": 1.2,
+        "carboidrati_g": 97.7,
+        "fibra_g": 0.0,
+        "acqua_g": 2.3,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.3,
+        "calcio_mg": 1
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "D - Scheda alimento (13).pdf"
+    }
+}

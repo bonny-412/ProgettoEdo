@@ -1,0 +1,36 @@
+{
+  "id" : 10023,
+  "nome" : "COGNAC",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17004,
+    "nome" : "distillati, superalcolici, amari ad alta gradazione"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 214,
+      "kj" : 887
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 0.9,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.0,
+    "alcol" : 30.1,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 0
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150508.187.pdf"
+  }
+}

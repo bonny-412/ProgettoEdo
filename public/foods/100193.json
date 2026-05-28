@@ -1,0 +1,36 @@
+{
+  "id" : 100193,
+  "nome" : "MARMELLATA (CONFETTURA) DI ARANCE o AGRUMI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14005,
+    "nome" : "marmellate"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 262,
+      "kj" : 1118
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 69.5,
+    "fibra_g" : 0.5,
+    "acqua_g" : 28.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 26
+  },
+  "zuccheri" : {
+    "glucosio_g" : 27.6,
+    "fruttosio_g" : 15.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (18).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1140,
+  "nome" : "COPPA O CAPOCOLLO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 450,
+      "kj" : 1863
+    },
+    "proteine_g" : 20.8,
+    "lipidi_g" : 40.2,
+    "carboidrati_g" : 1.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 36.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 96
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 25
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.4,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento - 2026-05-15T150644.660.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1502,
+    "nome": "ACCIUGHE o ALICI SOTTO SALE",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11004,
+        "nome": "pesci vertebrati (conservati) e uova di pesce"
+    },
+    "parte_edibile_percentuale": 50,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 137,
+            "kj": 576
+        },
+        "proteine_g": 25.0,
+        "lipidi_g": 3.1,
+        "carboidrati_g": 2.3,
+        "fibra_g": 0.0,
+        "acqua_g": 53.8,
+        "alcol": 0.0,
+        "colesterolo_mg": 119
+    },
+    "minerali": {
+        "ferro_mg": 6.9,
+        "calcio_mg": 542
+    },
+    "zuccheri": {
+        "glucosio_g": 2.3,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (3).pdf"
+    }
+}

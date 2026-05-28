@@ -1,0 +1,36 @@
+{
+  "id" : 8647,
+  "nome" : "MELE, disidratate",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 356,
+      "kj" : 1511
+    },
+    "proteine_g" : 1.3,
+    "lipidi_g" : 2.0,
+    "carboidrati_g" : 82.2,
+    "fibra_g" : 12.5,
+    "acqua_g" : 2.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2,
+    "calcio_mg" : 40
+  },
+  "zuccheri" : {
+    "glucosio_g" : 13.2,
+    "fruttosio_g" : 48.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (29).pdf"
+  }
+}

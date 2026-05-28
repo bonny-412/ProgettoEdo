@@ -1,0 +1,36 @@
+{
+  "id" : 2011,
+  "nome" : "GHIACCIOLO",
+  "anno" : 2011,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 76,
+      "kj" : 325
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 20.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 81.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (21).pdf"
+  }
+}

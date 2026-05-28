@@ -1,0 +1,36 @@
+{
+  "id" : 888031,
+  "nome" : "BULGUR, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 320,
+      "kj" : 1356
+    },
+    "proteine_g" : 12.3,
+    "lipidi_g" : 1.3,
+    "carboidrati_g" : 62.4,
+    "fibra_g" : 12.5,
+    "acqua_g" : 9.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.5,
+    "calcio_mg" : 35
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (98).pdf"
+  }
+}

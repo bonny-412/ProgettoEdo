@@ -1,0 +1,36 @@
+{
+  "id" : 100245,
+  "nome" : "SPUMANTI SECCHI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17001,
+    "nome" : "vino e spumanti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 65,
+      "kj" : 268
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 90.4,
+    "alcol" : 8.8,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (78).pdf"
+  }
+}

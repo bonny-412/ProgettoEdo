@@ -1,0 +1,36 @@
+{
+  "id" : 805698,
+  "nome" : "SUCCO DI POMODORO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2006,
+    "nome" : "succhi di verdura"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 16,
+      "kj" : 66
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 3.0,
+    "fibra_g" : 0.6,
+    "acqua_g" : 93.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 10
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131849.999.pdf"
+  }
+}

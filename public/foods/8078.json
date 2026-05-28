@@ -1,0 +1,36 @@
+{
+  "id" : 8078,
+  "nome" : "BISCOTTO RICOPERTO DI CIOCCOLATO, CON CARAMELLO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15009,
+    "nome" : "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 484,
+      "kj" : 2029
+    },
+    "proteine_g" : 4.9,
+    "lipidi_g" : 24.8,
+    "carboidrati_g" : 63.7,
+    "fibra_g" : 1.1,
+    "acqua_g" : 4.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 7
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 106
+  },
+  "zuccheri" : {
+    "glucosio_g" : 4.8,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (44).pdf"
+  }
+}

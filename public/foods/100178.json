@@ -1,0 +1,36 @@
+{
+  "id" : 100178,
+  "nome" : "PEPERONI, SOTT'ACETO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott’olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 19,
+      "kj" : 78
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 1.7,
+    "fibra_g" : 1.9,
+    "acqua_g" : 90.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.6,
+    "calcio_mg" : 36
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (78).pdf"
+  }
+}

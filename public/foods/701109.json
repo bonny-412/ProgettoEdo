@@ -1,0 +1,36 @@
+{
+  "id" : 701109,
+  "nome" : "PISTACCHI, tostati e salati",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 613,
+      "kj" : 2534
+    },
+    "proteine_g" : 17.9,
+    "lipidi_g" : 55.4,
+    "carboidrati_g" : 8.2,
+    "fibra_g" : 6.1,
+    "acqua_g" : 2.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 110
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121301.171.pdf"
+  }
+}

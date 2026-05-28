@@ -1,0 +1,36 @@
+{
+  "id" : 805249,
+  "nome" : "BOVINO, SANGUE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10041,
+    "nome" : "frattaglie di bovino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 72,
+      "kj" : 308
+    },
+    "proteine_g" : 17.8,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 0.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 80.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 190
+  },
+  "minerali" : {
+    "ferro_mg" : 48,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (59).pdf"
+  }
+}

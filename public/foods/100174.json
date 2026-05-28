@@ -1,0 +1,36 @@
+{
+  "id" : 100174,
+  "nome" : "FUNGHI, secchi",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2007,
+    "nome" : "funghi, tartufi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 282,
+      "kj" : 1190
+    },
+    "proteine_g" : 40.6,
+    "lipidi_g" : 4.6,
+    "carboidrati_g" : 15.6,
+    "fibra_g" : 10.0,
+    "acqua_g" : 13.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 28.9,
+    "calcio_mg" : 28
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (95).pdf"
+  }
+}

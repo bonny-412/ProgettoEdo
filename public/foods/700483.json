@@ -1,0 +1,36 @@
+{
+  "id" : 700483,
+  "nome" : "FAGIOLINI IN SCATOLA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 54,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 27,
+      "kj" : 116
+    },
+    "proteine_g" : 1.5,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 4.1,
+    "fibra_g" : 2.6,
+    "acqua_g" : 90.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 53
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (6).pdf"
+  }
+}

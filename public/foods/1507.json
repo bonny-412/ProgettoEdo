@@ -1,0 +1,36 @@
+{
+  "id" : 1507,
+  "nome" : "BACCALA', ammollato",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11004,
+    "nome" : "pesci vertebrati (conservati) e uova di pesc"
+  },
+  "parte_edibile_percentuale" : 82,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 95,
+      "kj" : 404
+    },
+    "proteine_g" : 21.6,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 50
+  },
+  "minerali" : {
+    "ferro_mg" : 2.3,
+    "calcio_mg" : 31
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (2).pdf"
+  }
+}

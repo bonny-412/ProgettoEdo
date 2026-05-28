@@ -1,0 +1,36 @@
+{
+  "id" : 889001,
+  "nome" : "QUINOA, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 376,
+      "kj" : 1584
+    },
+    "proteine_g" : 15.4,
+    "lipidi_g" : 8.1,
+    "carboidrati_g" : 57.8,
+    "fibra_g" : 12.2,
+    "acqua_g" : 10.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.6,
+    "calcio_mg" : 46
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.8,
+    "fruttosio_g" : 0.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (2).pdf"
+  }
+}

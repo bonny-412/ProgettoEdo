@@ -1,0 +1,36 @@
+{
+  "id" : 12985,
+  "nome" : "CIOCCOLATO AL LATTE, CON NOCCIOLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 553,
+      "kj" : 2304
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 36.9,
+    "carboidrati_g" : 48.6,
+    "fibra_g" : 4.8,
+    "acqua_g" : 1.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 9
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 42
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (94).pdf"
+  }
+}

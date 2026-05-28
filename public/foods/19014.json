@@ -1,0 +1,36 @@
+{
+  "id" : 19014,
+  "nome" : "CIOCCOLATO BIANCO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 534,
+      "kj" : 2234
+    },
+    "proteine_g" : 5.9,
+    "lipidi_g" : 32.1,
+    "carboidrati_g" : 59.0,
+    "fibra_g" : 0.2,
+    "acqua_g" : 1.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 21
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 199
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (95).pdf"
+  }
+}

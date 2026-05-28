@@ -1,0 +1,36 @@
+{
+  "id" : 9107,
+  "nome" : "MERENDINE TIPO PASTA FROLLA, AL CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 471,
+      "kj" : 1976
+    },
+    "proteine_g" : 6.8,
+    "lipidi_g" : 23.5,
+    "carboidrati_g" : 60.6,
+    "fibra_g" : 2.6,
+    "acqua_g" : 5.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 87
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 51
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (49).pdf"
+  }
+}

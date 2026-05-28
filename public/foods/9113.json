@@ -1,0 +1,36 @@
+{
+  "id" : 9113,
+  "nome" : "PANEA FETTE, BIANCO, confezionato",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 245,
+      "kj" : 1038
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 2.7,
+    "carboidrati_g" : 49.1,
+    "fibra_g" : 3.7,
+    "acqua_g" : 31.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 177
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (10).pdf"
+  }
+}

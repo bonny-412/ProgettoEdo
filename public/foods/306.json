@@ -1,0 +1,36 @@
+{
+  "id" : 306,
+  "nome" : "BARBABIETOLE ROSSE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2003,
+    "nome" : "verdura a radice"
+  },
+  "parte_edibile_percentuale" : 82,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 25,
+      "kj" : 104
+    },
+    "proteine_g" : 1.1,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 4.0,
+    "fibra_g" : 2.6,
+    "acqua_g" : 91.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 20
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (5).pdf"
+  }
+}

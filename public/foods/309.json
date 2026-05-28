@@ -1,0 +1,36 @@
+{
+  "id" : 309,
+  "nome" : "BROCCOLOA TESTA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2004,
+    "nome" : "crucifere"
+  },
+  "parte_edibile_percentuale" : 51,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 33,
+      "kj" : 140
+    },
+    "proteine_g" : 3.0,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 3.1,
+    "fibra_g" : 3.1,
+    "acqua_g" : 90.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 28
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (88).pdf"
+  }
+}

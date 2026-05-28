@@ -1,0 +1,36 @@
+{
+  "id" : 1100,
+  "nome" : "BOVINO, LESSATO IN GELATINA, IN SCATOLA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10040,
+    "nome" : "carne in scatola"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 67,
+      "kj" : 281
+    },
+    "proteine_g" : 12.6,
+    "lipidi_g" : 1.8,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 83.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 29
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (52).pdf"
+  }
+}

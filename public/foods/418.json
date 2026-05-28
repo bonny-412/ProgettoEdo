@@ -1,0 +1,36 @@
+{
+  "id" : 418,
+  "nome" : "MELAGRANE",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 59,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 68,
+      "kj" : 288
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 15.9,
+    "fibra_g" : 2.2,
+    "acqua_g" : 80.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 0
+  },
+  "zuccheri" : {
+    "glucosio_g" : 8.6,
+    "fruttosio_g" : 7.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (22).pdf"
+  }
+}

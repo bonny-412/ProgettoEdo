@@ -1,0 +1,36 @@
+{
+    "id": 304,
+    "nome": "ASPARAGI, di campo",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2001,
+        "nome": "germogli (soia, bambù), asparagi"
+    },
+    "parte_edibile_percentuale": 87,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 33,
+            "kj": 138
+        },
+        "proteine_g": 3.6,
+        "lipidi_g": 0.2,
+        "carboidrati_g": 3.3,
+        "fibra_g": 2.1,
+        "acqua_g": 91.4,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 1.1,
+        "calcio_mg": 25
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (63).pdf"
+    }
+}

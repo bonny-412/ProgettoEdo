@@ -1,0 +1,36 @@
+{
+  "id" : 80,
+  "nome" : "BISCOTTI WAFERS",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 519,
+      "kj" : 2173
+    },
+    "proteine_g" : 6.1,
+    "lipidi_g" : 29.6,
+    "carboidrati_g" : 60.0,
+    "fibra_g" : 1.8,
+    "acqua_g" : 0.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.7,
+    "calcio_mg" : 27
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (42).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1243,
+  "nome" : "SUINO, CUORE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10061,
+    "nome" : "frattaglie di maiale"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 159,
+      "kj" : 665
+    },
+    "proteine_g" : 18.3,
+    "lipidi_g" : 9.4,
+    "carboidrati_g" : 0.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 79
+  },
+  "minerali" : {
+    "ferro_mg" : 5.3,
+    "calcio_mg" : 35
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131933.575.pdf"
+  }
+}

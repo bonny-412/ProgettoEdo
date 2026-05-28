@@ -1,0 +1,36 @@
+{
+  "id" : 9031,
+  "nome" : "CAFFE' BAR, in tazza",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 18002,
+    "nome" : "caffè (anche decaffeinato e solubile)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 2,
+      "kj" : 9
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 97.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 2
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (14).pdf"
+  }
+}

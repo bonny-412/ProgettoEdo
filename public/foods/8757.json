@@ -1,0 +1,36 @@
+{
+  "id" : 8757,
+  "nome" : "GELATO CONFEZIONATO, BISCOTTO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 278,
+      "kj" : 1170
+    },
+    "proteine_g" : 5.2,
+    "lipidi_g" : 9.4,
+    "carboidrati_g" : 45.2,
+    "fibra_g" : 1.3,
+    "acqua_g" : 38.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 20
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 55
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (8).pdf"
+  }
+}

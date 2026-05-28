@@ -1,0 +1,36 @@
+{
+  "id" : 8836,
+  "nome" : "PASTA DI SEMOLA INTEGRALE, cotta",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8006,
+    "nome" : "paste alimentari"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 182,
+      "kj" : 774
+    },
+    "proteine_g" : 7.4,
+    "lipidi_g" : 1.2,
+    "carboidrati_g" : 36.0,
+    "fibra_g" : 3.5,
+    "acqua_g" : 50.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 31
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (53).pdf"
+  }
+}

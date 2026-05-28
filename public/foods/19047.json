@@ -1,0 +1,36 @@
+{
+  "id" : 19047,
+  "nome" : "MELE, polpa secca",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 238,
+      "kj" : 1011
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 57.2,
+    "fibra_g" : 8.7,
+    "acqua_g" : 31.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 8.2,
+    "fruttosio_g" : 30.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (33).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9070,
+  "nome" : "CROSTACEI, NS",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11005,
+    "nome" : "crostacei (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 58,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 71,
+      "kj" : 303
+    },
+    "proteine_g" : 14.4,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 1.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 80.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 145
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 104
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.7,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150922.946.pdf"
+  }
+}

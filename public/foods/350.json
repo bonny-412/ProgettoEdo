@@ -1,0 +1,36 @@
+{
+  "id" : 350,
+  "nome" : "SOIA, GERMOGLI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2001,
+    "nome" : "germogli (soia, bambù), asparagi"
+  },
+  "parte_edibile_percentuale" : 98,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 51,
+      "kj" : 214
+    },
+    "proteine_g" : 6.2,
+    "lipidi_g" : 1.4,
+    "carboidrati_g" : 3.0,
+    "fibra_g" : 1.1,
+    "acqua_g" : 86.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 48
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (60).pdf"
+  }
+}

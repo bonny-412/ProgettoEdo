@@ -1,0 +1,36 @@
+{
+  "id" : 8028,
+  "nome" : "MARGARINA SPALMABILE VEGETALE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 13002,
+    "nome" : "oli e grassi vegetali (incluso burro di arachide e margarina vegetale)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 635,
+      "kj" : 2611
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 70.0,
+    "carboidrati_g" : 0.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 26.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (17).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 3004,
+  "nome" : "MAIONESE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24012,
+    "nome" : "salse a base di maionese"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 655,
+      "kj" : 2697
+    },
+    "proteine_g" : 4.2,
+    "lipidi_g" : 70.0,
+    "carboidrati_g" : 2.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 15.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 70
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (4).pdf"
+  }
+}

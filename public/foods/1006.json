@@ -1,0 +1,36 @@
+{
+  "id" : 1006,
+  "nome" : "BOVINO, VITELLO, 4 MESI, CARNE MAGRA, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10030,
+    "nome" : "carne di vitello"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 92,
+      "kj" : 389
+    },
+    "proteine_g" : 20.7,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 70
+  },
+  "minerali" : {
+    "ferro_mg" : 2.3,
+    "calcio_mg" : 14
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (61).pdf"
+  }
+}

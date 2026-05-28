@@ -1,0 +1,36 @@
+{
+    "id": 8721,
+    "nome": "ZAMPONE (CONFEZIONATO PRECOTTO), bollito",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10003,
+        "nome": "insaccati e salumi"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 319,
+            "kj": 1322
+        },
+        "proteine_g": 21.4,
+        "lipidi_g": 25.9,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 50,
+        "alcol": 0.0,
+        "colesterolo_mg": 95
+    },
+    "minerali": {
+        "ferro_mg": 1.4,
+        "calcio_mg": 20
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "z - Scheda alimento (2).pdf"
+    }
+}

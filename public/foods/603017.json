@@ -1,0 +1,36 @@
+{
+  "id" : 603017,
+  "nome" : "GRANCHIO, POLPA, IN SCATOLA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11005,
+    "nome" : "crostacei (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 77,
+      "kj" : 326
+    },
+    "proteine_g" : 18.1,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 79.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 72
+  },
+  "minerali" : {
+    "ferro_mg" : 2.8,
+    "calcio_mg" : 120
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (32).pdf"
+  }
+}

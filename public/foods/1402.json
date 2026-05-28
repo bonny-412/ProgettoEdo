@@ -1,0 +1,36 @@
+{
+  "id" : 1402,
+  "nome" : "MERLUZZO, SURGELATO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 75,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 75,
+      "kj" : 316
+    },
+    "proteine_g" : 17.3,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 80.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 50
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (53).pdf"
+  }
+}

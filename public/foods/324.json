@@ -1,0 +1,36 @@
+{
+  "id" : 324,
+  "nome" : "FINOCCHIO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 59,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 13,
+      "kj" : 54
+    },
+    "proteine_g" : 1.2,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 2.2,
+    "acqua_g" : 93.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 45
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (51).pdf"
+  }
+}

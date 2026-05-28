@@ -1,0 +1,36 @@
+{
+  "id" : 590,
+  "nome" : "OLIVE, VERDI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott’olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 84,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 151,
+      "kj" : 620
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 15.0,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 4.4,
+    "acqua_g" : 76.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 64
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (26).pdf"
+  }
+}

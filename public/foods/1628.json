@@ -1,0 +1,36 @@
+{
+  "id" : 1628,
+  "nome" : "FARINA LATTEA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6003,
+    "nome" : "farine lattee, latte condensato e in polvere"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 394,
+      "kj" : 1674
+    },
+    "proteine_g" : 13.2,
+    "lipidi_g" : 6.3,
+    "carboidrati_g" : 76.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 4.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 12
+  },
+  "minerali" : {
+    "ferro_mg" : 3.5,
+    "calcio_mg" : 301
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (32).pdf"
+  }
+}

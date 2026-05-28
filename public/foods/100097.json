@@ -1,0 +1,36 @@
+{
+  "id" : 100097,
+  "nome" : "GAMBERETTI DI LAGO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11005,
+    "nome" : "crostacei (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 105,
+      "kj" : 441
+    },
+    "proteine_g" : 17.0,
+    "lipidi_g" : 4.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 105
+  },
+  "minerali" : {
+    "ferro_mg" : 2.2,
+    "calcio_mg" : 33
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (4).pdf"
+  }
+}

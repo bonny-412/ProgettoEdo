@@ -1,0 +1,36 @@
+{
+  "id" : 900545,
+  "nome" : "BRODO DI CARNE VARIA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 25001,
+    "nome" : "brodi di carne e vegetali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 7,
+      "kj" : 28
+    },
+    "proteine_g" : 1.1,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 97.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (90).pdf"
+  }
+}

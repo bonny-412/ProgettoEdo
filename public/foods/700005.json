@@ -1,0 +1,36 @@
+{
+  "id" : 700005,
+  "nome" : "MAIS SOFFIATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 367,
+      "kj" : 1557
+    },
+    "proteine_g" : 8.2,
+    "lipidi_g" : 4.4,
+    "carboidrati_g" : 77.0,
+    "fibra_g" : 2.8,
+    "acqua_g" : 7.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.8,
+    "calcio_mg" : 74
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.1,
+    "fruttosio_g" : 1.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (9).pdf"
+  }
+}

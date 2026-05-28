@@ -1,0 +1,36 @@
+{
+    "id": 9055,
+    "nome": "YOGURT DI LATTE SCREMATO, ALLA FRUTTA, NON ZUCCHERAТО",
+    "anno": 2008,
+    "categoria": {
+        "codice": 6002,
+        "nome": "yogurt"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 47,
+            "kj": 198
+        },
+        "proteine_g": 4.0,
+        "lipidi_g": 0.1,
+        "carboidrati_g": 7.8,
+        "fibra_g": 0.0,
+        "acqua_g": 88.3,
+        "alcol": 0.0,
+        "colesterolo_mg": 2
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 120
+    },
+    "zuccheri": {
+        "glucosio_g": 0.8,
+        "fruttosio_g": 3.5,
+        "galattosio_g": 1.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "Y - Scheda alimento (6).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8718,
+  "nome" : "SALAME BRIANZA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 384,
+      "kj" : 1595
+    },
+    "proteine_g" : 26.5,
+    "lipidi_g" : 30.5,
+    "carboidrati_g" : 1.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 36.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 84
+  },
+  "minerali" : {
+    "ferro_mg" : 1.3,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

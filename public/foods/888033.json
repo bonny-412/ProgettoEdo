@@ -1,0 +1,36 @@
+{
+  "id" : 888033,
+  "nome" : "SPELTA, cruda",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 325,
+      "kj" : 1375
+    },
+    "proteine_g" : 14.6,
+    "lipidi_g" : 2.4,
+    "carboidrati_g" : 59.5,
+    "fibra_g" : 10.7,
+    "acqua_g" : 11.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.4,
+    "calcio_mg" : 27
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.8,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (68).pdf"
+  }
+}

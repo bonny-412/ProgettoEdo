@@ -1,0 +1,36 @@
+{
+  "id" : 100,
+  "nome" : "FAGIOLI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 41,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 125,
+      "kj" : 526
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 19.4,
+    "fibra_g" : 10.6,
+    "acqua_g" : 62.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 44
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (1).pdf"
+  }
+}

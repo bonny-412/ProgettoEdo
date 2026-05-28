@@ -1,0 +1,36 @@
+{
+  "id" : 800188,
+  "nome" : "BUDINO AL CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15003,
+    "nome" : "creme e desserts al cucchiaio"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 105,
+      "kj" : 443
+    },
+    "proteine_g" : 3.3,
+    "lipidi_g" : 2.1,
+    "carboidrati_g" : 18.9,
+    "fibra_g" : 0.8,
+    "acqua_g" : 73.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 7
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 112
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (95).pdf"
+  }
+}

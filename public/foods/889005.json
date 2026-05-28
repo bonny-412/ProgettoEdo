@@ -1,0 +1,36 @@
+{
+  "id" : 889005,
+  "nome" : "RISO, AMIDO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 322,
+      "kj" : 1374
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 85.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 14.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 20
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (18).pdf"
+  }
+}

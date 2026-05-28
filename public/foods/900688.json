@@ -1,0 +1,36 @@
+{
+  "id" : 900688,
+  "nome" : "BURRATA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 287,
+      "kj" : 1186
+    },
+    "proteine_g" : 12.1,
+    "lipidi_g" : 25.7,
+    "carboidrati_g" : 1.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 58.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 70
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 127
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (99).pdf"
+  }
+}

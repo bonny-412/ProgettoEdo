@@ -1,0 +1,36 @@
+{
+  "id" : 8751,
+  "nome" : "PECORINO SICILIANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 427,
+      "kj" : 1773
+    },
+    "proteine_g" : 28.9,
+    "lipidi_g" : 33.6,
+    "carboidrati_g" : 2.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 30.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 1162
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.2
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (73).pdf"
+  }
+}

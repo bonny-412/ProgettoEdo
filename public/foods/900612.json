@@ -1,0 +1,36 @@
+{
+  "id" : 900612,
+  "nome" : "CIPOLLINE, SOTT'ACETO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott’olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 26,
+      "kj" : 112
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 4.9,
+    "fibra_g" : 1.3,
+    "acqua_g" : 90.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150459.695.pdf"
+  }
+}

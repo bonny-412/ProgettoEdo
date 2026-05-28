@@ -1,0 +1,36 @@
+{
+    "id": 700832,
+    "nome": "VONGOLE, IN SCATOLA, AL NATURALE",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11002,
+        "nome": "molluschi (freschi, surgelati, cotti o conservati)"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 140,
+            "kj": 591
+        },
+        "proteine_g": 25.6,
+        "lipidi_g": 2.0,
+        "carboidrati_g": 5.1,
+        "fibra_g": 0.0,
+        "acqua_g": 63.6,
+        "alcol": 0.0,
+        "colesterolo_mg": 67
+    },
+    "minerali": {
+        "ferro_mg": 28.0,
+        "calcio_mg": 92
+    },
+    "zuccheri": {
+        "glucosio_g": 5.1,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (15).pdf"
+    }
+}

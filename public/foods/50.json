@@ -1,0 +1,36 @@
+{
+  "id" : 50,
+  "nome" : "PASTA DI SEMOLA, cruda",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8006,
+    "nome" : "paste alimentari"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 341,
+      "kj" : 1451
+    },
+    "proteine_g" : 13.5,
+    "lipidi_g" : 1.2,
+    "carboidrati_g" : 72.7,
+    "fibra_g" : 1.7,
+    "acqua_g" : 10.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (52).pdf"
+  }
+}

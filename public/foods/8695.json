@@ -1,0 +1,36 @@
+{
+  "id" : 8695,
+  "nome" : "STRUZZO, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10007,
+    "nome" : "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 92,
+      "kj" : 389
+    },
+    "proteine_g" : 20.9,
+    "lipidi_g" : 0.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 57
+  },
+  "minerali" : {
+    "ferro_mg" : 3.9,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (85).pdf"
+  }
+}

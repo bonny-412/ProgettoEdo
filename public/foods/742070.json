@@ -1,0 +1,36 @@
+{
+  "id" : 742070,
+  "nome" : "CONO PER GELATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 375,
+      "kj" : 1592
+    },
+    "proteine_g" : 10.5,
+    "lipidi_g" : 3.0,
+    "carboidrati_g" : 79.7,
+    "fibra_g" : 3.4,
+    "acqua_g" : 5.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.3,
+    "calcio_mg" : 89
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150639.312.pdf"
+  }
+}

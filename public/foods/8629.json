@@ -1,0 +1,36 @@
+{
+  "id" : 8629,
+  "nome" : "MERLUZZO, SURGELATO, cotto al forno",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 75,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 92,
+      "kj" : 389
+    },
+    "proteine_g" : 20.9,
+    "lipidi_g" : 0.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 60
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 36
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (54).pdf"
+  }
+}

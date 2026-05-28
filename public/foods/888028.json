@@ -1,0 +1,36 @@
+{
+  "id" : 888028,
+  "nome" : "BEVANDA DI COCCO",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4010,
+    "nome" : "succhi e spremute di frutta"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 240,
+      "kj" : 990
+    },
+    "proteine_g" : 2.3,
+    "lipidi_g" : 23.8,
+    "carboidrati_g" : 3.3,
+    "fibra_g" : 2.2,
+    "acqua_g" : 67.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 16
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (13).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 700428,
+  "nome" : "LATTE DI VACCA, PARZIALMENTE SCREMATO, UHT",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6001,
+    "nome" : "latte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 46,
+      "kj" : 195
+    },
+    "proteine_g" : 3.2,
+    "lipidi_g" : 1.6,
+    "carboidrati_g" : 5.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 89.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 7
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 120
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (13).pdf"
+  }
+}

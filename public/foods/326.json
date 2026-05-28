@@ -1,0 +1,36 @@
+{
+  "id" : 326,
+  "nome" : "RAPA, FOGLIE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 63,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 27,
+      "kj" : 112
+    },
+    "proteine_g" : 2.6,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 2.8,
+    "fibra_g" : 2.4,
+    "acqua_g" : 92.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.7,
+    "calcio_mg" : 169
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (4).pdf"
+  }
+}

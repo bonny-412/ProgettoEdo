@@ -1,0 +1,36 @@
+{
+  "id" : 8696,
+  "nome" : "STRUZZO, senza grasso visibile, cotto al forno",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10007,
+    "nome" : "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 101,
+      "kj" : 429
+    },
+    "proteine_g" : 22.2,
+    "lipidi_g" : 1.4,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 71.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 72
+  },
+  "minerali" : {
+    "ferro_mg" : 4.9,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (86).pdf"
+  }
+}

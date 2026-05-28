@@ -1,0 +1,36 @@
+{
+  "id" : 1299,
+  "nome" : "BOVINO, MIDOLLO OSSEO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10041,
+    "nome" : "frattaglie di bovino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 822,
+      "kj" : 3381
+    },
+    "proteine_g" : 3.2,
+    "lipidi_g" : 89.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 5.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 300
+  },
+  "minerali" : {
+    "ferro_mg" : 3.6,
+    "calcio_mg" : 89
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (55).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 100022,
+  "nome" : "PECORINO ROMANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 385,
+      "kj" : 1601
+    },
+    "proteine_g" : 28.3,
+    "lipidi_g" : 29.5,
+    "carboidrati_g" : 1.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 32.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 1160
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.1
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (72).pdf"
+  }
+}

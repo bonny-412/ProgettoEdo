@@ -1,0 +1,36 @@
+{
+  "id" : 19021,
+  "nome" : "FARINA DI GRANO DURO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 330,
+      "kj" : 1398
+    },
+    "proteine_g" : 12.9,
+    "lipidi_g" : 2.8,
+    "carboidrati_g" : 63.2,
+    "fibra_g" : 8.0,
+    "acqua_g" : 12.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 134
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (22).pdf"
+  }
+}

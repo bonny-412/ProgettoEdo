@@ -1,0 +1,36 @@
+{
+  "id" : 9124,
+  "nome" : "SORBETTO, CON BASTONCINO DI LIQUIRIZIA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 128,
+      "kj" : 544
+    },
+    "proteine_g" : 1.0,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 30.5,
+    "fibra_g" : 0.2,
+    "acqua_g" : 67.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 1
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 45
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.6,
+    "fruttosio_g" : 2.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (63).pdf"
+  }
+}

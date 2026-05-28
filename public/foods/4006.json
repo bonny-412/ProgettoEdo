@@ -1,0 +1,36 @@
+{
+  "id" : 4006,
+  "nome" : "MARSALA TIPICO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17002,
+    "nome" : "liquori dolci e amari"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 205,
+      "kj" : 862
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 28.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 57.7,
+    "alcol" : 14.2,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 10.7,
+    "fruttosio_g" : 10.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (20).pdf"
+  }
+}

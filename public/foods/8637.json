@@ -1,0 +1,36 @@
+{
+  "id" : 8637,
+  "nome" : "FEISOA",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 67,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 59,
+      "kj" : 247
+    },
+    "proteine_g" : 0.7,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 9.6,
+    "fibra_g" : 6.5,
+    "acqua_g" : 81.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 4.1,
+    "fruttosio_g" : 4.5,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (38).pdf"
+  }
+}

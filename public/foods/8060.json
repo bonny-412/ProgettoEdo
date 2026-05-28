@@ -1,0 +1,36 @@
+{
+  "id" : 8060,
+  "nome" : "BIRRA SCURA DOPPIO MALTO (6.4 - 15.0 %vol)",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17003,
+    "nome" : "birra"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 50,
+      "kj" : 208
+    },
+    "proteine_g" : 0.4,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 1.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 91.9,
+    "alcol" : 6.1,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (25).pdf"
+  }
+}

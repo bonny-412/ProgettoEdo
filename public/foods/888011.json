@@ -1,0 +1,36 @@
+{
+  "id" : 888011,
+  "nome" : "SCIROPPO DI MALTO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14008,
+    "nome" : "sciroppi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 292,
+      "kj" : 1246
+    },
+    "proteine_g" : 6.2,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 71.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 21.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 61
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.7,
+    "fruttosio_g" : 1.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (37).pdf"
+  }
+}

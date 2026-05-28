@@ -1,0 +1,36 @@
+{
+  "id" : 500021,
+  "nome" : "MIRTILLO NERO",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 31,
+      "kj" : 129
+    },
+    "proteine_g" : 0.9,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 5.1,
+    "fibra_g" : 3.1,
+    "acqua_g" : 85.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 41
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.4,
+    "fruttosio_g" : 2.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (60).pdf"
+  }
+}

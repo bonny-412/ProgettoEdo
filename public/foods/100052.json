@@ -1,0 +1,36 @@
+{
+  "id" : 100052,
+  "nome" : "TORDO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 58,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 142,
+      "kj" : 596
+    },
+    "proteine_g" : 18.3,
+    "lipidi_g" : 7.7,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 68.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 86
+  },
+  "minerali" : {
+    "ferro_mg" : 7.2,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (35).pdf"
+  }
+}

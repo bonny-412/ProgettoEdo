@@ -1,0 +1,36 @@
+{
+  "id" : 1709,
+  "nome" : "FIOR DI LATTE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 268,
+      "kj" : 1113
+    },
+    "proteine_g" : 20.6,
+    "lipidi_g" : 20.3,
+    "carboidrati_g" : 0.7,
+    "fibra_g" : 0.0,
+    "acqua_g" : 54.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 48
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 162
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (63).pdf"
+  }
+}

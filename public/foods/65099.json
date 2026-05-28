@@ -1,0 +1,36 @@
+{
+  "id" : 65099,
+  "nome" : "SOFFICINI AL FORMAGGIO SURGELATI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 28009,
+    "nome" : "sofficini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 281,
+      "kj" : 1176
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 15.8,
+    "carboidrati_g" : 28.6,
+    "fibra_g" : 1.4,
+    "acqua_g" : 56.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 31
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 112
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (56).pdf"
+  }
+}

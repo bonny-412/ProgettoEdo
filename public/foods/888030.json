@@ -1,0 +1,36 @@
+{
+  "id" : 888030,
+  "nome" : "TEFF, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 335,
+      "kj" : 1420
+    },
+    "proteine_g" : 13.3,
+    "lipidi_g" : 2.4,
+    "carboidrati_g" : 65.1,
+    "fibra_g" : 8.0,
+    "acqua_g" : 8.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 7.6,
+    "calcio_mg" : 180
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 0.5,
+    "galattosio_g" : 0.6
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (21).pdf"
+  }
+}

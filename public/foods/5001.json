@@ -1,0 +1,36 @@
+{
+  "id" : 5001,
+  "nome" : "BASTONCINI DI PESCE, SURGELATI, MERLUZZO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 191,
+      "kj" : 801
+    },
+    "proteine_g" : 11.0,
+    "lipidi_g" : 10.1,
+    "carboidrati_g" : 15.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 61.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 34
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 46
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (11).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8611,
+  "nome" : "RISO, INTEGRALE, cotto",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 113,
+      "kj" : 479
+    },
+    "proteine_g" : 2.5,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 25.5,
+    "fibra_g" : 0.8,
+    "acqua_g" : 70.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (23).pdf"
+  }
+}

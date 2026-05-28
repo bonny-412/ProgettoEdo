@@ -1,0 +1,36 @@
+{
+  "id" : 100006,
+  "nome" : "LATTE DI VACCA, INTERO, VITAMINIZZATO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6001,
+    "nome" : "latte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 58,
+      "kj" : 244
+    },
+    "proteine_g" : 3.1,
+    "lipidi_g" : 3.0,
+    "carboidrati_g" : 5.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 88.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 11
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 110
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (10).pdf"
+  }
+}

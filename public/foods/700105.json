@@ -1,0 +1,36 @@
+{
+  "id" : 700105,
+  "nome" : "CARCIOFI, SURGELATI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 36,
+      "kj" : 153
+    },
+    "proteine_g" : 2.6,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 3.9,
+    "fibra_g" : 3.9,
+    "acqua_g" : 88.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (46).pdf"
+  }
+}

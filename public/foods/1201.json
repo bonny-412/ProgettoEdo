@@ -1,0 +1,36 @@
+{
+  "id" : 1201,
+  "nome" : "BOVINO, CERVELLO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10041,
+    "nome" : "frattaglie di bovino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 157,
+      "kj" : 653
+    },
+    "proteine_g" : 10.0,
+    "lipidi_g" : 12.7,
+    "carboidrati_g" : 0.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 76.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 2000
+  },
+  "minerali" : {
+    "ferro_mg" : 3.6,
+    "calcio_mg" : 16
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.8,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (49).pdf"
+  }
+}

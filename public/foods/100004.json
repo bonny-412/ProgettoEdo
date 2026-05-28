@@ -1,0 +1,36 @@
+{
+  "id" : 100004,
+  "nome" : "LATTE DI BUFALA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6001,
+    "nome" : "latte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 102,
+      "kj" : 426
+    },
+    "proteine_g" : 4.4,
+    "lipidi_g" : 7.3,
+    "carboidrati_g" : 5.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 82.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 19
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 160
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

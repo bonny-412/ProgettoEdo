@@ -1,0 +1,36 @@
+{
+  "id" : 100227,
+  "nome" : "PAN DI SPAGNA (RICETTA)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 275,
+      "kj" : 1167
+    },
+    "proteine_g" : 10.1,
+    "lipidi_g" : 5.1,
+    "carboidrati_g" : 49.7,
+    "fibra_g" : 1.4,
+    "acqua_g" : 34.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 144
+  },
+  "minerali" : {
+    "ferro_mg" : 1.1,
+    "calcio_mg" : 31
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (8).pdf"
+  }
+}

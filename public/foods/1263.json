@@ -1,0 +1,36 @@
+{
+  "id" : 1263,
+  "nome" : "OVINO, CUORE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10081,
+    "nome" : "frattaglie di ovino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 134,
+      "kj" : 560
+    },
+    "proteine_g" : 16.9,
+    "lipidi_g" : 7.2,
+    "carboidrati_g" : 0.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 180
+  },
+  "minerali" : {
+    "ferro_mg" : 5,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (39).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 208,
+  "nome" : "SOIA, SEMI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 422,
+      "kj" : 1765
+    },
+    "proteine_g" : 36.9,
+    "lipidi_g" : 18.1,
+    "carboidrati_g" : 23.3,
+    "fibra_g" : 11.9,
+    "acqua_g" : 8.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 6.9,
+    "calcio_mg" : 257
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (61).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 72,
+  "nome" : "CORNETTO O BRIOCHE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15001,
+    "nome" : "brioches, merendine non farcite"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 403,
+      "kj" : 1692
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 18.3,
+    "carboidrati_g" : 54.7,
+    "fibra_g" : 2.1,
+    "acqua_g" : 19.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 88
+  },
+  "minerali" : {
+    "ferro_mg" : 1.3,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento - 2026-05-15T150702.051.pdf"
+  }
+}

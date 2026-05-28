@@ -1,0 +1,36 @@
+{
+  "id" : 999050,
+  "nome" : "MUESLI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 374,
+      "kj" : 1585
+    },
+    "proteine_g" : 9.7,
+    "lipidi_g" : 6.0,
+    "carboidrati_g" : 71.7,
+    "fibra_g" : 6.4,
+    "acqua_g" : 7.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 5.6,
+    "calcio_mg" : 110
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.7,
+    "fruttosio_g" : 2.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (71).pdf"
+  }
+}

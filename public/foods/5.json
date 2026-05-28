@@ -1,0 +1,36 @@
+{
+    "id": 5,
+    "nome": "RISO, BRILLATO, crudo",
+    "anno": 2022,
+    "categoria": {
+        "codice": 8001,
+        "nome": "cereali in chicchi e preparazioni"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 334,
+            "kj": 1423
+        },
+        "proteine_g": 6.7,
+        "lipidi_g": 0.4,
+        "carboidrati_g": 80.4,
+        "fibra_g": 1.0,
+        "acqua_g": 12,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.8,
+        "calcio_mg": 24
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (22).pdf"
+    }
+}

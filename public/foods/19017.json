@@ -1,0 +1,36 @@
+{
+  "id" : 19017,
+  "nome" : "CRACKERS, SENZA GRASSI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9001,
+    "nome" : "grissini, crackers, salatini, crostini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 360,
+      "kj" : 1533
+    },
+    "proteine_g" : 10.5,
+    "lipidi_g" : 1.6,
+    "carboidrati_g" : 79.6,
+    "fibra_g" : 2.7,
+    "acqua_g" : 3.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 7.7,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 138.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150823.727.pdf"
+  }
+}

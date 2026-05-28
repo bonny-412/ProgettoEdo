@@ -1,0 +1,36 @@
+{
+  "id" : 50086,
+  "nome" : "MAIS DOLCE, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 64,
+      "kj" : 270
+    },
+    "proteine_g" : 3.4,
+    "lipidi_g" : 1.8,
+    "carboidrati_g" : 8.1,
+    "fibra_g" : 2.0,
+    "acqua_g" : 76.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 3
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.9,
+    "fruttosio_g" : 0.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (7).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8040,
+  "nome" : "LIEVITO PER DOLCI, in polvere",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 24015,
+    "nome" : "prodotti per Ja lievitazione"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 163,
+      "kj" : 693
+    },
+    "proteine_g" : 5.2,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 37.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 6.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 1130
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (29).pdf"
+  }
+}

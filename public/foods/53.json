@@ -1,0 +1,36 @@
+{
+  "id" : 53,
+  "nome" : "TORTELLINI, freschi, crudi",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8007,
+    "nome" : "pasta ripiena (ravioli e tortellini)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 287,
+      "kj" : 1208
+    },
+    "proteine_g" : 13.5,
+    "lipidi_g" : 9.0,
+    "carboidrati_g" : 39.4,
+    "fibra_g" : 1.9,
+    "acqua_g" : 31.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 125
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 118
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (41).pdf"
+  }
+}

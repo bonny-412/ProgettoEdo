@@ -1,0 +1,36 @@
+{
+    "id": 600009,
+    "nome": "AVENA, cruda",
+    "anno": 2022,
+    "categoria": {
+        "codice": 8001,
+        "nome": "cereali in chicchi e preparazioni"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 360,
+            "kj": 1519
+        },
+        "proteine_g": 16.9,
+        "lipidi_g": 6.9,
+        "carboidrati_g": 55.7,
+        "fibra_g": 10.6,
+        "acqua_g": 8.2,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 4.7,
+        "calcio_mg": 54
+    },
+    "zuccheri": {
+        "glucosio_g": 0.5,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (67).pdf"
+    }
+}

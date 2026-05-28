@@ -1,0 +1,36 @@
+{
+  "id" : 888039,
+  "nome" : "BOMBOLONE o KRAPFEN, CON CREMA (RICETTA)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 411,
+      "kj" : 1724
+    },
+    "proteine_g" : 5.5,
+    "lipidi_g" : 21.2,
+    "carboidrati_g" : 52.5,
+    "fibra_g" : 0.8,
+    "acqua_g" : 20.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 30
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 46
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (47).pdf"
+  }
+}

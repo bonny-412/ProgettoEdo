@@ -1,0 +1,36 @@
+{
+  "id" : 4001,
+  "nome" : "BIRRA CHIARA SPECIALE (5.3 - 6.0 %vol)",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17003,
+    "nome" : "birra"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 45,
+      "kj" : 187
+    },
+    "proteine_g" : 0.2,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 3.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 91.8,
+    "alcol" : 4.4,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 1
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (22).pdf"
+  }
+}

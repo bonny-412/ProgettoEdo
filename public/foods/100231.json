@@ -1,0 +1,36 @@
+{
+    "id": 100231,
+    "nome": "AMARI A BASSA GRADAZIONE (tra 23 e 30 %vol)",
+    "anno": 2008,
+    "categoria": {
+        "codice": 17002,
+        "nome": "liquori dolci e amari"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 261,
+            "kj": 1096
+        },
+        "proteine_g": 0.0,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 32.8,
+        "fibra_g": 0.0,
+        "acqua_g": 47.5,
+        "alcol": 19.7,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 5
+    },
+    "zuccheri": {
+        "glucosio_g": 6.3,
+        "fruttosio_g": 6.1,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (35).pdf"
+    }
+}

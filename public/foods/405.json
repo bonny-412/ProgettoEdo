@@ -1,0 +1,36 @@
+{
+  "id" : 405,
+  "nome" : "SPREMUTA DI ARANCIA, fresca",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4010,
+    "nome" : "succhi e spremute di frutta"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 33,
+      "kj" : 141
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 8.1,
+    "fibra_g" : 0.1,
+    "acqua_g" : 87.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.0,
+    "fruttosio_g" : 2.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (73).pdf"
+  }
+}

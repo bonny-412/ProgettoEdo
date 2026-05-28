@@ -1,0 +1,36 @@
+{
+  "id" : 1605,
+  "nome" : "LATTE DI VACCA, CONDENSATO, CON ZUCCHERO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6003,
+    "nome" : "farine lattee, latte condensato e in polvere"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 328,
+      "kj" : 1385
+    },
+    "proteine_g" : 8.7,
+    "lipidi_g" : 9.0,
+    "carboidrati_g" : 56.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 26.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 34
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 293
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (6).pdf"
+  }
+}

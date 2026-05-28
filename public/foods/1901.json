@@ -1,0 +1,36 @@
+{
+  "id" : 1901,
+  "nome" : "LARDO",
+  "anno" : 1901,
+  "categoria" : {
+    "codice" : 13003,
+    "nome" : "burro e grassi animali (esclusa panna)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 891,
+      "kj" : 3663
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 99.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 1.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 95
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 1
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (1).pdf"
+  }
+}

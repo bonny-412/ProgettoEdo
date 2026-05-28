@@ -1,0 +1,36 @@
+{
+  "id" : 888042,
+  "nome" : "CIOCCOLATO \"FONDENTE\" 70%",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 568,
+      "kj" : 2356
+    },
+    "proteine_g" : 7.8,
+    "lipidi_g" : 42.6,
+    "carboidrati_g" : 35.0,
+    "fibra_g" : 10.9,
+    "acqua_g" : 1.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 11.9,
+    "calcio_mg" : 73
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 24.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (98).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 75,
+  "nome" : "PIZZA CON POMODORO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 253,
+      "kj" : 1071
+    },
+    "proteine_g" : 4.0,
+    "lipidi_g" : 4.0,
+    "carboidrati_g" : 51.9,
+    "fibra_g" : 3.1,
+    "acqua_g" : 40.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121305.270.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 603552,
+  "nome" : "FUNGHI, CHIODINI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2007,
+    "nome" : "funghi, tartufi"
+  },
+  "parte_edibile_percentuale" : 50,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 29,
+      "kj" : 118
+    },
+    "proteine_g" : 2.1,
+    "lipidi_g" : 0.7,
+    "carboidrati_g" : 0.1,
+    "fibra_g" : 6.8,
+    "acqua_g" : 89.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (87).pdf"
+  }
+}

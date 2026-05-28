@@ -1,0 +1,36 @@
+{
+  "id" : 9111,
+  "nome" : "CROSTATA ALLA FRUTTA CON CREMA (RICETTA)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 290,
+      "kj" : 1218
+    },
+    "proteine_g" : 4.9,
+    "lipidi_g" : 13.4,
+    "carboidrati_g" : 39.4,
+    "fibra_g" : 1.1,
+    "acqua_g" : 41.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 116
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 38
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.7,
+    "fruttosio_g" : 1.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150927.930.pdf"
+  }
+}

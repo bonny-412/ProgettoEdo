@@ -1,0 +1,36 @@
+{
+  "id" : 8084,
+  "nome" : "BISCOTTI CON TAVOLETTA DI CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 478,
+      "kj" : 2004
+    },
+    "proteine_g" : 6.6,
+    "lipidi_g" : 23.3,
+    "carboidrati_g" : 62.6,
+    "fibra_g" : 3.5,
+    "acqua_g" : 2.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 31
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 115
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - DScheda alimento (32).pdf"
+  }
+}

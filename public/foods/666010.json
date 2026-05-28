@@ -1,0 +1,36 @@
+{
+    "id": 666010,
+    "nome": "DADI PER BRODO VEGETALE",
+    "anno": 1998,
+    "categoria": {
+        "codice": 24005,
+        "nome": "dadi, gelatina alimentare, estratti e prodotti a base di glutammato"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 253,
+            "kj": 1055
+        },
+        "proteine_g": 13.5,
+        "lipidi_g": 17.3,
+        "carboidrati_g": 11.6,
+        "fibra_g": 0.0,
+        "acqua_g": 5.7,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 2.8,
+        "calcio_mg": 47
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "D - Scheda alimento (1).pdf"
+    }
+}

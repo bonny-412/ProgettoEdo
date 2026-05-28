@@ -1,0 +1,36 @@
+{
+  "id" : 609024,
+  "nome" : "BIRRA SCURA SPECIALE (5.3 - 6.0 %vol)",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17003,
+    "nome" : "birra"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 40,
+      "kj" : 167
+    },
+    "proteine_g" : 0.4,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 1.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 93.3,
+    "alcol" : 4.7,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (26).pdf"
+  }
+}

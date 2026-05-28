@@ -1,0 +1,36 @@
+{
+  "id" : 11796,
+  "nome" : "MOZZARELLA DI BUFALA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 288,
+      "kj" : 1193
+    },
+    "proteine_g" : 16.7,
+    "lipidi_g" : 24.4,
+    "carboidrati_g" : 0.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 55.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 56
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 210
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (69).pdf"
+  }
+}

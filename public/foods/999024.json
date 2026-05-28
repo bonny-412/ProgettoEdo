@@ -1,0 +1,36 @@
+{
+  "id" : 999024,
+  "nome" : "FARINA DI SOIA, intera",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3002,
+    "nome" : "farine di legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 468,
+      "kj" : 1957
+    },
+    "proteine_g" : 36.8,
+    "lipidi_g" : 23.5,
+    "carboidrati_g" : 23.5,
+    "fibra_g" : 10.7,
+    "acqua_g" : 7.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 6.9,
+    "calcio_mg" : 210
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (31).pdf"
+  }
+}

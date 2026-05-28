@@ -1,0 +1,36 @@
+{
+  "id" : 3012,
+  "nome" : "CACAO DOLCE, in polvere, solubile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 18003,
+    "nome" : "cacao e altri preparati in polvere"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 384,
+      "kj" : 1628
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 5.8,
+    "carboidrati_g" : 79.7,
+    "fibra_g" : 3.7,
+    "acqua_g" : 2.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.5,
+    "calcio_mg" : 39
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (1).pdf"
+  }
+}

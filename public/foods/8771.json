@@ -1,0 +1,36 @@
+{
+  "id" : 8771,
+  "nome" : "BISCOTTI WAFER, RICOPERTO DI CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15009,
+    "nome" : "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 526,
+      "kj" : 2196
+    },
+    "proteine_g" : 8.5,
+    "lipidi_g" : 32.0,
+    "carboidrati_g" : 52.9,
+    "fibra_g" : 2.7,
+    "acqua_g" : 1.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 5
+  },
+  "minerali" : {
+    "ferro_mg" : 3.3,
+    "calcio_mg" : 155
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (41).pdf"
+  }
+}

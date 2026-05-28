@@ -1,0 +1,36 @@
+{
+  "id" : 100048,
+  "nome" : "PICCIONE ADULTO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 53,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 187,
+      "kj" : 780
+    },
+    "proteine_g" : 18.4,
+    "lipidi_g" : 12.5,
+    "carboidrati_g" : 0.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 66.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 76
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (92).pdf"
+  }
+}

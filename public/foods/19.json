@@ -1,0 +1,36 @@
+{
+  "id" : 19,
+  "nome" : "FIOCCHI DI MAIS (CORNFLAKES), non fortificati",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 367,
+      "kj" : 1563
+    },
+    "proteine_g" : 6.6,
+    "lipidi_g" : 0.8,
+    "carboidrati_g" : 87.4,
+    "fibra_g" : 2.8,
+    "acqua_g" : 5.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.8,
+    "calcio_mg" : 74
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.4,
+    "fruttosio_g" : 2.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (56).pdf"
+  }
+}

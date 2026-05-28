@@ -1,0 +1,36 @@
+{
+  "id" : 10098,
+  "nome" : "BISCOTTI RICOPERTI DI CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 509,
+      "kj" : 2134
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 27.2,
+    "carboidrati_g" : 62.8,
+    "fibra_g" : 1.7,
+    "acqua_g" : 1.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 17
+  },
+  "minerali" : {
+    "ferro_mg" : 2,
+    "calcio_mg" : 163
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (37).pdf"
+  }
+}

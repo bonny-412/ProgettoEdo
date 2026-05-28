@@ -1,0 +1,36 @@
+{
+  "id" : 700082,
+  "nome" : "CECI IN SCATOLA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 73,
+      "kj" : 305
+    },
+    "proteine_g" : 4.3,
+    "lipidi_g" : 1.4,
+    "carboidrati_g" : 7.2,
+    "fibra_g" : 8.1,
+    "acqua_g" : 78.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 41
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (69).pdf"
+  }
+}

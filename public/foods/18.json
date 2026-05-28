@@ -1,0 +1,36 @@
+{
+  "id" : 18,
+  "nome" : "TAPIOCA",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 1001,
+    "nome" : "tuberi, patate, fecola, preparati per gnocchi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 364,
+      "kj" : 1554
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 95.8,
+    "fibra_g" : 0.4,
+    "acqua_g" : 12.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 12
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (16).pdf"
+  }
+}

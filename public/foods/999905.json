@@ -1,0 +1,36 @@
+{
+    "id": 999905,
+    "nome": "VINO ROSATO (11 %vol)",
+    "anno": 2008,
+    "categoria": {
+        "codice": 17001,
+        "nome": "vino e spumanti"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 71,
+            "kj": 294
+        },
+        "proteine_g": 0.1,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 2.5,
+        "fibra_g": 0.0,
+        "acqua_g": 87.3,
+        "alcol": 8.7,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 1.0,
+        "calcio_mg": 12
+    },
+    "zuccheri": {
+        "glucosio_g": 0.8,
+        "fruttosio_g": 1.2,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (8).pdf"
+    }
+}

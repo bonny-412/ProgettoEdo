@@ -1,0 +1,36 @@
+{
+  "id" : 70,
+  "nome" : "BISCOTTO PER LA PRIMA COLAZIONE O BISCOTTI SECCHI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 410,
+      "kj" : 1734
+    },
+    "proteine_g" : 8.2,
+    "lipidi_g" : 9.4,
+    "carboidrati_g" : 76.4,
+    "fibra_g" : 3.1,
+    "acqua_g" : 1.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (43).pdf"
+  }
+}

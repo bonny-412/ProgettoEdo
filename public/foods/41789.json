@@ -1,0 +1,36 @@
+{
+  "id" : 41789,
+  "nome" : "PECORINO, FRESCO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 342,
+      "kj" : 1420
+    },
+    "proteine_g" : 26.0,
+    "lipidi_g" : 25.4,
+    "carboidrati_g" : 2.4,
+    "fibra_g" : 0.0,
+    "acqua_g" : 42.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 70
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 470
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.2
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (71).pdf"
+  }
+}

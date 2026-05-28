@@ -1,0 +1,36 @@
+{
+    "id": 9056,
+    "nome": "YOGURT DI LATTE INTERO, ZUCCHERATO",
+    "anno": 2008,
+    "categoria": {
+        "codice": 6002,
+        "nome": "yogurt"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 99,
+            "kj": 417
+        },
+        "proteine_g": 4.6,
+        "lipidi_g": 3.5,
+        "carboidrati_g": 13.1,
+        "fibra_g": 0.0,
+        "acqua_g": 78.8,
+        "alcol": 0.0,
+        "colesterolo_mg": 11
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 150
+    },
+    "zuccheri": {
+        "glucosio_g": 1.8,
+        "fruttosio_g": 1.5,
+        "galattosio_g": 1.2
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "Y - Scheda alimento (3).pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 777021,
+    "nome": "ACQUA TONICA",
+    "anno": 2008,
+    "categoria": {
+        "codice": 16001,
+        "nome": "bevande analcoliche"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 33,
+            "kj": 141
+        },
+        "proteine_g": 0.0,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 8.8,
+        "fibra_g": 0.0,
+        "acqua_g": 91.1,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.0,
+        "calcio_mg": 1
+    },
+    "zuccheri": {
+        "glucosio_g": 2.2,
+        "fruttosio_g": 2.1,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (6).pdf"
+    }
+}

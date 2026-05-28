@@ -1,0 +1,36 @@
+{
+  "id" : 1516,
+  "nome" : "CAVIALE, UOVA DI STORIONE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11004,
+    "nome" : "pesci vertebrati (conservati) e uova di pesce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 255,
+      "kj" : 1065
+    },
+    "proteine_g" : 26.9,
+    "lipidi_g" : 15.0,
+    "carboidrati_g" : 3.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 46.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 300
+  },
+  "minerali" : {
+    "ferro_mg" : 12,
+    "calcio_mg" : 276
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (63).pdf"
+  }
+}

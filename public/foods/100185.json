@@ -1,0 +1,36 @@
+{
+  "id" : 100185,
+  "nome" : "FICHI, seccati al sole",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 269,
+      "kj" : 1133
+    },
+    "proteine_g" : 3.6,
+    "lipidi_g" : 2.1,
+    "carboidrati_g" : 52.9,
+    "fibra_g" : 18.5,
+    "acqua_g" : 17.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.2,
+    "calcio_mg" : 280
+  },
+  "zuccheri" : {
+    "glucosio_g" : 28.6,
+    "fruttosio_g" : 22.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (49).pdf"
+  }
+}

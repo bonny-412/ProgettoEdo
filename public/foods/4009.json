@@ -1,0 +1,36 @@
+{
+    "id": 4009,
+    "nome": "VINO BIANCO (13%vol)",
+    "anno": 2008,
+    "categoria": {
+        "codice": 17001,
+        "nome": "vino e spumanti"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 71,
+            "kj": 296
+        },
+        "proteine_g": 0.1,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 0.1,
+        "fibra_g": 0.0,
+        "acqua_g": 89.7,
+        "alcol": 10.1,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 1.0,
+        "calcio_mg": 9
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (6).pdf"
+    }
+}

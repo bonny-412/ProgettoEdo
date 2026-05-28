@@ -1,0 +1,36 @@
+{
+  "id" : 8612,
+  "nome" : "RISO, TIPO PARBOILED, cotto",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 97,
+      "kj" : 415
+    },
+    "proteine_g" : 2.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 23.3,
+    "fibra_g" : 0.3,
+    "acqua_g" : 73.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (29).pdf"
+  }
+}

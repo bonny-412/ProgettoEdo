@@ -1,0 +1,36 @@
+{
+  "id" : 1511,
+  "nome" : "SEOMBRO O MACCARELLO, IN SALAMOIA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11004,
+    "nome" : "pesci vertebrati (conservati) e uova di pesce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 177,
+      "kj" : 739
+    },
+    "proteine_g" : 19.3,
+    "lipidi_g" : 11.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 66.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 94
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 185
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (51).pdf"
+  }
+}

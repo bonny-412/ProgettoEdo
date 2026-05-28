@@ -1,0 +1,36 @@
+{
+  "id" : 805678,
+  "nome" : "CIPOLLE, secche",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2005,
+    "nome" : "agliacee"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 339,
+      "kj" : 1438
+    },
+    "proteine_g" : 10.2,
+    "lipidi_g" : 1.7,
+    "carboidrati_g" : 68.6,
+    "fibra_g" : 13.0,
+    "acqua_g" : 4.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.6,
+    "calcio_mg" : 220
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150451.831.pdf"
+  }
+}

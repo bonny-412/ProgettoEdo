@@ -1,0 +1,36 @@
+{
+  "id" : 8508,
+  "nome" : "SALAME NOSTRANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 370,
+      "kj" : 1536
+    },
+    "proteine_g" : 27.3,
+    "lipidi_g" : 28.5,
+    "carboidrati_g" : 1.1,
+    "fibra_g" : 0.0,
+    "acqua_g" : 37.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 94
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 42
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.1,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (9).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1088,
+  "nome" : "LUMACA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10007,
+    "nome" : "altri animali (diversi da bovini, suini, volatili, equini, ovini, conigli)"
+  },
+  "parte_edibile_percentuale" : 24,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 67,
+      "kj" : 282
+    },
+    "proteine_g" : 12.9,
+    "lipidi_g" : 1.7,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 82.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 65
+  },
+  "minerali" : {
+    "ferro_mg" : 5,
+    "calcio_mg" : 57
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (39).pdf"
+  }
+}

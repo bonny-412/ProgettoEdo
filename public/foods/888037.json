@@ -1,0 +1,36 @@
+{
+  "id" : 888037,
+  "nome" : "CROSTINId",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9001,
+    "nome" : "grissini, crackers, salatini, crostini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 437,
+      "kj" : 1837
+    },
+    "proteine_g" : 10.8,
+    "lipidi_g" : 18.3,
+    "carboidrati_g" : 58.5,
+    "fibra_g" : 5.0,
+    "acqua_g" : 3.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.8,
+    "calcio_mg" : 96
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150955.671.pdf"
+  }
+}

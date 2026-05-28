@@ -1,0 +1,36 @@
+{
+    "id": 100284,
+    "nome": "ERBE AROMATICHE (FOGLIE)",
+    "anno": 1998,
+    "categoria": {
+        "codice": 24001,
+        "nome": "erbe aromatiche e altri spezie"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 88,
+            "kj": 368
+        },
+        "proteine_g": 3.2,
+        "lipidi_g": 2.3,
+        "carboidrati_g": 9.9,
+        "fibra_g": 8.8,
+        "acqua_g": 77.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 12.5,
+        "calcio_mg": 354
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "E - Scheda alimento (4).pdf"
+    }
+}

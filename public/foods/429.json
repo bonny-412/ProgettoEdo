@@ -1,0 +1,36 @@
+{
+  "id" : 429,
+  "nome" : "KIWI",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 87,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 48,
+      "kj" : 204
+    },
+    "proteine_g" : 1.2,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 9.0,
+    "fibra_g" : 2.2,
+    "acqua_g" : 84.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.5,
+    "calcio_mg" : 25
+  },
+  "zuccheri" : {
+    "glucosio_g" : 4.0,
+    "fruttosio_g" : 3.8,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 602073,
+  "nome" : "LUMACHE DI MARE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11002,
+    "nome" : "molluschi (freschi, surgelati, cotti o conservati)"
+  },
+  "parte_edibile_percentuale" : 24,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 128,
+      "kj" : 544
+    },
+    "proteine_g" : 23.8,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 7.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 66.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 65
+  },
+  "minerali" : {
+    "ferro_mg" : 5,
+    "calcio_mg" : 57
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (40).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1153,
+    "nome": "ZAMPONE (CONFEZIONATO PRECOTTO)",
+    "anno": 2008,
+    "categoria": {
+        "codice": 10003,
+        "nome": "insaccati e salumi"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 361,
+            "kj": 1494
+        },
+        "proteine_g": 19.1,
+        "lipidi_g": 31.6,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 45.5,
+        "alcol": 0.0,
+        "colesterolo_mg": 95
+    },
+    "minerali": {
+        "ferro_mg": 1.5,
+        "calcio_mg": 22
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "z - Scheda alimento (1).pdf"
+    }
+}

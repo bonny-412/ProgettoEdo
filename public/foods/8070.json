@@ -1,0 +1,36 @@
+{
+  "id" : 8070,
+  "nome" : "PERE, SCIROPPATE",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4002,
+    "nome" : "frutta cotta e conservata in scatola"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 52,
+      "kj" : 223
+    },
+    "proteine_g" : 0.2,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 13.2,
+    "fibra_g" : 1.1,
+    "acqua_g" : 82.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.4,
+    "fruttosio_g" : 6.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (81).pdf"
+  }
+}

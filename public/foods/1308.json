@@ -1,0 +1,36 @@
+{
+    "id": 1308,
+    "nome": "DENTICE",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11001,
+        "nome": "pesci vertebrati (freschi, surgelati o cotti)"
+    },
+    "parte_edibile_percentuale": 65,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 101,
+            "kj": 425
+        },
+        "proteine_g": 16.7,
+        "lipidi_g": 3.5,
+        "carboidrati_g": 0.7,
+        "fibra_g": 0.0,
+        "acqua_g": 76.1,
+        "alcol": 0.0,
+        "colesterolo_mg": 70
+    },
+    "minerali": {
+        "ferro_mg": 1.2,
+        "calcio_mg": 38
+    },
+    "zuccheri": {
+        "glucosio_g": 0.7,
+        "fruttosio_g": 32.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "D - Scheda alimento (7).pdf"
+    }
+}

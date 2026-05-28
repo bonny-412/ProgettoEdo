@@ -1,0 +1,36 @@
+{
+  "id" : 8674,
+  "nome" : "SUINO, PESANTE, coscio, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 90,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 128,
+      "kj" : 536
+    },
+    "proteine_g" : 20.4,
+    "lipidi_g" : 5.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 89
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T132011.777.pdf"
+  }
+}

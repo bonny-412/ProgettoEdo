@@ -1,0 +1,36 @@
+{
+  "id" : 100010,
+  "nome" : "BRA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 328,
+      "kj" : 1366
+    },
+    "proteine_g" : 30.7,
+    "lipidi_g" : 22.8,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 40.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 770
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (83).pdf"
+  }
+}

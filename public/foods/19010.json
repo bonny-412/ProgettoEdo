@@ -1,0 +1,36 @@
+{
+  "id" : 19010,
+  "nome" : "CARAMELLE ALLA FRUTTA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14004,
+    "nome" : "caramelle, liquirizia, confetti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 361,
+      "kj" : 1540
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 95.9,
+    "fibra_g" : 0.0,
+    "acqua_g" : 3.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 28
+  },
+  "zuccheri" : {
+    "glucosio_g" : 8.5,
+    "fruttosio_g" : 2.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (37).pdf"
+  }
+}

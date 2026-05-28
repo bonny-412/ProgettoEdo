@@ -1,0 +1,36 @@
+{
+  "id" : 392,
+  "nome" : "POMODORI, PELATI, IN SCATOLA CON LIQUIDO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2009,
+    "nome" : "verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 22,
+      "kj" : 94
+    },
+    "proteine_g" : 1.2,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 3.0,
+    "fibra_g" : 0.9,
+    "acqua_g" : 94.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.2,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121551.547.pdf"
+  }
+}

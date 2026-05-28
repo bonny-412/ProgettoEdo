@@ -1,0 +1,36 @@
+{
+  "id" : 8085,
+  "nome" : "BISCOTTI ALL'AVENA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 495,
+      "kj" : 2076
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 22.9,
+    "carboidrati_g" : 66.4,
+    "fibra_g" : 7.2,
+    "acqua_g" : 3.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.2,
+    "calcio_mg" : 34
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.2,
+    "fruttosio_g" : 0.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (30).pdf"
+  }
+}

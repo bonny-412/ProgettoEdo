@@ -1,0 +1,36 @@
+{
+  "id" : 1702,
+  "nome" : "CACIOCAVALLO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 439,
+      "kj" : 1828
+    },
+    "proteine_g" : 37.7,
+    "lipidi_g" : 31.1,
+    "carboidrati_g" : 2.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 30.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 860
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (2).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 8029,
+    "nome": "ARINGA",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11001,
+        "nome": "pesci vertebrati (freschi, surgelati o cotti)"
+    },
+    "parte_edibile_percentuale": 70,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 216,
+            "kj": 898
+        },
+        "proteine_g": 16.5,
+        "lipidi_g": 16.7,
+        "carboidrati_g": 0.0,
+        "fibra_g": 0.0,
+        "acqua_g": 60.1,
+        "alcol": 0.0,
+        "colesterolo_mg": 85
+    },
+    "minerali": {
+        "ferro_mg": 0.9,
+        "calcio_mg": 63
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (57).pdf"
+    }
+}

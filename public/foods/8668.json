@@ -1,0 +1,36 @@
+{
+  "id" : 8668,
+  "nome" : "CONIGLIO, COSCIO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10070,
+    "nome" : "carne di coniglio e di lepre"
+  },
+  "parte_edibile_percentuale" : 83,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 137,
+      "kj" : 575
+    },
+    "proteine_g" : 21.0,
+    "lipidi_g" : 5.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 52
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150611.778.pdf"
+  }
+}

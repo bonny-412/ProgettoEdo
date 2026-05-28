@@ -1,0 +1,36 @@
+{
+  "id" : 666016,
+  "nome" : "CONFETTURA (MARMELLATA) DI FRUTTA, A RIDOTTO CONTENUTO CALORICO con POLIOLI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14005,
+    "nome" : "marmellate"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 26,
+      "kj" : 110
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 5.3,
+    "fibra_g" : 1.6,
+    "acqua_g" : 84.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 19
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.5,
+    "fruttosio_g" : 2.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150523.099.pdf"
+  }
+}

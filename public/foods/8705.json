@@ -1,0 +1,36 @@
+{
+  "id" : 8705,
+  "nome" : "CARNE BOVINA PRESSATA (IN SCATOLA)",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10040,
+    "nome" : "carne in scatola"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 141,
+      "kj" : 588
+    },
+    "proteine_g" : 16.5,
+    "lipidi_g" : 8.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 45
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (48).pdf"
+  }
+}

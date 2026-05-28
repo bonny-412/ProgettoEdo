@@ -1,0 +1,36 @@
+{
+  "id" : 400093,
+  "nome" : "CRESCIONE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 62,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 28,
+      "kj" : 118
+    },
+    "proteine_g" : 3.0,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 0.4,
+    "fibra_g" : 3.0,
+    "acqua_g" : 92.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.2,
+    "calcio_mg" : 170
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150911.534.pdf"
+  }
+}

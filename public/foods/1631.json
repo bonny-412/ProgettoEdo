@@ -1,0 +1,36 @@
+{
+    "id": 1631,
+    "nome": "YOGURT DI LATTE PARZIALMENTE SCREMATO",
+    "anno": 2008,
+    "categoria": {
+        "codice": 6002,
+        "nome": "yogurt"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 43,
+            "kj": 182
+        },
+        "proteine_g": 3.4,
+        "lipidi_g": 1.7,
+        "carboidrati_g": 3.8,
+        "fibra_g": 0.0,
+        "acqua_g": 89.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 8
+    },
+    "minerali": {
+        "ferro_mg": 0.1,
+        "calcio_mg": 120
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 1.5
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "Y - Scheda alimento (4).pdf"
+    }
+}

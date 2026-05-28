@@ -1,0 +1,36 @@
+{
+  "id" : 3003,
+  "nome" : "LIEVITO DI BIRRA, compresso",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 24015,
+    "nome" : "prodotti per Ja lievitazione"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 70,
+      "kj" : 293
+    },
+    "proteine_g" : 12.1,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 1.1,
+    "fibra_g" : 6.9,
+    "acqua_g" : 71.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.9,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.4,
+    "fruttosio_g" : 0.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (27).pdf"
+  }
+}

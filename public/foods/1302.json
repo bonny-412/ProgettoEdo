@@ -1,0 +1,36 @@
+{
+    "id": 1302,
+    "nome": "ANGUILLA DI MARE",
+    "anno": 2008,
+    "categoria": {
+        "codice": 11001,
+        "nome": "pesci vertebrati (freschi, surgelati o cotti)"
+    },
+    "parte_edibile_percentuale": 70,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 237,
+            "kj": 985
+        },
+        "proteine_g": 14.6,
+        "lipidi_g": 19.6,
+        "carboidrati_g": 0.7,
+        "fibra_g": 0.0,
+        "acqua_g": 62.8,
+        "alcol": 0.0,
+        "colesterolo_mg": 88
+    },
+    "minerali": {
+        "ferro_mg": 0.6,
+        "calcio_mg": 17
+    },
+    "zuccheri": {
+        "glucosio_g": 0.7,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "A - Scheda alimento (44).pdf"
+    }
+}

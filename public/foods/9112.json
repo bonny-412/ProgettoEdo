@@ -1,0 +1,36 @@
+{
+  "id" : 9112,
+  "nome" : "CROSTATA ALLA FRUTTA CON MARMELLATA (RICETTA)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 297,
+      "kj" : 1248
+    },
+    "proteine_g" : 4.0,
+    "lipidi_g" : 12.1,
+    "carboidrati_g" : 45.0,
+    "fibra_g" : 1.5,
+    "acqua_g" : 36.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 102
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 5.4,
+    "fruttosio_g" : 3.9,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150932.140.pdf"
+  }
+}

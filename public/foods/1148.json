@@ -1,0 +1,36 @@
+{
+  "id" : 1148,
+  "nome" : "SALAME MILANO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10003,
+    "nome" : "insaccati e salumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 392,
+      "kj" : 1629
+    },
+    "proteine_g" : 26.7,
+    "lipidi_g" : 31.1,
+    "carboidrati_g" : 1.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 35.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 90
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 32
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.5,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (7).pdf"
+  }
+}

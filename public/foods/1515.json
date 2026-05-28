@@ -1,0 +1,36 @@
+{
+  "id" : 1515,
+  "nome" : "TONNO, IN SALAMOIA, sgocciolato",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11004,
+    "nome" : "pesci vertebrati (conservati) e uova di pesce"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 103,
+      "kj" : 438
+    },
+    "proteine_g" : 25.1,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 73.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 63
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (33).pdf"
+  }
+}

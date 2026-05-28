@@ -1,0 +1,36 @@
+{
+  "id" : 8784,
+  "nome" : "TACCHINO, INTERO, con pelle",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 70,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 135,
+      "kj" : 565
+    },
+    "proteine_g" : 18.2,
+    "lipidi_g" : 6.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 73.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 195
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (10).pdf"
+  }
+}

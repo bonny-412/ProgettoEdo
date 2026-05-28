@@ -1,0 +1,36 @@
+{
+  "id" : 2018,
+  "nome" : "PANETTONE",
+  "anno" : 2018,
+  "categoria" : {
+    "codice" : 15001,
+    "nome" : "brioches, merendine non farcite"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 337,
+      "kj" : 1421
+    },
+    "proteine_g" : 6.4,
+    "lipidi_g" : 10.7,
+    "carboidrati_g" : 56.2,
+    "fibra_g" : 2.1,
+    "acqua_g" : 26.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 204
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 149
+  },
+  "zuccheri" : {
+    "glucosio_g" : 6.8,
+    "fruttosio_g" : 6.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (35).pdf"
+  }
+}

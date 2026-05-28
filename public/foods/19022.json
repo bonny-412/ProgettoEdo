@@ -1,0 +1,36 @@
+{
+  "id" : 19022,
+  "nome" : "FARINA DI SEGALE, integrale",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 299,
+      "kj" : 1259
+    },
+    "proteine_g" : 15.9,
+    "lipidi_g" : 2.2,
+    "carboidrati_g" : 44.8,
+    "fibra_g" : 23.8,
+    "acqua_g" : 10.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.9,
+    "calcio_mg" : 37
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (28).pdf"
+  }
+}

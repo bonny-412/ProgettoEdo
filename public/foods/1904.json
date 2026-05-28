@@ -1,0 +1,36 @@
+{
+  "id" : 1904,
+  "nome" : "SEGO DI BUE",
+  "anno" : 1904,
+  "categoria" : {
+    "codice" : 13003,
+    "nome" : "burro e grassi animali (esclusa panna)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 872,
+      "kj" : 3584
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 96.5,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 2.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 109
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 0
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (45).pdf"
+  }
+}

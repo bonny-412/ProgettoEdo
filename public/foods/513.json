@@ -1,0 +1,36 @@
+{
+  "id" : 513,
+  "nome" : "PRUGNE, secche",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 88,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 236,
+      "kj" : 1003
+    },
+    "proteine_g" : 2.2,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 55.0,
+    "fibra_g" : 8.4,
+    "acqua_g" : 29.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.9,
+    "calcio_mg" : 59
+  },
+  "zuccheri" : {
+    "glucosio_g" : 29.0,
+    "fruttosio_g" : 19.6,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121907.633.pdf"
+  }
+}

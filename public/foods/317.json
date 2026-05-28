@@ -1,0 +1,36 @@
+{
+  "id" : 317,
+  "nome" : "CAVOLO CAPPUCCIO, ROSSO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2004,
+    "nome" : "crucifere"
+  },
+  "parte_edibile_percentuale" : 94,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 22,
+      "kj" : 91
+    },
+    "proteine_g" : 1.9,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 2.7,
+    "fibra_g" : 1.0,
+    "acqua_g" : 92.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 60
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento (67).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8009,
+  "nome" : "MENTA, secca",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24001,
+    "nome" : "erbe aromatiche e altri spezie"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 360,
+      "kj" : 1503
+    },
+    "proteine_g" : 24.8,
+    "lipidi_g" : 4.6,
+    "carboidrati_g" : 34.6,
+    "fibra_g" : 44.7,
+    "acqua_g" : 11.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 6.2,
+    "calcio_mg" : 1370
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (40).pdf"
+  }
+}

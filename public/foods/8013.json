@@ -1,0 +1,36 @@
+{
+  "id" : 8013,
+  "nome" : "ROSMARINO, fresco",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 24001,
+    "nome" : "erbe aromatiche e altri spezie"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 111,
+      "kj" : 464
+    },
+    "proteine_g" : 1.4,
+    "lipidi_g" : 4.4,
+    "carboidrati_g" : 13.5,
+    "fibra_g" : 7.7,
+    "acqua_g" : 73.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 8.5,
+    "calcio_mg" : 370
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (36).pdf"
+  }
+}

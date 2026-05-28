@@ -1,0 +1,36 @@
+{
+  "id" : 592,
+  "nome" : "OLIVE, NERE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2010,
+    "nome" : "olive, verdure sott’olio, sott'aceto, in agrodolce"
+  },
+  "parte_edibile_percentuale" : 74,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 240,
+      "kj" : 988
+    },
+    "proteine_g" : 1.6,
+    "lipidi_g" : 25.1,
+    "carboidrati_g" : 0.8,
+    "fibra_g" : 2.4,
+    "acqua_g" : 68.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 62
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (25).pdf"
+  }
+}

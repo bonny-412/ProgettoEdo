@@ -1,0 +1,36 @@
+{
+  "id" : 382,
+  "nome" : "PATATINE, IN SACCHETTO, salate",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 1001,
+    "nome" : "tuberi, patate, fecola, preparati per gnocchi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 540,
+      "kj" : 2254
+    },
+    "proteine_g" : 7.0,
+    "lipidi_g" : 34.6,
+    "carboidrati_g" : 51.2,
+    "fibra_g" : 4.5,
+    "acqua_g" : 1.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 24
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (66).pdf"
+  }
+}

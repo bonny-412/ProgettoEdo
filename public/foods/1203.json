@@ -1,0 +1,36 @@
+{
+  "id" : 1203,
+  "nome" : "BOVINO, CUORE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10041,
+    "nome" : "frattaglie di bovino"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 123,
+      "kj" : 516
+    },
+    "proteine_g" : 16.8,
+    "lipidi_g" : 6.0,
+    "carboidrati_g" : 0.5,
+    "fibra_g" : 0.0,
+    "acqua_g" : 75.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 150
+  },
+  "minerali" : {
+    "ferro_mg" : 4.6,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.5,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (50).pdf"
+  }
+}

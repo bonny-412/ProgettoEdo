@@ -1,0 +1,36 @@
+{
+  "id" : 2001,
+  "nome" : "CANDITI",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14002,
+    "nome" : "frutta candita"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 292,
+      "kj" : 1244
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 75.0,
+    "fibra_g" : 4.5,
+    "acqua_g" : 17.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 60
+  },
+  "zuccheri" : {
+    "glucosio_g" : 29.3,
+    "fruttosio_g" : 21.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (27).pdf"
+  }
+}

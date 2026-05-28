@@ -1,0 +1,36 @@
+{
+  "id" : 8800,
+  "nome" : "BOVINO, VITELLONE, 15-18 MESI, TAGLI POSTERIORI, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10010,
+    "nome" : "carne di bovino adulto/manzo/vitellone"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 117,
+      "kj" : 491
+    },
+    "proteine_g" : 21.5,
+    "lipidi_g" : 3.4,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 60
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 4
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (82).pdf"
+  }
+}

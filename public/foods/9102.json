@@ -1,0 +1,36 @@
+{
+  "id" : 9102,
+  "nome" : "PANDORO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15001,
+    "nome" : "brioches, merendine non farcite"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 401,
+      "kj" : 1682
+    },
+    "proteine_g" : 7.8,
+    "lipidi_g" : 20.0,
+    "carboidrati_g" : 50.0,
+    "fibra_g" : 1.2,
+    "acqua_g" : 19.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 126
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 28
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (9).pdf"
+  }
+}

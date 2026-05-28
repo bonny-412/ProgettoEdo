@@ -1,0 +1,36 @@
+{
+  "id" : 2013,
+  "nome" : "CONFETTURA (MARMELLATA) DI FRUTTA, NORMALE ED EXTRA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14005,
+    "nome" : "marmellate"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 227,
+      "kj" : 965
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 58.7,
+    "fibra_g" : 2.2,
+    "acqua_g" : 36.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 23.3,
+    "fruttosio_g" : 12.7,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150531.949.pdf"
+  }
+}

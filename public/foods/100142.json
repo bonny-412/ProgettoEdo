@@ -1,0 +1,36 @@
+{
+  "id" : 100142,
+  "nome" : "PISELLI SURGELATI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 70,
+      "kj" : 294
+    },
+    "proteine_g" : 5.7,
+    "lipidi_g" : 0.4,
+    "carboidrati_g" : 7.5,
+    "fibra_g" : 7.8,
+    "acqua_g" : 79.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.5,
+    "calcio_mg" : 33
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (99).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9080,
+  "nome" : "FIOCCHI MISTI DI CEREALI, con frutta",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8003,
+    "nome" : "fiocchi, pop corn, crusca (anche in compresse) soffiati"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 356,
+      "kj" : 1508
+    },
+    "proteine_g" : 7.2,
+    "lipidi_g" : 6.2,
+    "carboidrati_g" : 68.4,
+    "fibra_g" : 7.0,
+    "acqua_g" : 11.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.6,
+    "calcio_mg" : 46
+  },
+  "zuccheri" : {
+    "glucosio_g" : 5.4,
+    "fruttosio_g" : 5.1,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (62).pdf"
+  }
+}

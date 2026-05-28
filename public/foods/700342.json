@@ -1,0 +1,36 @@
+{
+  "id" : 700342,
+  "nome" : "BOVINO, LINGUA SALMISTRATA",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10040,
+    "nome" : "carne in scatola"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 260,
+      "kj" : 1081
+    },
+    "proteine_g" : 22.5,
+    "lipidi_g" : 18.8,
+    "carboidrati_g" : 0.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 56.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 87
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (54).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 100221,
+  "nome" : "BISCOTTI AL LATTE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 435,
+      "kj" : 1833
+    },
+    "proteine_g" : 6.9,
+    "lipidi_g" : 14.9,
+    "carboidrati_g" : 71.5,
+    "fibra_g" : 2.6,
+    "acqua_g" : 5.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 18
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 22
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (29).pdf"
+  }
+}

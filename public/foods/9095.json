@@ -1,0 +1,36 @@
+{
+  "id" : 9095,
+  "nome" : "BISCOTTI CON GOCCE DI CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15007,
+    "nome" : "biscotti, pasticcini da tè"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 471,
+      "kj" : 1977
+    },
+    "proteine_g" : 7.3,
+    "lipidi_g" : 20.9,
+    "carboidrati_g" : 66.0,
+    "fibra_g" : 2.9,
+    "acqua_g" : 1.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 41
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 55
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (31).pdf"
+  }
+}

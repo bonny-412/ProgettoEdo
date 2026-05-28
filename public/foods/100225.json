@@ -1,0 +1,36 @@
+{
+  "id" : 100225,
+  "nome" : "CREMA PER PASTICCERIA (RICETTA)",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15003,
+    "nome" : "creme e desserts al cucchiaio"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 192,
+      "kj" : 811
+    },
+    "proteine_g" : 4.8,
+    "lipidi_g" : 6.4,
+    "carboidrati_g" : 30.7,
+    "fibra_g" : 0.2,
+    "acqua_g" : 59.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 68
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 97
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150848.570.pdf"
+  }
+}

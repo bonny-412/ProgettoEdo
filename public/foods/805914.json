@@ -1,0 +1,36 @@
+{
+  "id" : 805914,
+  "nome" : "SUCCO DI MELA, non zuccherato",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4010,
+    "nome" : "succhi e spremute di frutta"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 38,
+      "kj" : 164
+    },
+    "proteine_g" : 0.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 9.9,
+    "fibra_g" : 0.0,
+    "acqua_g" : 88.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 7
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.6,
+    "fruttosio_g" : 6.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131828.664.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 1604,
+  "nome" : "LATTE DI VACCA, SCREMATO, PASTORIZZATO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 6001,
+    "nome" : "latte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 36,
+      "kj" : 153
+    },
+    "proteine_g" : 3.6,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 5.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 90.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 2
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 125
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (16).pdf"
+  }
+}

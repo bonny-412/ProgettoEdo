@@ -1,0 +1,36 @@
+{
+  "id" : 9110,
+  "nome" : "MERENDINE TIPO BRIOCHE, ALLA CREMA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15008,
+    "nome" : "brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 397,
+      "kj" : 1663
+    },
+    "proteine_g" : 7.1,
+    "lipidi_g" : 19.8,
+    "carboidrati_g" : 49.9,
+    "fibra_g" : 1.4,
+    "acqua_g" : 21.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 66
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 56
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (46).pdf"
+  }
+}

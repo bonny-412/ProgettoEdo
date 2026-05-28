@@ -1,0 +1,36 @@
+{
+  "id" : 100015,
+  "nome" : "FIOCCHI DI LATTE MAGRO",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 115,
+      "kj" : 479
+    },
+    "proteine_g" : 9.7,
+    "lipidi_g" : 7.1,
+    "carboidrati_g" : 3.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 78.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 24
+  },
+  "minerali" : {
+    "ferro_mg" : 0.1,
+    "calcio_mg" : 73
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (55).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9094,
+  "nome" : "BISCOTTI WAFER, RICOPERTI DI CIOCCOLATO CON RIPIENO E NOCCIOLE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15009,
+    "nome" : "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 571,
+      "kj" : 2380
+    },
+    "proteine_g" : 8.0,
+    "lipidi_g" : 38.3,
+    "carboidrati_g" : 50.2,
+    "fibra_g" : 3.0,
+    "acqua_g" : 1.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 4
+  },
+  "minerali" : {
+    "ferro_mg" : 1.9,
+    "calcio_mg" : 131
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (40).pdf"
+  }
+}

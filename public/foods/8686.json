@@ -1,0 +1,36 @@
+{
+  "id" : 8686,
+  "nome" : "POLLO, FUSO (COSCIA), senza pelle",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 66,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 107,
+      "kj" : 451
+    },
+    "proteine_g" : 18.5,
+    "lipidi_g" : 3.7,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 77.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 88
+  },
+  "minerali" : {
+    "ferro_mg" : 1,
+    "calcio_mg" : 13
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121403.142.pdf"
+  }
+}

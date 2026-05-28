@@ -1,0 +1,36 @@
+{
+    "id": 4008,
+    "nome": "VERMOUTH SECCO",
+    "anno": 2008,
+    "categoria": {
+        "codice": 17002,
+        "nome": "liquori dolci e amari"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 109,
+            "kj": 453
+        },
+        "proteine_g": 0.1,
+        "lipidi_g": 0.0,
+        "carboidrati_g": 3.0,
+        "fibra_g": 0.0,
+        "acqua_g": 82.1,
+        "alcol": 13.9,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.3,
+        "calcio_mg": 7
+    },
+    "zuccheri": {
+        "glucosio_g": 1.1,
+        "fruttosio_g": 1.2,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "V - Scheda alimento (5).pdf"
+    }
+}

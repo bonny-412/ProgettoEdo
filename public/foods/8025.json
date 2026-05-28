@@ -1,0 +1,36 @@
+{
+    "id": 8025,
+    "nome": "WAKAME, secca",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2011,
+        "nome": "alghe"
+    },
+    "parte_edibile_percentuale": 100,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 165,
+            "kj": 676
+        },
+        "proteine_g": 12.4,
+        "lipidi_g": 2.4,
+        "carboidrati_g": 0.0,
+        "fibra_g": 47.1,
+        "acqua_g": 12.2,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 11.6,
+        "calcio_mg": 660
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "W - Scheda alimento.pdf"
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 603551,
+  "nome" : "FUNGHI, PORCINELLI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2007,
+    "nome" : "funghi, tartufi"
+  },
+  "parte_edibile_percentuale" : 70,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 37,
+      "kj" : 152
+    },
+    "proteine_g" : 3.1,
+    "lipidi_g" : 0.6,
+    "carboidrati_g" : 1.6,
+    "fibra_g" : 6.5,
+    "acqua_g" : 88.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 2
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (92).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 900546,
+  "nome" : "BRODO DI GALLINA 4",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 25001,
+    "nome" : "brodi di carne e vegetali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 9,
+      "kj" : 38
+    },
+    "proteine_g" : 0.6,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 0.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 96.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 6
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (92).pdf"
+  }
+}

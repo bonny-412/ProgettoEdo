@@ -1,0 +1,36 @@
+{
+  "id" : 888009,
+  "nome" : "SHOYU, salsa di soia e grano",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3004,
+    "nome" : "prodotti della soia"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 52,
+      "kj" : 222
+    },
+    "proteine_g" : 5.2,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 7.7,
+    "fibra_g" : 0.8,
+    "acqua_g" : 71.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2,
+    "calcio_mg" : 17
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (53).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8794,
+  "nome" : "FARAONA, PETTO, senza pelle, cotto al forno",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 146,
+      "kj" : 618
+    },
+    "proteine_g" : 30.7,
+    "lipidi_g" : 2.5,
+    "carboidrati_g" : 0.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 66.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 39
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 11
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (13).pdf"
+  }
+}

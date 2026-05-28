@@ -1,0 +1,36 @@
+{
+  "id" : 9,
+  "nome" : "FARINA DI AVENA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 38,
+      "kj" : 598
+    },
+    "proteine_g" : 12.6,
+    "lipidi_g" : 7.1,
+    "carboidrati_g" : 66.3,
+    "fibra_g" : 7.6,
+    "acqua_g" : 9.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 4.2,
+    "calcio_mg" : 80
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (14).pdf"
+  }
+}

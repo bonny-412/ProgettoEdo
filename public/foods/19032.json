@@ -1,0 +1,36 @@
+{
+  "id" : 19032,
+  "nome" : "GELATO CONFEZIONATO, CACAO O CIOCCOLATO, IN VASCHETTA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14006,
+    "nome" : "gelati, ghiaccioli"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 220,
+      "kj" : 921
+    },
+    "proteine_g" : 4.0,
+    "lipidi_g" : 11.4,
+    "carboidrati_g" : 25.8,
+    "fibra_g" : 2.3,
+    "acqua_g" : 55.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 31
+  },
+  "minerali" : {
+    "ferro_mg" : 2.1,
+    "calcio_mg" : 65
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (9).pdf"
+  }
+}

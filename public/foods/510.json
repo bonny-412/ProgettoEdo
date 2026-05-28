@@ -1,0 +1,36 @@
+{
+  "id" : 510,
+  "nome" : "NOCI, secche",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4003,
+    "nome" : "frutta secca e in guscio, semi edibili"
+  },
+  "parte_edibile_percentuale" : 39,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 702,
+      "kj" : 2894
+    },
+    "proteine_g" : 14.3,
+    "lipidi_g" : 68.1,
+    "carboidrati_g" : 5.1,
+    "fibra_g" : 6.2,
+    "acqua_g" : 3.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 2.4,
+    "calcio_mg" : 61
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.2,
+    "fruttosio_g" : 0.2,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (7).pdf"
+  }
+}

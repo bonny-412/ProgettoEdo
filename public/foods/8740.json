@@ -1,0 +1,36 @@
+{
+  "id" : 8740,
+  "nome" : "SPIGOLA, D'ALLEVAMENTO, FILETTI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 149,
+      "kj" : 626
+    },
+    "proteine_g" : 21.3,
+    "lipidi_g" : 6.8,
+    "carboidrati_g" : 0.8,
+    "fibra_g" : 0.0,
+    "acqua_g" : 69.9,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 75
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 30
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.8,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (69).pdf"
+  }
+}

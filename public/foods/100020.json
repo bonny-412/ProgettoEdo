@@ -1,0 +1,36 @@
+{
+  "id" : 100020,
+  "nome" : "PECORINO DA GRATTUGIARE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 7001,
+    "nome" : "formaggi e latticini"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 379,
+      "kj" : 1574
+    },
+    "proteine_g" : 29.5,
+    "lipidi_g" : 28.9,
+    "carboidrati_g" : 0.2,
+    "fibra_g" : 0.0,
+    "acqua_g" : 28.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 104
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 923
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (70).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 9064,
+  "nome" : "PANE, SENZA SALE, TIPO 0",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 9002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 268,
+      "kj" : 1139
+    },
+    "proteine_g" : 8.1,
+    "lipidi_g" : 0.5,
+    "carboidrati_g" : 59.5,
+    "fibra_g" : 3.8,
+    "acqua_g" : 31.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.7,
+    "calcio_mg" : 17
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.1,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (26).pdf"
+  }
+}

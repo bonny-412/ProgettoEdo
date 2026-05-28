@@ -1,0 +1,36 @@
+{
+  "id" : 8694,
+  "nome" : "POLLO, SOVRACOSCIO, senza pelle, cotto al forno",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 81,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 188,
+      "kj" : 788
+    },
+    "proteine_g" : 28.3,
+    "lipidi_g" : 8.3,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 61.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 109
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 18
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T121528.982.pdf"
+  }
+}

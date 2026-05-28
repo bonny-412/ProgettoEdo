@@ -1,0 +1,36 @@
+{
+  "id" : 8742,
+  "nome" : "TROTA IRIDEA, D'ALLEVAMENTO, FILETTI",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 118,
+      "kj" : 497
+    },
+    "proteine_g" : 20.3,
+    "lipidi_g" : 4.1,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 74.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 50
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 50
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (45).pdf"
+  }
+}

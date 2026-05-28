@@ -1,0 +1,36 @@
+{
+  "id" : 2006,
+  "nome" : "CIOCCOLATO AL LATTE",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14001,
+    "nome" : "cioccolatini, tavolette e creme spalmabili"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 552,
+      "kj" : 2301
+    },
+    "proteine_g" : 7.3,
+    "lipidi_g" : 36.3,
+    "carboidrati_g" : 50.5,
+    "fibra_g" : 3.2,
+    "acqua_g" : 0.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 10
+  },
+  "minerali" : {
+    "ferro_mg" : 3,
+    "calcio_mg" : 262
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (92).pdf"
+  }
+}

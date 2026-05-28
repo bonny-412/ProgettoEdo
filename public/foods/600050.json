@@ -1,0 +1,36 @@
+{
+  "id" : 600050,
+  "nome" : "PANE, TIPO PANCARRE', BIANCO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 92002,
+    "nome" : "pane, pane biscottato, pizza, focaccia, pasta per pane e pizza"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 254,
+      "kj" : 1077
+    },
+    "proteine_g" : 8.1,
+    "lipidi_g" : 4.2,
+    "carboidrati_g" : 47.4,
+    "fibra_g" : 3.2,
+    "acqua_g" : 32.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 3.6,
+    "calcio_mg" : 144
+  },
+  "zuccheri" : {
+    "glucosio_g" : 1.6,
+    "fruttosio_g" : 2.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (31).pdf"
+  }
+}

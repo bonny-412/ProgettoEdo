@@ -1,0 +1,36 @@
+{
+  "id" : 422,
+  "nome" : "MELONE D'INVERNO",
+  "anno" : 2015,
+  "categoria" : {
+    "codice" : 4001,
+    "nome" : "frutta fresca e bacche"
+  },
+  "parte_edibile_percentuale" : 51,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 24,
+      "kj" : 100
+    },
+    "proteine_g" : 0.5,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 4.9,
+    "fibra_g" : 0.7,
+    "acqua_g" : 94.1,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 21
+  },
+  "zuccheri" : {
+    "glucosio_g" : 2.1,
+    "fruttosio_g" : 2.4,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (37).pdf"
+  }
+}

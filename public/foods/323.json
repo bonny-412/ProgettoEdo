@@ -1,0 +1,36 @@
+{
+  "id" : 323,
+  "nome" : "CIPOLLINE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2005,
+    "nome" : "agliacee"
+  },
+  "parte_edibile_percentuale" : 93,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 41,
+      "kj" : 175
+    },
+    "proteine_g" : 1.3,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 8.5,
+    "fibra_g" : 1.7,
+    "acqua_g" : 88.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 51
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "C - Scheda alimento - 2026-05-15T150456.006.pdf"
+  }
+}

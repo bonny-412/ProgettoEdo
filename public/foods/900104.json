@@ -1,0 +1,36 @@
+{
+  "id" : 900104,
+  "nome" : "CONFETTI ALLA MANDORLA ",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 14004,
+    "nome" : "caramelle, liquirizia, confetti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 471,
+      "kj" : 1979
+    },
+    "proteine_g" : 7.5,
+    "lipidi_g" : 18.8,
+    "carboidrati_g" : 70.1,
+    "fibra_g" : 4.3,
+    "acqua_g" : 2.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.2,
+    "calcio_mg" : 83
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-15T150516.953.pdf"
+  }
+}

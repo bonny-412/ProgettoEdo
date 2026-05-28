@@ -1,0 +1,36 @@
+{
+  "id" : 102,
+  "nome" : "FAVE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 3001,
+    "nome" : "legumi"
+  },
+  "parte_edibile_percentuale" : 30,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 49,
+      "kj" : 207
+    },
+    "proteine_g" : 5.4,
+    "lipidi_g" : 0.2,
+    "carboidrati_g" : 4.2,
+    "fibra_g" : 5.1,
+    "acqua_g" : 80.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 23
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (36).pdf"
+  }
+}

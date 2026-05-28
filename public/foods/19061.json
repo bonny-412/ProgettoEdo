@@ -1,0 +1,36 @@
+{
+  "id" : 19061,
+  "nome" : "PASTA SFOGLIA",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15006,
+    "nome" : "torte, preparati e basi per torte"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 493,
+      "kj" : 2055
+    },
+    "proteine_g" : 6.7,
+    "lipidi_g" : 33.2,
+    "carboidrati_g" : 42.8,
+    "fibra_g" : 3.5,
+    "acqua_g" : 13.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 52
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 98
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (56).pdf"
+  }
+}

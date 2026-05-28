@@ -1,0 +1,36 @@
+{
+  "id" : 342,
+  "nome" : "RAVANELLI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2003,
+    "nome" : "verdura a radice"
+  },
+  "parte_edibile_percentuale" : 99,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 13,
+      "kj" : 56
+    },
+    "proteine_g" : 0.8,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 1.8,
+    "fibra_g" : 1.3,
+    "acqua_g" : 95.6,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.9,
+    "calcio_mg" : 39
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (6).pdf"
+  }
+}

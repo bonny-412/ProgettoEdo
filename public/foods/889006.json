@@ -1,0 +1,36 @@
+{
+  "id" : 889006,
+  "nome" : "FRUMENTO, AMIDO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8002,
+    "nome" : "farine e amidi di cereali"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 327,
+      "kj" : 1393
+    },
+    "proteine_g" : 0.4,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 85.8,
+    "fibra_g" : 1.2,
+    "acqua_g" : 12.3,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0,
+    "calcio_mg" : 0
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (75).pdf"
+  }
+}

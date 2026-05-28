@@ -1,0 +1,36 @@
+{
+  "id" : 805671,
+  "nome" : "SUCCO DI SPINACI",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2006,
+    "nome" : "succhi di verdura"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 12,
+      "kj" : 50
+    },
+    "proteine_g" : 1.4,
+    "lipidi_g" : 0.3,
+    "carboidrati_g" : 0.5,
+    "fibra_g" : 0.9,
+    "acqua_g" : 95.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 1
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131901.240.pdf"
+  }
+}

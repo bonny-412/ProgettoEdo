@@ -1,0 +1,36 @@
+{
+  "id" : 339,
+  "nome" : "RADICCHIO ROSSO",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 2008,
+    "nome" : "verdure a foglia (insalata)"
+  },
+  "parte_edibile_percentuale" : 72,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 18,
+      "kj" : 77
+    },
+    "proteine_g" : 1.4,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 1.6,
+    "fibra_g" : 3.0,
+    "acqua_g" : 94.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 36
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento.pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8675,
+  "nome" : "SUINO, PESANTE, lombo, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 78,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 172,
+      "kj" : 720
+    },
+    "proteine_g" : 20.8,
+    "lipidi_g" : 9.9,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 68.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 88
+  },
+  "minerali" : {
+    "ferro_mg" : 1.4,
+    "calcio_mg" : 7
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T132016.076.pdf"
+  }
+}

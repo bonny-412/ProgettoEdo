@@ -1,0 +1,36 @@
+{
+  "id" : 8047,
+  "nome" : "BARRETTA AL COCCO, RICOPERTA DI CIOCCOLATO",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 15009,
+    "nome" : "merendine a base di cioccolato (tipo mars, kit-kat)"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 449,
+      "kj" : 1881
+    },
+    "proteine_g" : 3.9,
+    "lipidi_g" : 23.8,
+    "carboidrati_g" : 56.9,
+    "fibra_g" : 3.0,
+    "acqua_g" : 7.8,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 6
+  },
+  "minerali" : {
+    "ferro_mg" : 1.8,
+    "calcio_mg" : 79
+  },
+  "zuccheri" : {
+    "glucosio_g" : 3.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "B - Scheda alimento (6).pdf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id" : 8670,
+  "nome" : "SUINO, LEGGERO, lombo, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 79,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 146,
+      "kj" : 611
+    },
+    "proteine_g" : 20.7,
+    "lipidi_g" : 7.0,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 70.7,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 61
+  },
+  "minerali" : {
+    "ferro_mg" : 1.3,
+    "calcio_mg" : 7
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131957.860.pdf"
+  }
+}

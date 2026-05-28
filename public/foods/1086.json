@@ -1,0 +1,36 @@
+{
+  "id" : 1086,
+  "nome" : "FARAONA, COSCIO, senza pelle",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 78,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 127,
+      "kj" : 535
+    },
+    "proteine_g" : 24.0,
+    "lipidi_g" : 3.3,
+    "carboidrati_g" : 0.3,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.4,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 51
+  },
+  "minerali" : {
+    "ferro_mg" : 1.6,
+    "calcio_mg" : 10
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (10).pdf"
+  }
+}

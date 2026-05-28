@@ -1,0 +1,36 @@
+{
+  "id" : 100112,
+  "nome" : "RANA PESCATRICE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 11001,
+    "nome" : "pesci vertebrati (freschi, surgelati o cotti)"
+  },
+  "parte_edibile_percentuale" : 33,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 62,
+      "kj" : 264
+    },
+    "proteine_g" : 12.8,
+    "lipidi_g" : 1.0,
+    "carboidrati_g" : 0.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 84.0,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 50
+  },
+  "minerali" : {
+    "ferro_mg" : 0.4,
+    "calcio_mg" : 28
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.6,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

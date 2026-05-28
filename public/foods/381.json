@@ -1,0 +1,36 @@
+{
+  "id" : 381,
+  "nome" : "PATATE",
+  "anno" : 1998,
+  "categoria" : {
+    "codice" : 1001,
+    "nome" : "tuberi, patate, fecola, preparati per gnocchi"
+  },
+  "parte_edibile_percentuale" : 83,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 80,
+      "kj" : 340
+    },
+    "proteine_g" : 2.1,
+    "lipidi_g" : 0.1,
+    "carboidrati_g" : 18.0,
+    "fibra_g" : 1.6,
+    "acqua_g" : 78.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.6,
+    "calcio_mg" : 10
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (61).pdf"
+  }
+}

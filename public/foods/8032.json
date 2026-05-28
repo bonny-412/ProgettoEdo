@@ -1,0 +1,36 @@
+{
+    "id": 8032,
+    "nome": "DAIKON",
+    "anno": 1998,
+    "categoria": {
+        "codice": 2003,
+        "nome": "verdura a radice"
+    },
+    "parte_edibile_percentuale": 87,
+    "valori_per_100g": {
+        "energia": {
+            "kcal": 18,
+            "kj": 76
+        },
+        "proteine_g": 0.8,
+        "lipidi_g": 0.1,
+        "carboidrati_g": 2.9,
+        "fibra_g": 1.5,
+        "acqua_g": 93.0,
+        "alcol": 0.0,
+        "colesterolo_mg": 0
+    },
+    "minerali": {
+        "ferro_mg": 0.4,
+        "calcio_mg": 30
+    },
+    "zuccheri": {
+        "glucosio_g": 0.0,
+        "fruttosio_g": 0.0,
+        "galattosio_g": 0.0
+    },
+    "fonte": {
+        "database": "BDA IEO",
+        "pdf": "D - Scheda alimento (2).pdf"
+    }
+}

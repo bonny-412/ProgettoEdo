@@ -1,0 +1,36 @@
+{
+  "id" : 8791,
+  "nome" : "SPUMANTE ALTA GRADAZIONE",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 17001,
+    "nome" : "vino e spumanti"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 87,
+      "kj" : 359
+    },
+    "proteine_g" : 0.0,
+    "lipidi_g" : 0.0,
+    "carboidrati_g" : 0.6,
+    "fibra_g" : 0.0,
+    "acqua_g" : 86.9,
+    "alcol" : 12.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.3,
+    "calcio_mg" : 9
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.3,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (75).pdf"
+  }
+}

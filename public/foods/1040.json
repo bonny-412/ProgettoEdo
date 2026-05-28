@@ -1,0 +1,36 @@
+{
+  "id" : 1040,
+  "nome" : "SUINO, CARNE SEMIGRASSA, senza grasso visibile",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10060,
+    "nome" : "carne di maiale"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 141,
+      "kj" : 590
+    },
+    "proteine_g" : 19.9,
+    "lipidi_g" : 6.8,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 72.5,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 61
+  },
+  "minerali" : {
+    "ferro_mg" : 1.7,
+    "calcio_mg" : 8
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento - 2026-05-17T131927.699.pdf"
+  }
+}

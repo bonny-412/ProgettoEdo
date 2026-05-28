@@ -1,0 +1,36 @@
+{
+  "id" : 1072,
+  "nome" : "TACCHINO, ALA, con pelle",
+  "anno" : 2008,
+  "categoria" : {
+    "codice" : 10050,
+    "nome" : "carne di volatili, pollo"
+  },
+  "parte_edibile_percentuale" : 75,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 193,
+      "kj" : 805
+    },
+    "proteine_g" : 22.3,
+    "lipidi_g" : 11.5,
+    "carboidrati_g" : 0.0,
+    "fibra_g" : 0.0,
+    "acqua_g" : 68.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 73
+  },
+  "minerali" : {
+    "ferro_mg" : 2.5,
+    "calcio_mg" : 23
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.0,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (3).pdf"
+  }
+}

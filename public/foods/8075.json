@@ -1,0 +1,36 @@
+{
+  "id" : 8075,
+  "nome" : "RISO, BASMATI, crudo",
+  "anno" : 2022,
+  "categoria" : {
+    "codice" : 8001,
+    "nome" : "cereali in chicchi e preparazioni"
+  },
+  "parte_edibile_percentuale" : 100,
+  "valori_per_100g" : {
+    "energia" : {
+      "kcal" : 367,
+      "kj" : 1560
+    },
+    "proteine_g" : 9.0,
+    "lipidi_g" : 1.9,
+    "carboidrati_g" : 82.9,
+    "fibra_g" : 1.3,
+    "acqua_g" : 12.2,
+    "alcol" : 0.0,
+    "colesterolo_mg" : 0
+  },
+  "minerali" : {
+    "ferro_mg" : 0.8,
+    "calcio_mg" : 5
+  },
+  "zuccheri" : {
+    "glucosio_g" : 0.3,
+    "fruttosio_g" : 0.0,
+    "galattosio_g" : 0.0
+  },
+  "fonte" : {
+    "database" : "BDA IEO",
+    "pdf" : "Scheda alimento (20).pdf"
+  }
+}
