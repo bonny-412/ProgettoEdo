@@ -51,7 +51,7 @@ function onAddMeal(): void {
 .content-inner {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 22px 28px 32px;
+  padding: 22px 28px calc(32px + env(safe-area-inset-bottom, 0px));
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -72,13 +72,13 @@ function onAddMeal(): void {
 
 @media (max-width: 900px) {
   .content-inner {
-    padding: 16px 14px 24px;
+    padding: 16px 14px calc(24px + env(safe-area-inset-bottom, 0px));
   }
 }
 
 @media (max-width: 600px) {
   .content-inner {
-    padding: 12px 10px 20px;
+    padding: 12px 10px calc(20px + env(safe-area-inset-bottom, 0px));
     gap: 12px;
   }
   .day-title {
