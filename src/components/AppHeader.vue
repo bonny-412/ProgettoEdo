@@ -54,7 +54,7 @@ async function handleReset(): Promise<void> {
       <v-btn class="topbar-btn topbar-btn--ghost btn-print-full" @click="handleReset" variant="flat" prepend-icon="mdi-plus">Nuova scheda</v-btn>
       <v-btn class="topbar-btn topbar-btn--white btn-print-full" variant="flat" prepend-icon="mdi-printer" @click="printPdf">Stampa PDF</v-btn>
       <!-- Mobile: solo icona -->
-      <v-btn class="topbar-btn topbar-btn--ghost btn-print-icon" icon="mdi-plus" variant="flat" density="comfortable" />
+      <v-btn class="topbar-btn topbar-btn--ghost btn-print-icon" icon="mdi-plus" variant="flat" density="comfortable" @click="handleReset" />
       <v-btn class="topbar-btn topbar-btn--white btn-print-icon" icon="mdi-printer" variant="flat" density="comfortable" @click="printPdf" />
     </div>
   </header>
