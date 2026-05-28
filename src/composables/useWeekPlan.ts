@@ -33,9 +33,9 @@ const weekPlan = ref(buildDefaultWeekPlan())
 const selectedDayKey = ref<DayKey>('lunedi')
 
 const patient = ref<PatientInfo>({
-  nome: 'Marco Bianchi',
+  nome: 'Edoardo Haag',
   dataScheda: new Date().toISOString().slice(0, 10),
-  obiettivoKcal: 1800
+  obiettivoKcal: 2000
 })
 
 // ── INTERFACCIA PUBBLICA ──────────────────────────────────────
