@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Web app Vue 3 per la gestione di piani alimentari settimanali — Dott. Edoardo Dietista",
+  "description": "Web app Vue 3 per la gestione di piani alimentari settimanali — Edoardo Dietista",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
