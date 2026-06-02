@@ -61,14 +61,19 @@ async function onAdd(): Promise<void> {
   if (!selected.value) return
   submitting.value = true
   try {
-    const detail = await loadFoodDetail(selected.value)
-    const per100 = extractPer100g(detail)
+    let per100g
+    if (selected.value.custom && selected.value.per100gInline) {
+      per100g = selected.value.per100gInline
+    } else {
+      const detail = await loadFoodDetail(selected.value)
+      per100g = extractPer100g(detail)
+    }
     emit('add', {
       sourceId: selected.value.id,
       nome: capitalize(selected.value.nome),
       grammi: parseFloat(grammi.value) || 100,
-      per100g: per100,
-      custom: false
+      per100g,
+      custom: !!selected.value.custom
     })
     selected.value = null
     query.value = ''
@@ -100,7 +105,11 @@ async function onAdd(): Promise<void> {
       @update:search="onSearch"
     >
       <template #item="{ item, props }">
-        <v-list-item v-bind="props" :title="capitalize(item.raw.nome)" :subtitle="item.raw.categoria" />
+        <v-list-item v-bind="props" :title="capitalize(item.raw.nome)" :subtitle="item.raw.categoria">
+          <template v-if="item.raw.custom" #append>
+            <span class="custom-badge">★ Salvato</span>
+          </template>
+        </v-list-item>
       </template>
       <template v-if="error" #append-inner>
         <span class="search-error" :title="error">⚠</span>
@@ -148,6 +157,13 @@ async function onAdd(): Promise<void> {
 .search-error {
   color: var(--red);
   font-size: 14px;
+}
+
+.custom-badge {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--green-600);
+  letter-spacing: 0.03em;
 }
 
 /* Mobile: i campi vanno a capo invece di stringersi. */

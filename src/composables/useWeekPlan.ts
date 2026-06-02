@@ -23,6 +23,8 @@ import { buildDefaultWeekPlan, DAY_KEYS, DAY_LABELS } from '@/data/defaults'
 import {
   emptyTotals,
   sumTotals,
+  sumMacros,
+  calcKcal,
   totalsForDay,
   totalsForMeal
 } from '@/utils/nutrition'
@@ -95,12 +97,13 @@ const kcalPerDay = computed<Record<DayKey, number>>(() => {
   return map
 })
 
-const weeklyTotals = computed<NutritionTotals>(() =>
-  days.value.reduce<NutritionTotals>(
-    (acc, d) => sumTotals(acc, totalsForDay(d)),
+const weeklyTotals = computed<NutritionTotals>(() => {
+  const t = days.value.reduce<NutritionTotals>(
+    (acc, d) => sumMacros(acc, totalsForDay(d)),
     emptyTotals()
   )
-)
+  return { ...t, kcal: calcKcal(t.proteine, t.grassi, t.carboidrati, t.fibra) }
+})
 
 const activeDaysCount = computed<number>(
   () => days.value.filter((d) => d.meals.some((m) => m.alimenti.length > 0)).length
@@ -110,11 +113,16 @@ const weeklyAverages = computed<NutritionTotals>(() => {
   const n = activeDaysCount.value
   if (n === 0) return emptyTotals()
   const t = weeklyTotals.value
+  const proteine    = t.proteine    / n
+  const grassi      = t.grassi      / n
+  const carboidrati = t.carboidrati / n
+  const fibra       = t.fibra != null ? t.fibra / n : undefined
   return {
-    kcal: t.kcal / n,
-    proteine: t.proteine / n,
-    carboidrati: t.carboidrati / n,
-    grassi: t.grassi / n
+    kcal: calcKcal(proteine, grassi, carboidrati, fibra),
+    proteine,
+    carboidrati,
+    grassi,
+    fibra
   }
 })
 

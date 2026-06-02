@@ -2,11 +2,14 @@
 /**
  * AppHeader — topbar verde con brand e pulsanti.
  */
+import { ref } from 'vue'
 import { useWeekPlan } from '@/composables/useWeekPlan'
 import { useSidebar } from '@/composables/useSidebar'
 import { useConfirm } from '@/composables/useConfirm'
 import { usePrintPdf } from '@/composables/usePrintPdf'
+import CustomFoodLibraryDialog from './CustomFoodLibraryDialog.vue'
 
+const libraryDialog = ref(false)
 const plan = useWeekPlan()
 const { isSidebarOpen, toggleSidebar } = useSidebar()
 const { confirm } = useConfirm()
@@ -50,14 +53,32 @@ async function handleReset(): Promise<void> {
     </div>
 
     <div class="topbar-actions">
-      <!-- Desktop: bottone con testo -->
-      <v-btn class="topbar-btn topbar-btn--ghost btn-print-full" @click="handleReset" variant="flat" prepend-icon="mdi-plus">Nuova scheda</v-btn>
-      <v-btn class="topbar-btn topbar-btn--white btn-print-full" variant="flat" prepend-icon="mdi-printer" @click="printPdf">Stampa PDF</v-btn>
-      <!-- Mobile: solo icona -->
-      <v-btn class="topbar-btn topbar-btn--ghost btn-print-icon" icon="mdi-plus" variant="flat" density="comfortable" @click="handleReset" />
-      <v-btn class="topbar-btn topbar-btn--white btn-print-icon" icon="mdi-printer" variant="flat" density="comfortable" @click="printPdf" />
+      <!-- Desktop: bottoni con testo -->
+      <v-btn class="topbar-btn topbar-btn--ghost btn-desktop" variant="flat" prepend-icon="mdi-star-outline" @click="libraryDialog = true">Libreria</v-btn>
+      <v-btn class="topbar-btn topbar-btn--ghost btn-desktop" variant="flat" prepend-icon="mdi-plus" @click="handleReset">Nuova scheda</v-btn>
+      <v-btn class="topbar-btn topbar-btn--white btn-desktop" variant="flat" prepend-icon="mdi-printer" @click="printPdf">Stampa PDF</v-btn>
+
+      <!-- Mobile: menu a comparsa -->
+      <v-menu class="btn-mobile">
+        <template #activator="{ props: menuProps }">
+          <v-btn
+            v-bind="menuProps"
+            class="topbar-btn topbar-btn--ghost btn-mobile"
+            icon="mdi-dots-vertical"
+            variant="flat"
+            density="comfortable"
+          />
+        </template>
+        <v-list density="compact">
+          <v-list-item prepend-icon="mdi-star-outline" title="Libreria" @click="libraryDialog = true" />
+          <v-list-item prepend-icon="mdi-plus" title="Nuova scheda" @click="handleReset" />
+          <v-list-item prepend-icon="mdi-printer" title="Stampa PDF" @click="printPdf" />
+        </v-list>
+      </v-menu>
     </div>
   </header>
+
+  <CustomFoodLibraryDialog v-model="libraryDialog" />
 </template>
 
 <style scoped>
@@ -86,26 +107,21 @@ async function handleReset(): Promise<void> {
 /* Hamburger — nascosto su desktop, visibile su mobile/tablet */
 .btn-menu { display: none; }
 
-/* Bottone stampa: solo icona nascosta su desktop */
-.btn-print-icon { display: none; }
+/* Mobile menu: nascosto su desktop */
+.btn-mobile { display: none; }
 
 @media (max-width: 900px) {
-  /* Topbar diventa position:relative per ancorare il centro */
   .topbar { position: relative; }
 
-  /* Logo + brand: escono dal flusso e si centrano */
   .topbar-identity {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
   }
 
-  /* Hamburger: visibile */
-  .btn-menu { display: inline-flex; }
-
-  /* Stampa: mostra icona, nascondi versione con testo */
-  .btn-print-full { display: none; }
-  .btn-print-icon { display: inline-flex; }
+  .btn-menu   { display: inline-flex; }
+  .btn-desktop { display: none; }
+  .btn-mobile  { display: inline-flex; }
 }
 
 .topbar-logo {

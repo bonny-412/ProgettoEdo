@@ -25,6 +25,7 @@ export interface NutritionPer100g {
   fibra?: number
   ferro?: number    // mg
   calcio?: number   // mg
+  acqua?: number    // g
 }
 
 /** Alimento contenuto in un pasto (con quantità in grammi). */
@@ -78,6 +79,9 @@ export interface FoodIndexEntry {
   nome: string
   categoria: string
   file: string
+  /** Presente solo per alimenti custom salvati in libreria. */
+  custom?: true
+  per100gInline?: NutritionPer100g
 }
 
 /** Struttura del JSON di dettaglio di un alimento (BDA IEO). */
@@ -115,6 +119,7 @@ export interface NutritionTotals {
   proteine: number
   carboidrati: number
   grassi: number
+  fibra?: number
 }
 
 /** Dati paziente mostrati nella patient-bar (in-memory, niente salvataggio). */

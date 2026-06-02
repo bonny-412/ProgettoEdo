@@ -8,12 +8,15 @@
 import { ref, shallowRef } from 'vue'
 import type { FoodIndexEntry } from '@/types'
 import { loadFoodIndex, searchFoodIndex } from '@/services/foodService'
+import { useCustomFoodLibrary } from '@/composables/useCustomFoodLibrary'
 
 export function useFoodSearch() {
   const indexLoaded = ref(false)
   const loading = ref(false)
   const error = ref<string | null>(null)
   const results = shallowRef<FoodIndexEntry[]>([])
+
+  const { items: customItems } = useCustomFoodLibrary()
 
   // Cache locale dell'indice già caricato (non reattivo, sola lettura).
   let cache: FoodIndexEntry[] | null = null
@@ -37,7 +40,14 @@ export function useFoodSearch() {
 
   async function search(query: string): Promise<void> {
     const list = await ensureIndex()
-    results.value = searchFoodIndex(list, query, 30)
+    const remoteResults = searchFoodIndex(list, query, 30)
+    // Filtra gli alimenti custom in base alla query
+    const q = query.trim().toLowerCase()
+    const customResults = q
+      ? customItems.value.filter((e) => e.nome.toLowerCase().includes(q))
+      : customItems.value.slice(0, 10)
+    // Custom in cima ai risultati
+    results.value = [...customResults, ...remoteResults]
   }
 
   return {

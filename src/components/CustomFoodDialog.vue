@@ -10,6 +10,7 @@ const props = defineProps<{ modelValue: boolean }>()
 const emit = defineEmits<{
   (e: 'update:modelValue', value: boolean): void
   (e: 'submit', food: Omit<Food, 'uid'>): void
+  (e: 'submitAndSave', food: Omit<Food, 'uid'>): void
 }>()
 
 interface FormState {
@@ -19,6 +20,11 @@ interface FormState {
   proteine: string
   carboidrati: string
   grassi: string
+  zuccheri: string
+  fibra: string
+  ferro: string
+  calcio: string
+  acqua: string
 }
 
 const initialForm = (): FormState => ({
@@ -27,7 +33,12 @@ const initialForm = (): FormState => ({
   kcal: '0',
   proteine: '0',
   carboidrati: '0',
-  grassi: '0'
+  grassi: '0',
+  zuccheri: '',
+  fibra: '',
+  ferro: '',
+  calcio: '',
+  acqua: ''
 })
 
 const form = ref<FormState>(initialForm())
@@ -81,25 +92,45 @@ function close(): void {
   emit('update:modelValue', false)
 }
 
-function submit(): void {
-  if (!form.value.nome.trim()) return
-  emit('submit', {
+function parseOpt(v: string): number | undefined {
+  const n = parseFloat(v)
+  return v.trim() !== '' && !isNaN(n) ? n : undefined
+}
+
+function buildFood(): Omit<Food, 'uid'> {
+  return {
     nome: form.value.nome.trim(),
     grammi: parseFloat(form.value.grammi) || 100,
     per100g: {
-      kcal: parseFloat(form.value.kcal) || 0,
-      proteine: parseFloat(form.value.proteine) || 0,
+      kcal:        parseFloat(form.value.kcal)        || 0,
+      proteine:    parseFloat(form.value.proteine)    || 0,
       carboidrati: parseFloat(form.value.carboidrati) || 0,
-      grassi: parseFloat(form.value.grassi) || 0
+      grassi:      parseFloat(form.value.grassi)      || 0,
+      zuccheri:    parseOpt(form.value.zuccheri),
+      fibra:       parseOpt(form.value.fibra),
+      ferro:       parseOpt(form.value.ferro),
+      calcio:      parseOpt(form.value.calcio),
+      acqua:       parseOpt(form.value.acqua)
     },
     custom: true
-  })
+  }
+}
+
+function submit(): void {
+  if (!form.value.nome.trim()) return
+  emit('submit', buildFood())
+  close()
+}
+
+function submitAndSave(): void {
+  if (!form.value.nome.trim()) return
+  emit('submitAndSave', buildFood())
   close()
 }
 </script>
 
 <template>
-  <v-dialog :model-value="modelValue" max-width="500" @update:model-value="emit('update:modelValue', $event)" persistent>
+  <v-dialog :model-value="modelValue" max-width="520" @update:model-value="emit('update:modelValue', $event)" persistent>
     <v-card>
       <v-card-title>Aggiungi alimento manuale</v-card-title>
       <v-card-subtitle>I valori nutrizionali si riferiscono sempre a <b>100g</b>.</v-card-subtitle>
@@ -113,51 +144,71 @@ function submit(): void {
             class="mb-3"
             autofocus
           />
+
           <div class="grid-2">
             <v-text-field
               v-model="form.grammi"
               label="Quantità servita"
-              type="text"
-              inputmode="decimal"
-              suffix="g"
-              @keydown="onDecimalKeydown"
-              @input="onDecimalInput"
+              type="text" inputmode="decimal" suffix="g"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
             />
             <v-text-field
               v-model="form.kcal"
               label="Energia (per 100 g)"
-              type="text"
-              inputmode="decimal"
-              suffix="kcal"
-              @keydown="onDecimalKeydown"
-              @input="onDecimalInput"
+              type="text" inputmode="decimal" suffix="kcal"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
             />
             <v-text-field
               v-model="form.proteine"
-              label="Proteine (per 100 g)"
-              type="text"
-              inputmode="decimal"
-              suffix="g"
-              @keydown="onDecimalKeydown"
-              @input="onDecimalInput"
+              label="Proteine"
+              type="text" inputmode="decimal" suffix="g"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
             />
             <v-text-field
               v-model="form.carboidrati"
-              label="Carboidrati (per 100 g)"
-              type="text"
-              inputmode="decimal"
-              suffix="g"
-              @keydown="onDecimalKeydown"
-              @input="onDecimalInput"
+              label="Carboidrati"
+              type="text" inputmode="decimal" suffix="g"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
             />
             <v-text-field
               v-model="form.grassi"
-              label="Grassi (per 100 g)"
-              type="text"
-              inputmode="decimal"
-              suffix="g"
-              @keydown="onDecimalKeydown"
-              @input="onDecimalInput"
+              label="Grassi"
+              type="text" inputmode="decimal" suffix="g"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
+            />
+          </div>
+
+          <div class="section-label">Valori facoltativi</div>
+          <div class="grid-2">
+            <v-text-field
+              v-model="form.zuccheri"
+              label="Zuccheri"
+              type="text" inputmode="decimal" suffix="g" placeholder="—"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
+            />
+            <v-text-field
+              v-model="form.fibra"
+              label="Fibra"
+              type="text" inputmode="decimal" suffix="g" placeholder="—"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
+            />
+            <v-text-field
+              v-model="form.ferro"
+              label="Ferro"
+              type="text" inputmode="decimal" suffix="mg" placeholder="—"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
+            />
+            <v-text-field
+              v-model="form.calcio"
+              label="Calcio"
+              type="text" inputmode="decimal" suffix="mg" placeholder="—"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
+            />
+            <v-text-field
+              v-model="form.acqua"
+              label="Acqua"
+              type="text" inputmode="decimal" suffix="g" placeholder="—"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
             />
           </div>
         </v-form>
@@ -167,15 +218,29 @@ function submit(): void {
         <v-spacer />
         <v-btn class="app-btn app-btn--text" variant="flat" @click="close">Annulla</v-btn>
         <v-btn class="app-btn app-btn--primary" variant="flat" :disabled="!form.nome.trim()" @click="submit">Aggiungi</v-btn>
+        <v-btn class="app-btn app-btn--primary" variant="flat" :disabled="!form.nome.trim()" @click="submitAndSave">Aggiungi e salva</v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>
 </template>
 
 <style scoped>
-.grid-2 {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
-}
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0 12px;
+  }
+
+  .grid-2 > div {
+    margin-top: 0.5rem;
+  }
+
+.section-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    color: var(--gray-500);
+    text-transform: uppercase;
+    margin: 12px 0 4px;
+  }
 </style>

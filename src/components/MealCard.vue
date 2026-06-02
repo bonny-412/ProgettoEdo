@@ -10,6 +10,7 @@
 import { computed, ref } from 'vue'
 import type { DayKey, Meal, MealType, Food } from '@/types'
 import { useWeekPlan } from '@/composables/useWeekPlan'
+import { useCustomFoodLibrary } from '@/composables/useCustomFoodLibrary'
 import { MEAL_TYPE_COLOR, MEAL_TYPE_OPTIONS } from '@/data/defaults'
 import { formatKcal } from '@/utils/nutrition'
 import { useConfirm } from '@/composables/useConfirm'
@@ -25,6 +26,7 @@ const props = defineProps<{
 
 const plan = useWeekPlan()
 const { confirm } = useConfirm()
+const { save: saveCustomFood } = useCustomFoodLibrary()
 
 const totals = computed(() => plan.totalsForMeal(props.meal))
 const dotColor = computed(() => MEAL_TYPE_COLOR[props.meal.tipo])
@@ -66,6 +68,11 @@ async function removeMeal(): Promise<void> {
 const customDialog = ref(false)
 
 function onAddFood(food: Omit<Food, 'uid'>): void {
+  plan.addFood(props.dayKey, props.meal.uid, food)
+}
+
+function onAddAndSaveFood(food: Omit<Food, 'uid'>): void {
+  saveCustomFood(food.nome, food.per100g)
   plan.addFood(props.dayKey, props.meal.uid, food)
 }
 
@@ -143,7 +150,7 @@ function onNoteInput(ev: Event): void {
     </div>
 
     <!-- Dialog: alimento manuale -->
-    <CustomFoodDialog v-model="customDialog" @submit="onAddFood" />
+    <CustomFoodDialog v-model="customDialog" @submit="onAddFood" @submit-and-save="onAddAndSaveFood" />
 
     <!-- Dialog: modifica pasto -->
     <v-dialog v-model="editDialog" max-width="420">
