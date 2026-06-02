@@ -38,8 +38,7 @@ const DEFAULT_MEAL_TEMPLATES: MealTemplate[] = [
   { nome: 'Spuntino mattina',    tipo: 'spuntino'  },
   { nome: 'Pranzo',              tipo: 'pranzo'    },
   { nome: 'Spuntino pomeriggio', tipo: 'merenda'   },
-  { nome: 'Cena',                tipo: 'cena'      },
-  { nome: 'Spuntino sera',       tipo: 'spuntino'  }
+  { nome: 'Cena',                tipo: 'cena'      }
 ]
 
 /** Crea la lista di pasti predefiniti, ognuno con uid univoco. */

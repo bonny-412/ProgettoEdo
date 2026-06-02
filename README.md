@@ -26,7 +26,7 @@ Web app **Vue 3 + Vite + Vuetify + TypeScript** per la creazione e la stampa di 
 
 ### Piano settimanale
 - 7 giorni (Lunedì → Domenica), navigabili dalla sidebar.
-- Ogni giorno parte con 6 pasti predefiniti: Colazione, Spuntino mattina, Pranzo, Spuntino pomeriggio, Cena, Spuntino sera.
+- Ogni giorno parte con 5 pasti predefiniti: Colazione, Spuntino mattina, Pranzo, Spuntino pomeriggio, Cena.
 - Possibilità di aggiungere pasti extra per ogni giorno.
 - Ogni pasto è modificabile (nome, tipologia) ed eliminabile con conferma.
 
