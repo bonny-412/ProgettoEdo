@@ -117,8 +117,8 @@ const PDF_STYLES = `
   .pf-lbl { font-size: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #4a9e62; }
   .pf-val { font-size: 12px; font-weight: 500; color: #1a2e22; }
   .pdf-body { padding: 0 24px 24px; }
-  .day-section { margin-top: 18px; page-break-inside: avoid; }
-  .day-header { background: #2E7D32; border-radius: 5px 5px 0 0; padding: 6px 12px; display: flex; justify-content: space-between; align-items: center; }
+  .day-section { margin-top: 18px; }
+  .day-header { background: #2E7D32; border-radius: 5px 5px 0 0; padding: 6px 12px; display: flex; justify-content: space-between; align-items: center; page-break-after: avoid; break-after: avoid; }
   .day-name { color: white; font-size: 11px; font-weight: 600; letter-spacing: 0.04em; }
   .day-kcal-total { color: rgba(255,255,255,0.75); font-size: 10px; }
   .day-body { border: 0.5px solid #d4d4d0; border-top: none; border-radius: 0 0 5px 5px; overflow: hidden; }
@@ -131,12 +131,12 @@ const PDF_STYLES = `
   .meal-kcal { font-size: 10px; color: #555; }
   .food-table { width: 100%; border-collapse: collapse; font-size: 10px; }
   .food-table thead { background: #f5f5f3; }
-  .food-table th { padding: 4px 6px; text-align: right; font-size: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: #888; border-bottom: 0.5px solid #e8e8e6; }
+  .food-table th { padding: 4px 6px; text-align: right; font-size: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: #555; border-bottom: 0.5px solid #e8e8e6; }
   .food-table th.col-name { text-align: left; }
   .food-table td { padding: 4px 6px; text-align: right; color: #333; border-bottom: 0.5px solid #f2f2f0; }
   .food-table td.food-name { text-align: left; color: #1a1a1a; }
   .food-table tr:last-child td { border-bottom: none; }
-  .unit-mg { font-size: 8px; color: #bbb; }
+  .unit-mg { font-size: 8px; color: #666; }
   .meal-totals { display: flex; justify-content: flex-end; gap: 14px; padding: 4px 12px 5px; background: #fafaf9; border-top: 0.5px solid #f0f0ee; font-size: 9px; }
   .mt-item { display: flex; gap: 3px; }
   .mt-lbl { color: #888; }
@@ -147,8 +147,8 @@ const PDF_STYLES = `
   .dt-item { display: flex; flex-direction: column; align-items: flex-end; gap: 1px; }
   .dt-lbl { font-size: 8px; color: #6b9e80; text-transform: uppercase; letter-spacing: 0.05em; }
   .dt-item strong { font-size: 12px; font-weight: 600; color: #2E7D32; }
-  .pdf-footer { margin-top: 20px; padding: 8px 24px; border-top: 0.5px solid #e8e8e6; display: flex; justify-content: space-between; font-size: 8px; color: #aaa; }
-  @media print { .day-section { page-break-inside: avoid; } }
+  .pdf-footer { margin-top: 20px; padding: 8px 24px; border-top: 0.5px solid #e8e8e6; display: flex; justify-content: space-between; font-size: 8px; color: #777; }
+  @media print { .meal-block { page-break-inside: avoid; } }
 `
 
 const PRINT_OVERRIDE_STYLES = `
