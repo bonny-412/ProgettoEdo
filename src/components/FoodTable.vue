@@ -61,13 +61,14 @@ function onGramsKeydown(ev: KeyboardEvent): void {
           <th class="ta-right">Fibra</th>
           <th class="ta-right">Ferro</th>
           <th class="ta-right">Calcio</th>
+          <th class="ta-right">Sodio</th>
           <th />
         </tr>
       </thead>
 
       <tbody>
         <tr v-if="foods.length === 0">
-          <td colspan="11" class="food-empty">Nessun alimento — aggiungine uno qui sotto.</td>
+          <td colspan="12" class="food-empty">Nessun alimento — aggiungine uno qui sotto.</td>
         </tr>
 
         <tr v-for="food in foods" :key="food.uid" class="food-row">
@@ -95,6 +96,7 @@ function onGramsKeydown(ev: KeyboardEvent): void {
           <td class="food-num tabular">{{ fmt(extendedForFood(food).fibra) }}</td>
           <td class="food-num tabular food-num--mg">{{ fmt(extendedForFood(food).ferro) }}<span v-if="extendedForFood(food).ferro != null" class="unit-mg">mg</span></td>
           <td class="food-num tabular food-num--mg">{{ fmt(extendedForFood(food).calcio) }}<span v-if="extendedForFood(food).calcio != null" class="unit-mg">mg</span></td>
+          <td class="food-num tabular food-num--mg">{{ fmt(extendedForFood(food).sodio) }}<span v-if="extendedForFood(food).sodio != null" class="unit-mg">mg</span></td>
 
           <td class="col-del">
             <v-btn
@@ -138,7 +140,8 @@ function onGramsKeydown(ev: KeyboardEvent): void {
 .food-table th:nth-child(8)  { width: 46px; }  /* Fibra */
 .food-table th:nth-child(9)  { width: 54px; }  /* Ferro */
 .food-table th:nth-child(10) { width: 58px; }  /* Calcio */
-.food-table th:nth-child(11) { width: 40px; }  /* del */
+.food-table th:nth-child(11) { width: 56px; }  /* Sodio */
+.food-table th:nth-child(12) { width: 40px; }  /* del */
 
 .food-row-header th {
   font-size: 10px;

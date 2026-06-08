@@ -58,10 +58,11 @@ export function extendedForFood(food: Food): NutritionPer100g {
     proteine,
     carboidrati,
     grassi,
-    zuccheri:  p.zuccheri != null ? p.zuccheri * factor : undefined,
+    zuccheri:  p.zuccheri * factor,
     fibra,
     ferro:     p.ferro    != null ? p.ferro    * factor : undefined,
     calcio:    p.calcio   != null ? p.calcio   * factor : undefined,
+    sodio:     p.sodio    != null ? p.sodio    * factor : undefined,
     acqua:     p.acqua    != null ? p.acqua    * factor : undefined
   }
 }
@@ -99,12 +100,7 @@ export function totalsForDay(day: DayPlan): NutritionTotals {
 
 export function extractPer100g(detail: FoodDetail): NutritionPer100g {
   const v = detail.valori_per_100g
-  const z = detail.zuccheri
   const m = detail.minerali
-  let zuccheriTot: number | undefined
-  if (z != null) {
-    zuccheriTot = (z.glucosio_g || 0) + (z.fruttosio_g || 0) + (z.galattosio_g || 0)
-  }
   return {
     kcal:        v && v.energia ? v.energia.kcal : 0,
     proteine:    v ? v.proteine_g    : 0,
@@ -114,7 +110,8 @@ export function extractPer100g(detail: FoodDetail): NutritionPer100g {
     acqua:       v ? v.acqua_g       : undefined,
     ferro:       m ? m.ferro_mg      : undefined,
     calcio:      m ? m.calcio_mg     : undefined,
-    zuccheri:    zuccheriTot
+    sodio:       m ? m.sodio_mg      : undefined,
+    zuccheri:    v ? (v.carboidrati_solubili_g ?? 0) : 0
   }
 }
 

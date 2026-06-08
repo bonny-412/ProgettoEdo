@@ -21,10 +21,11 @@ export interface NutritionPer100g {
   proteine: number
   carboidrati: number
   grassi: number
-  zuccheri?: number
+  zuccheri: number
   fibra?: number
   ferro?: number    // mg
   calcio?: number   // mg
+  sodio?: number    // mg
   acqua?: number    // g
 }
 
@@ -96,6 +97,7 @@ export interface FoodDetail {
     proteine_g: number
     lipidi_g: number
     carboidrati_g: number
+    carboidrati_solubili_g?: number
     fibra_g?: number
     acqua_g?: number
     alcol?: number
@@ -104,6 +106,7 @@ export interface FoodDetail {
   minerali?: {
     ferro_mg?: number
     calcio_mg?: number
+    sodio_mg?: number
   }
   zuccheri?: {
     glucosio_g?: number

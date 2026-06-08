@@ -24,6 +24,7 @@ interface FormState {
   fibra: string
   ferro: string
   calcio: string
+  sodio: string
   acqua: string
 }
 
@@ -38,6 +39,7 @@ const initialForm = (): FormState => ({
   fibra: '',
   ferro: '',
   calcio: '',
+  sodio: '',
   acqua: ''
 })
 
@@ -110,6 +112,7 @@ function buildFood(): Omit<Food, 'uid'> {
       fibra:       parseOpt(form.value.fibra),
       ferro:       parseOpt(form.value.ferro),
       calcio:      parseOpt(form.value.calcio),
+      sodio:       parseOpt(form.value.sodio),
       acqua:       parseOpt(form.value.acqua)
     },
     custom: true
@@ -201,6 +204,12 @@ function submitAndSave(): void {
             <v-text-field
               v-model="form.calcio"
               label="Calcio"
+              type="text" inputmode="decimal" suffix="mg" placeholder="—"
+              @keydown="onDecimalKeydown" @input="onDecimalInput"
+            />
+            <v-text-field
+              v-model="form.sodio"
+              label="Sodio"
               type="text" inputmode="decimal" suffix="mg" placeholder="—"
               @keydown="onDecimalKeydown" @input="onDecimalInput"
             />

@@ -33,6 +33,7 @@ function buildMealRows(meal: Meal): string {
       '<td>' + fmtOpt(e.fibra) + '</td>' +
       '<td>' + fmtOpt(e.ferro) + ' <span class="unit-mg">mg</span></td>' +
       '<td>' + fmtOpt(e.calcio) + ' <span class="unit-mg">mg</span></td>' +
+      '<td>' + fmtOpt(e.sodio) + ' <span class="unit-mg">mg</span></td>' +
       '</tr>'
   }).join('')
 }
@@ -64,6 +65,7 @@ function buildMealBlock(meal: Meal): string {
         '<th>Fibra (g)</th>' +
         '<th>Ferro</th>' +
         '<th>Calcio</th>' +
+        '<th>Sodio</th>' +
       '</tr></thead>' +
       '<tbody>' + buildMealRows(meal) + '</tbody>' +
     '</table>' +

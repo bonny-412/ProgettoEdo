@@ -23,7 +23,8 @@
     },
     "minerali": {
         "ferro_mg": 2.8,
-        "calcio_mg": 148
+        "calcio_mg": 148,
+        "sodio_mg": 104
     },
     "zuccheri": {
         "glucosio_g": 1.5,
