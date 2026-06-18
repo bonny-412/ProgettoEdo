@@ -18,11 +18,13 @@
     "fibra_g" : 1.6,
     "acqua_g" : 31.1,
     "alcol" : 0.0,
-    "colesterolo_mg" : 75
+    "colesterolo_mg" : 75,
+    "carboidrati_solubili_g": 1.1
   },
   "minerali" : {
     "ferro_mg" : 2,
-    "calcio_mg" : 80
+    "calcio_mg" : 80,
+    "sodio_mg": 390
   },
   "zuccheri" : {
     "glucosio_g" : 0.2,

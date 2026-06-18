@@ -1,6 +1,6 @@
 {
   "id" : 900104,
-  "nome" : "CONFETTI ALLA MANDORLA ",
+  "nome" : "CONFETTI ALLA MANDORLA",
   "anno" : 2022,
   "categoria" : {
     "codice" : 14004,
@@ -18,11 +18,13 @@
     "fibra_g" : 4.3,
     "acqua_g" : 2.3,
     "alcol" : 0.0,
-    "colesterolo_mg" : 0
+    "colesterolo_mg" : 0,
+    "carboidrati_solubili_g": 67.2
   },
   "minerali" : {
     "ferro_mg" : 1.2,
-    "calcio_mg" : 83
+    "calcio_mg" : 83,
+    "sodio_mg": 7
   },
   "zuccheri" : {
     "glucosio_g" : 0.0,
