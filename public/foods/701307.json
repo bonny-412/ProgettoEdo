@@ -1,6 +1,6 @@
 {
   "id" : 701307,
-  "nome" : "BISCOTTI INTEGRALI 4",
+  "nome" : "BISCOTTI INTEGRALI",
   "anno" : 2022,
   "categoria" : {
     "codice" : 15007,
@@ -18,11 +18,13 @@
     "fibra_g" : 8.5,
     "acqua_g" : 2.1,
     "alcol" : 0.0,
-    "colesterolo_mg" : 15
+    "colesterolo_mg" : 15,
+    "carboidrati_solubili_g": 19.3
   },
   "minerali" : {
     "ferro_mg" : 1.9,
-    "calcio_mg" : 26
+    "calcio_mg" : 26,
+    "sodio_mg": 284
   },
   "zuccheri" : {
     "glucosio_g" : 0.0,

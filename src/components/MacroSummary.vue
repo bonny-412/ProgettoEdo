@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useWeekPlan } from '@/composables/useWeekPlan'
-import { formatKcal, percentOf, round0, round1, extendedForFood, calcKcal } from '@/utils/nutrition'
+import { formatKcal, percentOf, round1, extendedForFood, calcKcal } from '@/utils/nutrition'
 
 const plan = useWeekPlan()
 
@@ -20,9 +20,9 @@ const macros = computed(() => {
 
   return {
     kcal:        { value: kcal,          target: obiettivo,    percent: percentOf(kcal,          obiettivo)   },
-    proteine:    { value: t.proteine,    target: targetProt,   percent: percentOf(t.proteine,    targetProt),   kcalPercent: kcal > 0 ? Math.round(kcalProt  / kcal * 100) : 0 },
-    carboidrati: { value: t.carboidrati, target: targetCarbs,  percent: percentOf(t.carboidrati, targetCarbs),  kcalPercent: kcal > 0 ? Math.round(kcalCarbs / kcal * 100) : 0 },
-    grassi:      { value: t.grassi,      target: targetFats,   percent: percentOf(t.grassi,      targetFats),   kcalPercent: kcal > 0 ? Math.round(kcalFats  / kcal * 100) : 0 }
+    proteine:    { value: t.proteine,    target: targetProt,   percent: percentOf(t.proteine,    targetProt),   kcalPercent: kcal > 0 ? round1(kcalProt  / kcal * 100) : 0 },
+    carboidrati: { value: t.carboidrati, target: targetCarbs,  percent: percentOf(t.carboidrati, targetCarbs),  kcalPercent: kcal > 0 ? round1(kcalCarbs / kcal * 100) : 0 },
+    grassi:      { value: t.grassi,      target: targetFats,   percent: percentOf(t.grassi,      targetFats),   kcalPercent: kcal > 0 ? round1(kcalFats  / kcal * 100) : 0 }
   }
 })
 
@@ -47,7 +47,7 @@ const extra = computed(() => {
   const kcalFibra = fibra * 2
   return {
     zuccheri: { value: zuccheri },
-    fibra:    { value: hasFibra ? fibra : null, percent: hasFibra ? percentOf(fibra, targetFibra) : 0, kcalPercent: hasFibra && kcal > 0 ? Math.round(kcalFibra / kcal * 100) : null },
+    fibra:    { value: hasFibra ? fibra : null, percent: hasFibra ? percentOf(fibra, targetFibra) : 0, kcalPercent: hasFibra && kcal > 0 ? round1(kcalFibra / kcal * 100) : null },
     ferro:    { value: hasFerro  ? ferro  : null },
     calcio:   { value: hasCalcio ? calcio : null },
     sodio:    { value: hasSodio  ? sodio  : null },
@@ -74,7 +74,7 @@ const extra = computed(() => {
         <div v-if="macros.proteine.kcalPercent > 0" class="macro-card-kcalpct fill-red-text">{{ macros.proteine.kcalPercent }}%</div>
       </div>
       <div class="macro-card-value tabular">
-        {{ round0(macros.proteine.value) }}<span class="macro-card-unit">g</span>
+        {{ round1(macros.proteine.value) }}<span class="macro-card-unit">g</span>
       </div>
       <div class="macro-progress">
         <div class="macro-progress-fill fill-red" :style="{ width: macros.proteine.kcalPercent + '%' }" />
@@ -87,7 +87,7 @@ const extra = computed(() => {
         <div v-if="macros.carboidrati.kcalPercent > 0" class="macro-card-kcalpct fill-amber-text">{{ macros.carboidrati.kcalPercent }}%</div>
       </div>
       <div class="macro-card-value tabular">
-        {{ round0(macros.carboidrati.value) }}<span class="macro-card-unit">g</span>
+        {{ round1(macros.carboidrati.value) }}<span class="macro-card-unit">g</span>
       </div>
       <div class="macro-progress">
         <div class="macro-progress-fill fill-amber" :style="{ width: macros.carboidrati.kcalPercent + '%' }" />
@@ -100,7 +100,7 @@ const extra = computed(() => {
         <div v-if="macros.grassi.kcalPercent > 0" class="macro-card-kcalpct fill-blue-text">{{ macros.grassi.kcalPercent }}%</div>
       </div>
       <div class="macro-card-value tabular">
-        {{ round0(macros.grassi.value) }}<span class="macro-card-unit">g</span>
+        {{ round1(macros.grassi.value) }}<span class="macro-card-unit">g</span>
       </div>
       <div class="macro-progress">
         <div class="macro-progress-fill fill-blue" :style="{ width: macros.grassi.kcalPercent + '%' }" />
@@ -144,7 +144,7 @@ const extra = computed(() => {
       <div class="macro-card-label">CALCIO</div>
       <div class="macro-card-value macro-card-value--sm tabular">
         <template v-if="extra.calcio.value != null">
-          {{ round0(extra.calcio.value) }}<span class="macro-card-unit">mg</span>
+          {{ round1(extra.calcio.value) }}<span class="macro-card-unit">mg</span>
         </template>
         <span v-else class="macro-card-na">—</span>
       </div>
@@ -154,7 +154,7 @@ const extra = computed(() => {
       <div class="macro-card-label">SODIO</div>
       <div class="macro-card-value macro-card-value--sm tabular">
         <template v-if="extra.sodio.value != null">
-          {{ round0(extra.sodio.value) }}<span class="macro-card-unit">mg</span>
+          {{ round1(extra.sodio.value) }}<span class="macro-card-unit">mg</span>
         </template>
         <span v-else class="macro-card-na">—</span>
       </div>
@@ -164,7 +164,7 @@ const extra = computed(() => {
       <div class="macro-card-label">ACQUA</div>
       <div class="macro-card-value macro-card-value--sm tabular">
         <template v-if="extra.acqua.value != null">
-          {{ round0(extra.acqua.value) }}<span class="macro-card-unit">g</span>
+          {{ round1(extra.acqua.value) }}<span class="macro-card-unit">g</span>
         </template>
         <span v-else class="macro-card-na">—</span>
       </div>
