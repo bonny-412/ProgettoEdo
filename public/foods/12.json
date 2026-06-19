@@ -14,15 +14,17 @@
     },
     "proteine_g" : 11.0,
     "lipidi_g" : 0.7,
-    "carboidrati_g" : 1.6,
+    "carboidrati_g" : 71.6,
     "fibra_g" : 2.2,
     "acqua_g" : 14.2,
     "alcol" : 0.0,
-    "colesterolo_mg" : 0
+    "colesterolo_mg" : 0,
+    "carboidrati_solubili_g": 1.7
   },
   "minerali" : {
     "ferro_mg" : 0.7,
-    "calcio_mg" : 17
+    "calcio_mg" : 17,
+    "sodio_mg": 3
   },
   "zuccheri" : {
     "glucosio_g" : 0.0,
